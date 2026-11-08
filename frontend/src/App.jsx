@@ -77,17 +77,14 @@ function App() {
 
   return (
     <div className="app">
-      <aside className="sidebar">
-        <div className="brand">
-          <div className="brand-icon">Y</div>
-          <div>
-            <h2>
-              YottaFlex<span>.ai</span>
-            </h2>
-            <small>MANUFACTURING SYSTEM</small>
-          </div>
-        </div>
-
+    <aside className="sidebar">
+    <div className="brand">
+      <div className="brand-icon">S</div>
+      <div className="brand-text">
+        <div className="brand-title">Smart Manufacturing</div>
+        <div className="brand-subtitle">Production Planning & Control</div>
+      </div>
+    </div>
         <div className="menu-label">WORKSPACE</div>
 
         <nav>
@@ -135,7 +132,7 @@ function App() {
               />
               {backendReady ? "System ready" : "Connection pending"}
             </span>
-            <div className="avatar">Y</div>
+            <div className="avatar">S</div>
           </div>
         </header>
 
