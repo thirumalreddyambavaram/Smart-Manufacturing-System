@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "machine_id": 1,
+    "reason": "Preventive Spindle Bearing Overhaul",
+    "start_time": "2026-11-10 08:00:00",
+    "end_time": "2026-11-10 14:00:00",
+    "status": "PLANNED"
+  },
+  {
+    "id": 2,
+    "machine_id": 2,
+    "reason": "Scheduled CNC Axis Recalibration",
+    "start_time": "2026-11-11 08:00:00",
+    "end_time": "2026-11-11 14:00:00",
+    "status": "PLANNED"
+  },
+  {
+    "id": 3,
+    "machine_id": 3,
+    "reason": "Hydraulic Fluid & Filter Replacement",
+    "start_time": "2026-11-12 08:00:00",
+    "end_time": "2026-11-12 16:00:00",
+    "status": "PLANNED"
+  },
+  {
+    "id": 4,
+    "machine_id": 4,
+    "reason": "Coolant Flush & Sludge Extraction",
+    "start_time": "2026-11-13 08:00:00",
+    "end_time": "2026-11-13 16:00:00",
+    "status": "PLANNED"
+  },
+  {
+    "id": 5,
+    "machine_id": 5,
+    "reason": "Electrical Control Cabinet Servicing",
+    "start_time": "2026-11-14 08:00:00",
+    "end_time": "2026-11-14 14:00:00",
+    "status": "PLANNED"
+  },
+  {
+    "id": 6,
+    "machine_id": 6,
+    "reason": "Preventive Spindle Bearing Overhaul",
+    "start_time": "2026-11-15 08:00:00",
+    "end_time": "2026-11-15 16:00:00",
+    "status": "PLANNED"
+  },
+  {
+    "id": 7,
+    "machine_id": 7,
+    "reason": "Scheduled CNC Axis Recalibration",
+    "start_time": "2026-11-16 08:00:00",
+    "end_time": "2026-11-16 16:00:00",
+    "status": "PLANNED"
+  },
+  {
+    "id": 8,
+    "machine_id": 8,
+    "reason": "Hydraulic Fluid & Filter Replacement",
+    "start_time": "2026-11-17 08:00:00",
+    "end_time": "2026-11-17 14:00:00",
+    "status": "PLANNED"
+  },
+  {
+    "id": 9,
+    "machine_id": 9,
+    "reason": "Coolant Flush & Sludge Extraction",
+    "start_time": "2026-11-18 08:00:00",
+    "end_time": "2026-11-18 16:00:00",
+    "status": "PLANNED"
+  },
+  {
+    "id": 10,
+    "machine_id": 10,
+    "reason": "Electrical Control Cabinet Servicing",
+    "start_time": "2026-11-19 08:00:00",
+    "end_time": "2026-11-19 16:00:00",
+    "status": "PLANNED"
+  }
+]

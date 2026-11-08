@@ -1,0 +1,201 @@
+id,material_code,material_name,unit_of_measure,current_stock,minimum_stock,is_active
+1,MAT-2026-000001,Aerospace Alloy 7075-T6 (Grade-01),KG,5038.0,298.0,True
+2,MAT-2026-000002,Titanium Grade 5 Round Bar (Grade-01),KG,4437.0,716.0,True
+3,MAT-2026-000003,Austenitic Stainless Steel 316L (Grade-01),KG,3569.0,205.0,True
+4,MAT-2026-000004,Chromium-Molybdenum 4140 Steel (Grade-01),KG,2825.0,276.0,True
+5,MAT-2026-000005,Precision Cast Bronze Bushing (Grade-01),KG,5192.0,425.0,True
+6,MAT-2026-000006,Nickel Alloy Inconel 718 (Grade-01),KG,6662.0,698.0,True
+7,MAT-2026-000007,Industrial Tool Steel D2 (Grade-01),KG,5928.0,276.0,True
+8,MAT-2026-000008,Brass Extrusion Rod CZ121 (Grade-01),KG,8055.0,745.0,True
+9,MAT-2026-000009,Carbon Fiber Reinforced Polymer (Grade-01),KG,9011.0,261.0,True
+10,MAT-2026-000010,High-Density Polyethylene Resin (Grade-01),KG,4995.0,242.0,True
+11,MAT-2026-000011,Aerospace Alloy 7075-T6 (Grade-02),KG,8318.0,587.0,True
+12,MAT-2026-000012,Titanium Grade 5 Round Bar (Grade-02),KG,2043.0,691.0,True
+13,MAT-2026-000013,Austenitic Stainless Steel 316L (Grade-02),KG,2296.0,443.0,True
+14,MAT-2026-000014,Chromium-Molybdenum 4140 Steel (Grade-02),KG,9249.0,229.0,True
+15,MAT-2026-000015,Precision Cast Bronze Bushing (Grade-02),KG,8180.0,365.0,True
+16,MAT-2026-000016,Nickel Alloy Inconel 718 (Grade-02),KG,4494.0,728.0,True
+17,MAT-2026-000017,Industrial Tool Steel D2 (Grade-02),KG,6115.0,729.0,True
+18,MAT-2026-000018,Brass Extrusion Rod CZ121 (Grade-02),KG,7451.0,578.0,True
+19,MAT-2026-000019,Carbon Fiber Reinforced Polymer (Grade-02),KG,7988.0,243.0,True
+20,MAT-2026-000020,High-Density Polyethylene Resin (Grade-02),KG,9022.0,515.0,True
+21,MAT-2026-000021,Aerospace Alloy 7075-T6 (Grade-03),KG,5835.0,214.0,True
+22,MAT-2026-000022,Titanium Grade 5 Round Bar (Grade-03),KG,8917.0,322.0,True
+23,MAT-2026-000023,Austenitic Stainless Steel 316L (Grade-03),KG,2255.0,499.0,True
+24,MAT-2026-000024,Chromium-Molybdenum 4140 Steel (Grade-03),KG,6764.0,251.0,True
+25,MAT-2026-000025,Precision Cast Bronze Bushing (Grade-03),KG,9452.0,245.0,True
+26,MAT-2026-000026,Nickel Alloy Inconel 718 (Grade-03),KG,7981.0,716.0,True
+27,MAT-2026-000027,Industrial Tool Steel D2 (Grade-03),KG,8346.0,214.0,True
+28,MAT-2026-000028,Brass Extrusion Rod CZ121 (Grade-03),KG,5164.0,726.0,True
+29,MAT-2026-000029,Carbon Fiber Reinforced Polymer (Grade-03),KG,4300.0,642.0,True
+30,MAT-2026-000030,High-Density Polyethylene Resin (Grade-03),KG,2163.0,671.0,True
+31,MAT-2026-000031,Aerospace Alloy 7075-T6 (Grade-04),KG,7974.0,547.0,True
+32,MAT-2026-000032,Titanium Grade 5 Round Bar (Grade-04),KG,7457.0,405.0,True
+33,MAT-2026-000033,Austenitic Stainless Steel 316L (Grade-04),KG,7635.0,523.0,True
+34,MAT-2026-000034,Chromium-Molybdenum 4140 Steel (Grade-04),KG,7248.0,771.0,True
+35,MAT-2026-000035,Precision Cast Bronze Bushing (Grade-04),KG,9300.0,723.0,True
+36,MAT-2026-000036,Nickel Alloy Inconel 718 (Grade-04),KG,7939.0,740.0,True
+37,MAT-2026-000037,Industrial Tool Steel D2 (Grade-04),KG,9582.0,696.0,True
+38,MAT-2026-000038,Brass Extrusion Rod CZ121 (Grade-04),KG,4294.0,463.0,True
+39,MAT-2026-000039,Carbon Fiber Reinforced Polymer (Grade-04),KG,4585.0,726.0,True
+40,MAT-2026-000040,High-Density Polyethylene Resin (Grade-04),KG,9765.0,606.0,True
+41,MAT-2026-000041,Aerospace Alloy 7075-T6 (Grade-05),KG,8859.0,768.0,True
+42,MAT-2026-000042,Titanium Grade 5 Round Bar (Grade-05),KG,8698.0,783.0,True
+43,MAT-2026-000043,Austenitic Stainless Steel 316L (Grade-05),KG,4910.0,566.0,True
+44,MAT-2026-000044,Chromium-Molybdenum 4140 Steel (Grade-05),KG,3459.0,354.0,True
+45,MAT-2026-000045,Precision Cast Bronze Bushing (Grade-05),KG,6105.0,355.0,True
+46,MAT-2026-000046,Nickel Alloy Inconel 718 (Grade-05),KG,5816.0,727.0,True
+47,MAT-2026-000047,Industrial Tool Steel D2 (Grade-05),KG,4391.0,662.0,True
+48,MAT-2026-000048,Brass Extrusion Rod CZ121 (Grade-05),KG,3246.0,208.0,True
+49,MAT-2026-000049,Carbon Fiber Reinforced Polymer (Grade-05),KG,2313.0,670.0,True
+50,MAT-2026-000050,High-Density Polyethylene Resin (Grade-05),KG,7670.0,796.0,True
+51,MAT-2026-000051,Aerospace Alloy 7075-T6 (Grade-06),KG,4187.0,751.0,True
+52,MAT-2026-000052,Titanium Grade 5 Round Bar (Grade-06),KG,8212.0,723.0,True
+53,MAT-2026-000053,Austenitic Stainless Steel 316L (Grade-06),KG,3884.0,326.0,True
+54,MAT-2026-000054,Chromium-Molybdenum 4140 Steel (Grade-06),KG,8516.0,699.0,True
+55,MAT-2026-000055,Precision Cast Bronze Bushing (Grade-06),KG,5538.0,774.0,True
+56,MAT-2026-000056,Nickel Alloy Inconel 718 (Grade-06),KG,3210.0,355.0,True
+57,MAT-2026-000057,Industrial Tool Steel D2 (Grade-06),KG,5942.0,451.0,True
+58,MAT-2026-000058,Brass Extrusion Rod CZ121 (Grade-06),KG,6642.0,218.0,True
+59,MAT-2026-000059,Carbon Fiber Reinforced Polymer (Grade-06),KG,6978.0,641.0,True
+60,MAT-2026-000060,High-Density Polyethylene Resin (Grade-06),KG,6114.0,791.0,True
+61,MAT-2026-000061,Aerospace Alloy 7075-T6 (Grade-07),KG,5043.0,291.0,True
+62,MAT-2026-000062,Titanium Grade 5 Round Bar (Grade-07),KG,3513.0,614.0,True
+63,MAT-2026-000063,Austenitic Stainless Steel 316L (Grade-07),KG,4759.0,257.0,True
+64,MAT-2026-000064,Chromium-Molybdenum 4140 Steel (Grade-07),KG,4565.0,311.0,True
+65,MAT-2026-000065,Precision Cast Bronze Bushing (Grade-07),KG,6975.0,400.0,True
+66,MAT-2026-000066,Nickel Alloy Inconel 718 (Grade-07),KG,2095.0,476.0,True
+67,MAT-2026-000067,Industrial Tool Steel D2 (Grade-07),KG,7889.0,567.0,True
+68,MAT-2026-000068,Brass Extrusion Rod CZ121 (Grade-07),KG,5108.0,744.0,True
+69,MAT-2026-000069,Carbon Fiber Reinforced Polymer (Grade-07),KG,5771.0,264.0,True
+70,MAT-2026-000070,High-Density Polyethylene Resin (Grade-07),KG,7118.0,222.0,True
+71,MAT-2026-000071,Aerospace Alloy 7075-T6 (Grade-08),KG,3254.0,424.0,True
+72,MAT-2026-000072,Titanium Grade 5 Round Bar (Grade-08),KG,6018.0,406.0,True
+73,MAT-2026-000073,Austenitic Stainless Steel 316L (Grade-08),KG,9541.0,613.0,True
+74,MAT-2026-000074,Chromium-Molybdenum 4140 Steel (Grade-08),KG,2526.0,300.0,True
+75,MAT-2026-000075,Precision Cast Bronze Bushing (Grade-08),KG,9862.0,408.0,True
+76,MAT-2026-000076,Nickel Alloy Inconel 718 (Grade-08),KG,5874.0,443.0,True
+77,MAT-2026-000077,Industrial Tool Steel D2 (Grade-08),KG,9611.0,351.0,True
+78,MAT-2026-000078,Brass Extrusion Rod CZ121 (Grade-08),KG,5298.0,634.0,True
+79,MAT-2026-000079,Carbon Fiber Reinforced Polymer (Grade-08),KG,5028.0,391.0,True
+80,MAT-2026-000080,High-Density Polyethylene Resin (Grade-08),KG,9330.0,599.0,True
+81,MAT-2026-000081,Aerospace Alloy 7075-T6 (Grade-09),KG,4721.0,512.0,True
+82,MAT-2026-000082,Titanium Grade 5 Round Bar (Grade-09),KG,8648.0,252.0,True
+83,MAT-2026-000083,Austenitic Stainless Steel 316L (Grade-09),KG,2412.0,298.0,True
+84,MAT-2026-000084,Chromium-Molybdenum 4140 Steel (Grade-09),KG,7354.0,664.0,True
+85,MAT-2026-000085,Precision Cast Bronze Bushing (Grade-09),KG,6233.0,428.0,True
+86,MAT-2026-000086,Nickel Alloy Inconel 718 (Grade-09),KG,5886.0,329.0,True
+87,MAT-2026-000087,Industrial Tool Steel D2 (Grade-09),KG,2477.0,492.0,True
+88,MAT-2026-000088,Brass Extrusion Rod CZ121 (Grade-09),KG,8460.0,382.0,True
+89,MAT-2026-000089,Carbon Fiber Reinforced Polymer (Grade-09),KG,8084.0,689.0,True
+90,MAT-2026-000090,High-Density Polyethylene Resin (Grade-09),KG,5914.0,638.0,True
+91,MAT-2026-000091,Aerospace Alloy 7075-T6 (Grade-10),KG,4996.0,604.0,True
+92,MAT-2026-000092,Titanium Grade 5 Round Bar (Grade-10),KG,4656.0,263.0,True
+93,MAT-2026-000093,Austenitic Stainless Steel 316L (Grade-10),KG,6886.0,429.0,True
+94,MAT-2026-000094,Chromium-Molybdenum 4140 Steel (Grade-10),KG,6471.0,342.0,True
+95,MAT-2026-000095,Precision Cast Bronze Bushing (Grade-10),KG,6488.0,427.0,True
+96,MAT-2026-000096,Nickel Alloy Inconel 718 (Grade-10),KG,5191.0,723.0,True
+97,MAT-2026-000097,Industrial Tool Steel D2 (Grade-10),KG,6559.0,670.0,True
+98,MAT-2026-000098,Brass Extrusion Rod CZ121 (Grade-10),KG,8280.0,271.0,True
+99,MAT-2026-000099,Carbon Fiber Reinforced Polymer (Grade-10),KG,5283.0,719.0,True
+100,MAT-2026-000100,High-Density Polyethylene Resin (Grade-10),KG,8025.0,785.0,True
+101,MAT-2026-000101,Aerospace Alloy 7075-T6 (Grade-11),KG,6230.0,289.0,True
+102,MAT-2026-000102,Titanium Grade 5 Round Bar (Grade-11),KG,9679.0,389.0,True
+103,MAT-2026-000103,Austenitic Stainless Steel 316L (Grade-11),KG,8872.0,293.0,True
+104,MAT-2026-000104,Chromium-Molybdenum 4140 Steel (Grade-11),KG,2623.0,788.0,True
+105,MAT-2026-000105,Precision Cast Bronze Bushing (Grade-11),KG,9517.0,672.0,True
+106,MAT-2026-000106,Nickel Alloy Inconel 718 (Grade-11),KG,2322.0,436.0,True
+107,MAT-2026-000107,Industrial Tool Steel D2 (Grade-11),KG,6557.0,766.0,True
+108,MAT-2026-000108,Brass Extrusion Rod CZ121 (Grade-11),KG,7615.0,519.0,True
+109,MAT-2026-000109,Carbon Fiber Reinforced Polymer (Grade-11),KG,3328.0,776.0,True
+110,MAT-2026-000110,High-Density Polyethylene Resin (Grade-11),KG,4765.0,457.0,True
+111,MAT-2026-000111,Aerospace Alloy 7075-T6 (Grade-12),KG,8728.0,383.0,True
+112,MAT-2026-000112,Titanium Grade 5 Round Bar (Grade-12),KG,6254.0,480.0,True
+113,MAT-2026-000113,Austenitic Stainless Steel 316L (Grade-12),KG,7287.0,794.0,True
+114,MAT-2026-000114,Chromium-Molybdenum 4140 Steel (Grade-12),KG,9839.0,557.0,True
+115,MAT-2026-000115,Precision Cast Bronze Bushing (Grade-12),KG,9926.0,240.0,True
+116,MAT-2026-000116,Nickel Alloy Inconel 718 (Grade-12),KG,2449.0,764.0,True
+117,MAT-2026-000117,Industrial Tool Steel D2 (Grade-12),KG,6445.0,476.0,True
+118,MAT-2026-000118,Brass Extrusion Rod CZ121 (Grade-12),KG,3977.0,513.0,True
+119,MAT-2026-000119,Carbon Fiber Reinforced Polymer (Grade-12),KG,3028.0,491.0,True
+120,MAT-2026-000120,High-Density Polyethylene Resin (Grade-12),KG,4929.0,563.0,True
+121,MAT-2026-000121,Aerospace Alloy 7075-T6 (Grade-13),KG,7382.0,266.0,True
+122,MAT-2026-000122,Titanium Grade 5 Round Bar (Grade-13),KG,9405.0,335.0,True
+123,MAT-2026-000123,Austenitic Stainless Steel 316L (Grade-13),KG,7647.0,358.0,True
+124,MAT-2026-000124,Chromium-Molybdenum 4140 Steel (Grade-13),KG,9218.0,638.0,True
+125,MAT-2026-000125,Precision Cast Bronze Bushing (Grade-13),KG,6623.0,384.0,True
+126,MAT-2026-000126,Nickel Alloy Inconel 718 (Grade-13),KG,4523.0,661.0,True
+127,MAT-2026-000127,Industrial Tool Steel D2 (Grade-13),KG,8567.0,525.0,True
+128,MAT-2026-000128,Brass Extrusion Rod CZ121 (Grade-13),KG,5179.0,405.0,True
+129,MAT-2026-000129,Carbon Fiber Reinforced Polymer (Grade-13),KG,8571.0,743.0,True
+130,MAT-2026-000130,High-Density Polyethylene Resin (Grade-13),KG,9167.0,405.0,True
+131,MAT-2026-000131,Aerospace Alloy 7075-T6 (Grade-14),KG,2257.0,405.0,True
+132,MAT-2026-000132,Titanium Grade 5 Round Bar (Grade-14),KG,7600.0,325.0,True
+133,MAT-2026-000133,Austenitic Stainless Steel 316L (Grade-14),KG,6820.0,553.0,True
+134,MAT-2026-000134,Chromium-Molybdenum 4140 Steel (Grade-14),KG,5095.0,561.0,True
+135,MAT-2026-000135,Precision Cast Bronze Bushing (Grade-14),KG,5935.0,557.0,True
+136,MAT-2026-000136,Nickel Alloy Inconel 718 (Grade-14),KG,7639.0,333.0,True
+137,MAT-2026-000137,Industrial Tool Steel D2 (Grade-14),KG,4770.0,400.0,True
+138,MAT-2026-000138,Brass Extrusion Rod CZ121 (Grade-14),KG,4055.0,694.0,True
+139,MAT-2026-000139,Carbon Fiber Reinforced Polymer (Grade-14),KG,2764.0,783.0,True
+140,MAT-2026-000140,High-Density Polyethylene Resin (Grade-14),KG,6899.0,575.0,True
+141,MAT-2026-000141,Aerospace Alloy 7075-T6 (Grade-15),KG,2987.0,704.0,True
+142,MAT-2026-000142,Titanium Grade 5 Round Bar (Grade-15),KG,8174.0,705.0,True
+143,MAT-2026-000143,Austenitic Stainless Steel 316L (Grade-15),KG,2137.0,498.0,True
+144,MAT-2026-000144,Chromium-Molybdenum 4140 Steel (Grade-15),KG,8466.0,503.0,True
+145,MAT-2026-000145,Precision Cast Bronze Bushing (Grade-15),KG,2983.0,541.0,True
+146,MAT-2026-000146,Nickel Alloy Inconel 718 (Grade-15),KG,6558.0,487.0,True
+147,MAT-2026-000147,Industrial Tool Steel D2 (Grade-15),KG,2038.0,644.0,True
+148,MAT-2026-000148,Brass Extrusion Rod CZ121 (Grade-15),KG,9482.0,589.0,True
+149,MAT-2026-000149,Carbon Fiber Reinforced Polymer (Grade-15),KG,4204.0,236.0,True
+150,MAT-2026-000150,High-Density Polyethylene Resin (Grade-15),KG,4444.0,317.0,True
+151,MAT-2026-000151,Aerospace Alloy 7075-T6 (Grade-16),KG,3187.0,737.0,True
+152,MAT-2026-000152,Titanium Grade 5 Round Bar (Grade-16),KG,6461.0,336.0,True
+153,MAT-2026-000153,Austenitic Stainless Steel 316L (Grade-16),KG,3185.0,296.0,True
+154,MAT-2026-000154,Chromium-Molybdenum 4140 Steel (Grade-16),KG,8226.0,262.0,True
+155,MAT-2026-000155,Precision Cast Bronze Bushing (Grade-16),KG,4834.0,484.0,True
+156,MAT-2026-000156,Nickel Alloy Inconel 718 (Grade-16),KG,2842.0,465.0,True
+157,MAT-2026-000157,Industrial Tool Steel D2 (Grade-16),KG,4417.0,788.0,True
+158,MAT-2026-000158,Brass Extrusion Rod CZ121 (Grade-16),KG,6587.0,379.0,True
+159,MAT-2026-000159,Carbon Fiber Reinforced Polymer (Grade-16),KG,6572.0,412.0,True
+160,MAT-2026-000160,High-Density Polyethylene Resin (Grade-16),KG,9963.0,598.0,True
+161,MAT-2026-000161,Aerospace Alloy 7075-T6 (Grade-17),KG,8440.0,216.0,True
+162,MAT-2026-000162,Titanium Grade 5 Round Bar (Grade-17),KG,5005.0,309.0,True
+163,MAT-2026-000163,Austenitic Stainless Steel 316L (Grade-17),KG,8120.0,562.0,True
+164,MAT-2026-000164,Chromium-Molybdenum 4140 Steel (Grade-17),KG,2333.0,774.0,True
+165,MAT-2026-000165,Precision Cast Bronze Bushing (Grade-17),KG,7828.0,665.0,True
+166,MAT-2026-000166,Nickel Alloy Inconel 718 (Grade-17),KG,4452.0,375.0,True
+167,MAT-2026-000167,Industrial Tool Steel D2 (Grade-17),KG,4637.0,562.0,True
+168,MAT-2026-000168,Brass Extrusion Rod CZ121 (Grade-17),KG,5067.0,756.0,True
+169,MAT-2026-000169,Carbon Fiber Reinforced Polymer (Grade-17),KG,2439.0,540.0,True
+170,MAT-2026-000170,High-Density Polyethylene Resin (Grade-17),KG,8538.0,570.0,True
+171,MAT-2026-000171,Aerospace Alloy 7075-T6 (Grade-18),KG,9198.0,689.0,True
+172,MAT-2026-000172,Titanium Grade 5 Round Bar (Grade-18),KG,2410.0,305.0,True
+173,MAT-2026-000173,Austenitic Stainless Steel 316L (Grade-18),KG,4869.0,351.0,True
+174,MAT-2026-000174,Chromium-Molybdenum 4140 Steel (Grade-18),KG,7693.0,465.0,True
+175,MAT-2026-000175,Precision Cast Bronze Bushing (Grade-18),KG,7435.0,571.0,True
+176,MAT-2026-000176,Nickel Alloy Inconel 718 (Grade-18),KG,4989.0,452.0,True
+177,MAT-2026-000177,Industrial Tool Steel D2 (Grade-18),KG,7398.0,550.0,True
+178,MAT-2026-000178,Brass Extrusion Rod CZ121 (Grade-18),KG,7851.0,290.0,True
+179,MAT-2026-000179,Carbon Fiber Reinforced Polymer (Grade-18),KG,2302.0,434.0,True
+180,MAT-2026-000180,High-Density Polyethylene Resin (Grade-18),KG,6974.0,484.0,True
+181,MAT-2026-000181,Aerospace Alloy 7075-T6 (Grade-19),KG,9191.0,415.0,True
+182,MAT-2026-000182,Titanium Grade 5 Round Bar (Grade-19),KG,2706.0,517.0,True
+183,MAT-2026-000183,Austenitic Stainless Steel 316L (Grade-19),KG,6211.0,258.0,True
+184,MAT-2026-000184,Chromium-Molybdenum 4140 Steel (Grade-19),KG,3798.0,607.0,True
+185,MAT-2026-000185,Precision Cast Bronze Bushing (Grade-19),KG,2764.0,263.0,True
+186,MAT-2026-000186,Nickel Alloy Inconel 718 (Grade-19),KG,4749.0,367.0,True
+187,MAT-2026-000187,Industrial Tool Steel D2 (Grade-19),KG,9965.0,323.0,True
+188,MAT-2026-000188,Brass Extrusion Rod CZ121 (Grade-19),KG,8039.0,207.0,True
+189,MAT-2026-000189,Carbon Fiber Reinforced Polymer (Grade-19),KG,3894.0,673.0,True
+190,MAT-2026-000190,High-Density Polyethylene Resin (Grade-19),KG,9242.0,622.0,True
+191,MAT-2026-000191,Aerospace Alloy 7075-T6 (Grade-20),KG,9194.0,204.0,True
+192,MAT-2026-000192,Titanium Grade 5 Round Bar (Grade-20),KG,6099.0,262.0,True
+193,MAT-2026-000193,Austenitic Stainless Steel 316L (Grade-20),KG,7219.0,253.0,True
+194,MAT-2026-000194,Chromium-Molybdenum 4140 Steel (Grade-20),KG,4588.0,541.0,True
+195,MAT-2026-000195,Precision Cast Bronze Bushing (Grade-20),KG,5383.0,561.0,True
+196,MAT-2026-000196,Nickel Alloy Inconel 718 (Grade-20),KG,7235.0,373.0,True
+197,MAT-2026-000197,Industrial Tool Steel D2 (Grade-20),KG,4272.0,800.0,True
+198,MAT-2026-000198,Brass Extrusion Rod CZ121 (Grade-20),KG,9496.0,432.0,True
+199,MAT-2026-000199,Carbon Fiber Reinforced Polymer (Grade-20),KG,4344.0,657.0,True
+200,MAT-2026-000200,High-Density Polyethylene Resin (Grade-20),KG,7005.0,726.0,True

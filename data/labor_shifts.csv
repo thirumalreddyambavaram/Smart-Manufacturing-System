@@ -1,0 +1,4 @@
+id,shift_code,shift_name,start_time,end_time,available_workers,is_active
+1,SHIFT-DAY-01,Day Production Shift,06:00:00,14:00:00,25,True
+2,SHIFT-EVE-02,Evening Production Shift,14:00:00,22:00:00,20,True
+3,SHIFT-NGT-03,Night Production Shift,22:00:00,06:00:00,15,True

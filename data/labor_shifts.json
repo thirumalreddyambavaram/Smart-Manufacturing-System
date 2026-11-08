@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "shift_code": "SHIFT-DAY-01",
+    "shift_name": "Day Production Shift",
+    "start_time": "06:00:00",
+    "end_time": "14:00:00",
+    "available_workers": 25,
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "shift_code": "SHIFT-EVE-02",
+    "shift_name": "Evening Production Shift",
+    "start_time": "14:00:00",
+    "end_time": "22:00:00",
+    "available_workers": 20,
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "shift_code": "SHIFT-NGT-03",
+    "shift_name": "Night Production Shift",
+    "start_time": "22:00:00",
+    "end_time": "06:00:00",
+    "available_workers": 15,
+    "is_active": true
+  }
+]

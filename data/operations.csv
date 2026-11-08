@@ -1,0 +1,2001 @@
+id,operation_code,routing_id,operation_name,sequence_number,estimated_time_minutes
+1,OP-PROD-2026-000001-01,1,Material Raw Stock Preparation,1,20
+2,OP-PROD-2026-000001-02,1,Rough Profile Cutting,2,30
+3,OP-PROD-2026-000001-03,1,CNC Rough Face Milling,3,30
+4,OP-PROD-2026-000001-04,1,CNC Profile Roughing,4,45
+5,OP-PROD-2026-000001-05,1,Rough Turning Diameter,5,40
+6,OP-PROD-2026-000001-06,1,Precision CNC Turning,6,45
+7,OP-PROD-2026-000001-07,1,Deep Core Drilling,7,20
+8,OP-PROD-2026-000001-08,1,High Precision Tapping,8,30
+9,OP-PROD-2026-000001-09,1,Structural TIG Welding,9,45
+10,OP-PROD-2026-000001-10,1,Weld Seam Grinding & Deburr,10,25
+11,OP-PROD-2026-000001-11,1,CNC Fine Surface Milling,11,40
+12,OP-PROD-2026-000001-12,1,Precision Bore Machining,12,40
+13,OP-PROD-2026-000001-13,1,Thread Grinding & Buffing,13,25
+14,OP-PROD-2026-000001-14,1,Subassembly Component Fitment,14,40
+15,OP-PROD-2026-000001-15,1,Torque-Controlled Fastening,15,35
+16,OP-PROD-2026-000001-16,1,Full Mechanical Integration,16,65
+17,OP-PROD-2026-000001-17,1,Chemical Surface Treatment,17,40
+18,OP-PROD-2026-000001-18,1,Precision Polishing,18,30
+19,OP-PROD-2026-000001-19,1,CMM Quality & Metrology Inspection,19,20
+20,OP-PROD-2026-000001-20,1,Protective Packaging & Barcode Labelling,20,15
+21,OP-PROD-2026-000002-01,2,Material Raw Stock Preparation,1,25
+22,OP-PROD-2026-000002-02,2,Rough Profile Cutting,2,30
+23,OP-PROD-2026-000002-03,2,CNC Rough Face Milling,3,35
+24,OP-PROD-2026-000002-04,2,CNC Profile Roughing,4,40
+25,OP-PROD-2026-000002-05,2,Rough Turning Diameter,5,40
+26,OP-PROD-2026-000002-06,2,Precision CNC Turning,6,45
+27,OP-PROD-2026-000002-07,2,Deep Core Drilling,7,25
+28,OP-PROD-2026-000002-08,2,High Precision Tapping,8,30
+29,OP-PROD-2026-000002-09,2,Structural TIG Welding,9,50
+30,OP-PROD-2026-000002-10,2,Weld Seam Grinding & Deburr,10,25
+31,OP-PROD-2026-000002-11,2,CNC Fine Surface Milling,11,35
+32,OP-PROD-2026-000002-12,2,Precision Bore Machining,12,40
+33,OP-PROD-2026-000002-13,2,Thread Grinding & Buffing,13,25
+34,OP-PROD-2026-000002-14,2,Subassembly Component Fitment,14,55
+35,OP-PROD-2026-000002-15,2,Torque-Controlled Fastening,15,30
+36,OP-PROD-2026-000002-16,2,Full Mechanical Integration,16,65
+37,OP-PROD-2026-000002-17,2,Chemical Surface Treatment,17,45
+38,OP-PROD-2026-000002-18,2,Precision Polishing,18,25
+39,OP-PROD-2026-000002-19,2,CMM Quality & Metrology Inspection,19,20
+40,OP-PROD-2026-000002-20,2,Protective Packaging & Barcode Labelling,20,20
+41,OP-PROD-2026-000003-01,3,Material Raw Stock Preparation,1,20
+42,OP-PROD-2026-000003-02,3,Rough Profile Cutting,2,30
+43,OP-PROD-2026-000003-03,3,CNC Rough Face Milling,3,35
+44,OP-PROD-2026-000003-04,3,CNC Profile Roughing,4,50
+45,OP-PROD-2026-000003-05,3,Rough Turning Diameter,5,30
+46,OP-PROD-2026-000003-06,3,Precision CNC Turning,6,50
+47,OP-PROD-2026-000003-07,3,Deep Core Drilling,7,30
+48,OP-PROD-2026-000003-08,3,High Precision Tapping,8,25
+49,OP-PROD-2026-000003-09,3,Structural TIG Welding,9,45
+50,OP-PROD-2026-000003-10,3,Weld Seam Grinding & Deburr,10,25
+51,OP-PROD-2026-000003-11,3,CNC Fine Surface Milling,11,35
+52,OP-PROD-2026-000003-12,3,Precision Bore Machining,12,35
+53,OP-PROD-2026-000003-13,3,Thread Grinding & Buffing,13,30
+54,OP-PROD-2026-000003-14,3,Subassembly Component Fitment,14,55
+55,OP-PROD-2026-000003-15,3,Torque-Controlled Fastening,15,30
+56,OP-PROD-2026-000003-16,3,Full Mechanical Integration,16,55
+57,OP-PROD-2026-000003-17,3,Chemical Surface Treatment,17,45
+58,OP-PROD-2026-000003-18,3,Precision Polishing,18,20
+59,OP-PROD-2026-000003-19,3,CMM Quality & Metrology Inspection,19,30
+60,OP-PROD-2026-000003-20,3,Protective Packaging & Barcode Labelling,20,20
+61,OP-PROD-2026-000004-01,4,Material Raw Stock Preparation,1,30
+62,OP-PROD-2026-000004-02,4,Rough Profile Cutting,2,30
+63,OP-PROD-2026-000004-03,4,CNC Rough Face Milling,3,30
+64,OP-PROD-2026-000004-04,4,CNC Profile Roughing,4,35
+65,OP-PROD-2026-000004-05,4,Rough Turning Diameter,5,25
+66,OP-PROD-2026-000004-06,4,Precision CNC Turning,6,50
+67,OP-PROD-2026-000004-07,4,Deep Core Drilling,7,20
+68,OP-PROD-2026-000004-08,4,High Precision Tapping,8,30
+69,OP-PROD-2026-000004-09,4,Structural TIG Welding,9,55
+70,OP-PROD-2026-000004-10,4,Weld Seam Grinding & Deburr,10,35
+71,OP-PROD-2026-000004-11,4,CNC Fine Surface Milling,11,45
+72,OP-PROD-2026-000004-12,4,Precision Bore Machining,12,40
+73,OP-PROD-2026-000004-13,4,Thread Grinding & Buffing,13,35
+74,OP-PROD-2026-000004-14,4,Subassembly Component Fitment,14,50
+75,OP-PROD-2026-000004-15,4,Torque-Controlled Fastening,15,30
+76,OP-PROD-2026-000004-16,4,Full Mechanical Integration,16,60
+77,OP-PROD-2026-000004-17,4,Chemical Surface Treatment,17,50
+78,OP-PROD-2026-000004-18,4,Precision Polishing,18,30
+79,OP-PROD-2026-000004-19,4,CMM Quality & Metrology Inspection,19,30
+80,OP-PROD-2026-000004-20,4,Protective Packaging & Barcode Labelling,20,15
+81,OP-PROD-2026-000005-01,5,Material Raw Stock Preparation,1,20
+82,OP-PROD-2026-000005-02,5,Rough Profile Cutting,2,30
+83,OP-PROD-2026-000005-03,5,CNC Rough Face Milling,3,30
+84,OP-PROD-2026-000005-04,5,CNC Profile Roughing,4,35
+85,OP-PROD-2026-000005-05,5,Rough Turning Diameter,5,35
+86,OP-PROD-2026-000005-06,5,Precision CNC Turning,6,40
+87,OP-PROD-2026-000005-07,5,Deep Core Drilling,7,30
+88,OP-PROD-2026-000005-08,5,High Precision Tapping,8,15
+89,OP-PROD-2026-000005-09,5,Structural TIG Welding,9,45
+90,OP-PROD-2026-000005-10,5,Weld Seam Grinding & Deburr,10,35
+91,OP-PROD-2026-000005-11,5,CNC Fine Surface Milling,11,45
+92,OP-PROD-2026-000005-12,5,Precision Bore Machining,12,45
+93,OP-PROD-2026-000005-13,5,Thread Grinding & Buffing,13,25
+94,OP-PROD-2026-000005-14,5,Subassembly Component Fitment,14,40
+95,OP-PROD-2026-000005-15,5,Torque-Controlled Fastening,15,35
+96,OP-PROD-2026-000005-16,5,Full Mechanical Integration,16,70
+97,OP-PROD-2026-000005-17,5,Chemical Surface Treatment,17,35
+98,OP-PROD-2026-000005-18,5,Precision Polishing,18,35
+99,OP-PROD-2026-000005-19,5,CMM Quality & Metrology Inspection,19,20
+100,OP-PROD-2026-000005-20,5,Protective Packaging & Barcode Labelling,20,20
+101,OP-PROD-2026-000006-01,6,Material Raw Stock Preparation,1,15
+102,OP-PROD-2026-000006-02,6,Rough Profile Cutting,2,20
+103,OP-PROD-2026-000006-03,6,CNC Rough Face Milling,3,30
+104,OP-PROD-2026-000006-04,6,CNC Profile Roughing,4,40
+105,OP-PROD-2026-000006-05,6,Rough Turning Diameter,5,35
+106,OP-PROD-2026-000006-06,6,Precision CNC Turning,6,40
+107,OP-PROD-2026-000006-07,6,Deep Core Drilling,7,25
+108,OP-PROD-2026-000006-08,6,High Precision Tapping,8,20
+109,OP-PROD-2026-000006-09,6,Structural TIG Welding,9,55
+110,OP-PROD-2026-000006-10,6,Weld Seam Grinding & Deburr,10,40
+111,OP-PROD-2026-000006-11,6,CNC Fine Surface Milling,11,45
+112,OP-PROD-2026-000006-12,6,Precision Bore Machining,12,45
+113,OP-PROD-2026-000006-13,6,Thread Grinding & Buffing,13,35
+114,OP-PROD-2026-000006-14,6,Subassembly Component Fitment,14,55
+115,OP-PROD-2026-000006-15,6,Torque-Controlled Fastening,15,30
+116,OP-PROD-2026-000006-16,6,Full Mechanical Integration,16,70
+117,OP-PROD-2026-000006-17,6,Chemical Surface Treatment,17,40
+118,OP-PROD-2026-000006-18,6,Precision Polishing,18,35
+119,OP-PROD-2026-000006-19,6,CMM Quality & Metrology Inspection,19,25
+120,OP-PROD-2026-000006-20,6,Protective Packaging & Barcode Labelling,20,20
+121,OP-PROD-2026-000007-01,7,Material Raw Stock Preparation,1,20
+122,OP-PROD-2026-000007-02,7,Rough Profile Cutting,2,35
+123,OP-PROD-2026-000007-03,7,CNC Rough Face Milling,3,45
+124,OP-PROD-2026-000007-04,7,CNC Profile Roughing,4,35
+125,OP-PROD-2026-000007-05,7,Rough Turning Diameter,5,35
+126,OP-PROD-2026-000007-06,7,Precision CNC Turning,6,50
+127,OP-PROD-2026-000007-07,7,Deep Core Drilling,7,20
+128,OP-PROD-2026-000007-08,7,High Precision Tapping,8,20
+129,OP-PROD-2026-000007-09,7,Structural TIG Welding,9,55
+130,OP-PROD-2026-000007-10,7,Weld Seam Grinding & Deburr,10,35
+131,OP-PROD-2026-000007-11,7,CNC Fine Surface Milling,11,35
+132,OP-PROD-2026-000007-12,7,Precision Bore Machining,12,35
+133,OP-PROD-2026-000007-13,7,Thread Grinding & Buffing,13,25
+134,OP-PROD-2026-000007-14,7,Subassembly Component Fitment,14,55
+135,OP-PROD-2026-000007-15,7,Torque-Controlled Fastening,15,30
+136,OP-PROD-2026-000007-16,7,Full Mechanical Integration,16,70
+137,OP-PROD-2026-000007-17,7,Chemical Surface Treatment,17,35
+138,OP-PROD-2026-000007-18,7,Precision Polishing,18,35
+139,OP-PROD-2026-000007-19,7,CMM Quality & Metrology Inspection,19,25
+140,OP-PROD-2026-000007-20,7,Protective Packaging & Barcode Labelling,20,15
+141,OP-PROD-2026-000008-01,8,Material Raw Stock Preparation,1,15
+142,OP-PROD-2026-000008-02,8,Rough Profile Cutting,2,25
+143,OP-PROD-2026-000008-03,8,CNC Rough Face Milling,3,35
+144,OP-PROD-2026-000008-04,8,CNC Profile Roughing,4,45
+145,OP-PROD-2026-000008-05,8,Rough Turning Diameter,5,40
+146,OP-PROD-2026-000008-06,8,Precision CNC Turning,6,50
+147,OP-PROD-2026-000008-07,8,Deep Core Drilling,7,20
+148,OP-PROD-2026-000008-08,8,High Precision Tapping,8,30
+149,OP-PROD-2026-000008-09,8,Structural TIG Welding,9,55
+150,OP-PROD-2026-000008-10,8,Weld Seam Grinding & Deburr,10,25
+151,OP-PROD-2026-000008-11,8,CNC Fine Surface Milling,11,50
+152,OP-PROD-2026-000008-12,8,Precision Bore Machining,12,40
+153,OP-PROD-2026-000008-13,8,Thread Grinding & Buffing,13,20
+154,OP-PROD-2026-000008-14,8,Subassembly Component Fitment,14,55
+155,OP-PROD-2026-000008-15,8,Torque-Controlled Fastening,15,35
+156,OP-PROD-2026-000008-16,8,Full Mechanical Integration,16,60
+157,OP-PROD-2026-000008-17,8,Chemical Surface Treatment,17,50
+158,OP-PROD-2026-000008-18,8,Precision Polishing,18,35
+159,OP-PROD-2026-000008-19,8,CMM Quality & Metrology Inspection,19,20
+160,OP-PROD-2026-000008-20,8,Protective Packaging & Barcode Labelling,20,25
+161,OP-PROD-2026-000009-01,9,Material Raw Stock Preparation,1,25
+162,OP-PROD-2026-000009-02,9,Rough Profile Cutting,2,20
+163,OP-PROD-2026-000009-03,9,CNC Rough Face Milling,3,40
+164,OP-PROD-2026-000009-04,9,CNC Profile Roughing,4,40
+165,OP-PROD-2026-000009-05,9,Rough Turning Diameter,5,40
+166,OP-PROD-2026-000009-06,9,Precision CNC Turning,6,55
+167,OP-PROD-2026-000009-07,9,Deep Core Drilling,7,25
+168,OP-PROD-2026-000009-08,9,High Precision Tapping,8,30
+169,OP-PROD-2026-000009-09,9,Structural TIG Welding,9,45
+170,OP-PROD-2026-000009-10,9,Weld Seam Grinding & Deburr,10,40
+171,OP-PROD-2026-000009-11,9,CNC Fine Surface Milling,11,35
+172,OP-PROD-2026-000009-12,9,Precision Bore Machining,12,30
+173,OP-PROD-2026-000009-13,9,Thread Grinding & Buffing,13,30
+174,OP-PROD-2026-000009-14,9,Subassembly Component Fitment,14,55
+175,OP-PROD-2026-000009-15,9,Torque-Controlled Fastening,15,30
+176,OP-PROD-2026-000009-16,9,Full Mechanical Integration,16,65
+177,OP-PROD-2026-000009-17,9,Chemical Surface Treatment,17,50
+178,OP-PROD-2026-000009-18,9,Precision Polishing,18,35
+179,OP-PROD-2026-000009-19,9,CMM Quality & Metrology Inspection,19,15
+180,OP-PROD-2026-000009-20,9,Protective Packaging & Barcode Labelling,20,25
+181,OP-PROD-2026-000010-01,10,Material Raw Stock Preparation,1,30
+182,OP-PROD-2026-000010-02,10,Rough Profile Cutting,2,30
+183,OP-PROD-2026-000010-03,10,CNC Rough Face Milling,3,35
+184,OP-PROD-2026-000010-04,10,CNC Profile Roughing,4,40
+185,OP-PROD-2026-000010-05,10,Rough Turning Diameter,5,25
+186,OP-PROD-2026-000010-06,10,Precision CNC Turning,6,55
+187,OP-PROD-2026-000010-07,10,Deep Core Drilling,7,20
+188,OP-PROD-2026-000010-08,10,High Precision Tapping,8,20
+189,OP-PROD-2026-000010-09,10,Structural TIG Welding,9,50
+190,OP-PROD-2026-000010-10,10,Weld Seam Grinding & Deburr,10,40
+191,OP-PROD-2026-000010-11,10,CNC Fine Surface Milling,11,50
+192,OP-PROD-2026-000010-12,10,Precision Bore Machining,12,45
+193,OP-PROD-2026-000010-13,10,Thread Grinding & Buffing,13,25
+194,OP-PROD-2026-000010-14,10,Subassembly Component Fitment,14,55
+195,OP-PROD-2026-000010-15,10,Torque-Controlled Fastening,15,25
+196,OP-PROD-2026-000010-16,10,Full Mechanical Integration,16,70
+197,OP-PROD-2026-000010-17,10,Chemical Surface Treatment,17,50
+198,OP-PROD-2026-000010-18,10,Precision Polishing,18,35
+199,OP-PROD-2026-000010-19,10,CMM Quality & Metrology Inspection,19,30
+200,OP-PROD-2026-000010-20,10,Protective Packaging & Barcode Labelling,20,15
+201,OP-PROD-2026-000011-01,11,Material Raw Stock Preparation,1,25
+202,OP-PROD-2026-000011-02,11,Rough Profile Cutting,2,25
+203,OP-PROD-2026-000011-03,11,CNC Rough Face Milling,3,35
+204,OP-PROD-2026-000011-04,11,CNC Profile Roughing,4,50
+205,OP-PROD-2026-000011-05,11,Rough Turning Diameter,5,35
+206,OP-PROD-2026-000011-06,11,Precision CNC Turning,6,55
+207,OP-PROD-2026-000011-07,11,Deep Core Drilling,7,30
+208,OP-PROD-2026-000011-08,11,High Precision Tapping,8,30
+209,OP-PROD-2026-000011-09,11,Structural TIG Welding,9,50
+210,OP-PROD-2026-000011-10,11,Weld Seam Grinding & Deburr,10,35
+211,OP-PROD-2026-000011-11,11,CNC Fine Surface Milling,11,50
+212,OP-PROD-2026-000011-12,11,Precision Bore Machining,12,45
+213,OP-PROD-2026-000011-13,11,Thread Grinding & Buffing,13,25
+214,OP-PROD-2026-000011-14,11,Subassembly Component Fitment,14,55
+215,OP-PROD-2026-000011-15,11,Torque-Controlled Fastening,15,40
+216,OP-PROD-2026-000011-16,11,Full Mechanical Integration,16,60
+217,OP-PROD-2026-000011-17,11,Chemical Surface Treatment,17,45
+218,OP-PROD-2026-000011-18,11,Precision Polishing,18,30
+219,OP-PROD-2026-000011-19,11,CMM Quality & Metrology Inspection,19,15
+220,OP-PROD-2026-000011-20,11,Protective Packaging & Barcode Labelling,20,15
+221,OP-PROD-2026-000012-01,12,Material Raw Stock Preparation,1,25
+222,OP-PROD-2026-000012-02,12,Rough Profile Cutting,2,25
+223,OP-PROD-2026-000012-03,12,CNC Rough Face Milling,3,35
+224,OP-PROD-2026-000012-04,12,CNC Profile Roughing,4,45
+225,OP-PROD-2026-000012-05,12,Rough Turning Diameter,5,25
+226,OP-PROD-2026-000012-06,12,Precision CNC Turning,6,55
+227,OP-PROD-2026-000012-07,12,Deep Core Drilling,7,30
+228,OP-PROD-2026-000012-08,12,High Precision Tapping,8,15
+229,OP-PROD-2026-000012-09,12,Structural TIG Welding,9,50
+230,OP-PROD-2026-000012-10,12,Weld Seam Grinding & Deburr,10,30
+231,OP-PROD-2026-000012-11,12,CNC Fine Surface Milling,11,35
+232,OP-PROD-2026-000012-12,12,Precision Bore Machining,12,45
+233,OP-PROD-2026-000012-13,12,Thread Grinding & Buffing,13,20
+234,OP-PROD-2026-000012-14,12,Subassembly Component Fitment,14,55
+235,OP-PROD-2026-000012-15,12,Torque-Controlled Fastening,15,35
+236,OP-PROD-2026-000012-16,12,Full Mechanical Integration,16,70
+237,OP-PROD-2026-000012-17,12,Chemical Surface Treatment,17,40
+238,OP-PROD-2026-000012-18,12,Precision Polishing,18,30
+239,OP-PROD-2026-000012-19,12,CMM Quality & Metrology Inspection,19,25
+240,OP-PROD-2026-000012-20,12,Protective Packaging & Barcode Labelling,20,25
+241,OP-PROD-2026-000013-01,13,Material Raw Stock Preparation,1,25
+242,OP-PROD-2026-000013-02,13,Rough Profile Cutting,2,20
+243,OP-PROD-2026-000013-03,13,CNC Rough Face Milling,3,40
+244,OP-PROD-2026-000013-04,13,CNC Profile Roughing,4,50
+245,OP-PROD-2026-000013-05,13,Rough Turning Diameter,5,25
+246,OP-PROD-2026-000013-06,13,Precision CNC Turning,6,50
+247,OP-PROD-2026-000013-07,13,Deep Core Drilling,7,35
+248,OP-PROD-2026-000013-08,13,High Precision Tapping,8,15
+249,OP-PROD-2026-000013-09,13,Structural TIG Welding,9,50
+250,OP-PROD-2026-000013-10,13,Weld Seam Grinding & Deburr,10,30
+251,OP-PROD-2026-000013-11,13,CNC Fine Surface Milling,11,45
+252,OP-PROD-2026-000013-12,13,Precision Bore Machining,12,45
+253,OP-PROD-2026-000013-13,13,Thread Grinding & Buffing,13,25
+254,OP-PROD-2026-000013-14,13,Subassembly Component Fitment,14,55
+255,OP-PROD-2026-000013-15,13,Torque-Controlled Fastening,15,35
+256,OP-PROD-2026-000013-16,13,Full Mechanical Integration,16,70
+257,OP-PROD-2026-000013-17,13,Chemical Surface Treatment,17,45
+258,OP-PROD-2026-000013-18,13,Precision Polishing,18,30
+259,OP-PROD-2026-000013-19,13,CMM Quality & Metrology Inspection,19,15
+260,OP-PROD-2026-000013-20,13,Protective Packaging & Barcode Labelling,20,15
+261,OP-PROD-2026-000014-01,14,Material Raw Stock Preparation,1,20
+262,OP-PROD-2026-000014-02,14,Rough Profile Cutting,2,25
+263,OP-PROD-2026-000014-03,14,CNC Rough Face Milling,3,30
+264,OP-PROD-2026-000014-04,14,CNC Profile Roughing,4,45
+265,OP-PROD-2026-000014-05,14,Rough Turning Diameter,5,30
+266,OP-PROD-2026-000014-06,14,Precision CNC Turning,6,40
+267,OP-PROD-2026-000014-07,14,Deep Core Drilling,7,25
+268,OP-PROD-2026-000014-08,14,High Precision Tapping,8,30
+269,OP-PROD-2026-000014-09,14,Structural TIG Welding,9,55
+270,OP-PROD-2026-000014-10,14,Weld Seam Grinding & Deburr,10,35
+271,OP-PROD-2026-000014-11,14,CNC Fine Surface Milling,11,45
+272,OP-PROD-2026-000014-12,14,Precision Bore Machining,12,45
+273,OP-PROD-2026-000014-13,14,Thread Grinding & Buffing,13,30
+274,OP-PROD-2026-000014-14,14,Subassembly Component Fitment,14,55
+275,OP-PROD-2026-000014-15,14,Torque-Controlled Fastening,15,40
+276,OP-PROD-2026-000014-16,14,Full Mechanical Integration,16,60
+277,OP-PROD-2026-000014-17,14,Chemical Surface Treatment,17,45
+278,OP-PROD-2026-000014-18,14,Precision Polishing,18,25
+279,OP-PROD-2026-000014-19,14,CMM Quality & Metrology Inspection,19,15
+280,OP-PROD-2026-000014-20,14,Protective Packaging & Barcode Labelling,20,10
+281,OP-PROD-2026-000015-01,15,Material Raw Stock Preparation,1,30
+282,OP-PROD-2026-000015-02,15,Rough Profile Cutting,2,30
+283,OP-PROD-2026-000015-03,15,CNC Rough Face Milling,3,40
+284,OP-PROD-2026-000015-04,15,CNC Profile Roughing,4,50
+285,OP-PROD-2026-000015-05,15,Rough Turning Diameter,5,40
+286,OP-PROD-2026-000015-06,15,Precision CNC Turning,6,40
+287,OP-PROD-2026-000015-07,15,Deep Core Drilling,7,35
+288,OP-PROD-2026-000015-08,15,High Precision Tapping,8,20
+289,OP-PROD-2026-000015-09,15,Structural TIG Welding,9,45
+290,OP-PROD-2026-000015-10,15,Weld Seam Grinding & Deburr,10,25
+291,OP-PROD-2026-000015-11,15,CNC Fine Surface Milling,11,35
+292,OP-PROD-2026-000015-12,15,Precision Bore Machining,12,30
+293,OP-PROD-2026-000015-13,15,Thread Grinding & Buffing,13,30
+294,OP-PROD-2026-000015-14,15,Subassembly Component Fitment,14,40
+295,OP-PROD-2026-000015-15,15,Torque-Controlled Fastening,15,40
+296,OP-PROD-2026-000015-16,15,Full Mechanical Integration,16,70
+297,OP-PROD-2026-000015-17,15,Chemical Surface Treatment,17,50
+298,OP-PROD-2026-000015-18,15,Precision Polishing,18,25
+299,OP-PROD-2026-000015-19,15,CMM Quality & Metrology Inspection,19,30
+300,OP-PROD-2026-000015-20,15,Protective Packaging & Barcode Labelling,20,20
+301,OP-PROD-2026-000016-01,16,Material Raw Stock Preparation,1,30
+302,OP-PROD-2026-000016-02,16,Rough Profile Cutting,2,25
+303,OP-PROD-2026-000016-03,16,CNC Rough Face Milling,3,40
+304,OP-PROD-2026-000016-04,16,CNC Profile Roughing,4,45
+305,OP-PROD-2026-000016-05,16,Rough Turning Diameter,5,30
+306,OP-PROD-2026-000016-06,16,Precision CNC Turning,6,45
+307,OP-PROD-2026-000016-07,16,Deep Core Drilling,7,20
+308,OP-PROD-2026-000016-08,16,High Precision Tapping,8,15
+309,OP-PROD-2026-000016-09,16,Structural TIG Welding,9,60
+310,OP-PROD-2026-000016-10,16,Weld Seam Grinding & Deburr,10,40
+311,OP-PROD-2026-000016-11,16,CNC Fine Surface Milling,11,40
+312,OP-PROD-2026-000016-12,16,Precision Bore Machining,12,40
+313,OP-PROD-2026-000016-13,16,Thread Grinding & Buffing,13,30
+314,OP-PROD-2026-000016-14,16,Subassembly Component Fitment,14,55
+315,OP-PROD-2026-000016-15,16,Torque-Controlled Fastening,15,40
+316,OP-PROD-2026-000016-16,16,Full Mechanical Integration,16,55
+317,OP-PROD-2026-000016-17,16,Chemical Surface Treatment,17,50
+318,OP-PROD-2026-000016-18,16,Precision Polishing,18,35
+319,OP-PROD-2026-000016-19,16,CMM Quality & Metrology Inspection,19,15
+320,OP-PROD-2026-000016-20,16,Protective Packaging & Barcode Labelling,20,15
+321,OP-PROD-2026-000017-01,17,Material Raw Stock Preparation,1,15
+322,OP-PROD-2026-000017-02,17,Rough Profile Cutting,2,35
+323,OP-PROD-2026-000017-03,17,CNC Rough Face Milling,3,40
+324,OP-PROD-2026-000017-04,17,CNC Profile Roughing,4,35
+325,OP-PROD-2026-000017-05,17,Rough Turning Diameter,5,25
+326,OP-PROD-2026-000017-06,17,Precision CNC Turning,6,50
+327,OP-PROD-2026-000017-07,17,Deep Core Drilling,7,35
+328,OP-PROD-2026-000017-08,17,High Precision Tapping,8,30
+329,OP-PROD-2026-000017-09,17,Structural TIG Welding,9,60
+330,OP-PROD-2026-000017-10,17,Weld Seam Grinding & Deburr,10,30
+331,OP-PROD-2026-000017-11,17,CNC Fine Surface Milling,11,45
+332,OP-PROD-2026-000017-12,17,Precision Bore Machining,12,35
+333,OP-PROD-2026-000017-13,17,Thread Grinding & Buffing,13,30
+334,OP-PROD-2026-000017-14,17,Subassembly Component Fitment,14,55
+335,OP-PROD-2026-000017-15,17,Torque-Controlled Fastening,15,40
+336,OP-PROD-2026-000017-16,17,Full Mechanical Integration,16,60
+337,OP-PROD-2026-000017-17,17,Chemical Surface Treatment,17,50
+338,OP-PROD-2026-000017-18,17,Precision Polishing,18,35
+339,OP-PROD-2026-000017-19,17,CMM Quality & Metrology Inspection,19,15
+340,OP-PROD-2026-000017-20,17,Protective Packaging & Barcode Labelling,20,20
+341,OP-PROD-2026-000018-01,18,Material Raw Stock Preparation,1,15
+342,OP-PROD-2026-000018-02,18,Rough Profile Cutting,2,30
+343,OP-PROD-2026-000018-03,18,CNC Rough Face Milling,3,30
+344,OP-PROD-2026-000018-04,18,CNC Profile Roughing,4,35
+345,OP-PROD-2026-000018-05,18,Rough Turning Diameter,5,25
+346,OP-PROD-2026-000018-06,18,Precision CNC Turning,6,45
+347,OP-PROD-2026-000018-07,18,Deep Core Drilling,7,30
+348,OP-PROD-2026-000018-08,18,High Precision Tapping,8,20
+349,OP-PROD-2026-000018-09,18,Structural TIG Welding,9,45
+350,OP-PROD-2026-000018-10,18,Weld Seam Grinding & Deburr,10,30
+351,OP-PROD-2026-000018-11,18,CNC Fine Surface Milling,11,50
+352,OP-PROD-2026-000018-12,18,Precision Bore Machining,12,35
+353,OP-PROD-2026-000018-13,18,Thread Grinding & Buffing,13,35
+354,OP-PROD-2026-000018-14,18,Subassembly Component Fitment,14,50
+355,OP-PROD-2026-000018-15,18,Torque-Controlled Fastening,15,25
+356,OP-PROD-2026-000018-16,18,Full Mechanical Integration,16,70
+357,OP-PROD-2026-000018-17,18,Chemical Surface Treatment,17,45
+358,OP-PROD-2026-000018-18,18,Precision Polishing,18,20
+359,OP-PROD-2026-000018-19,18,CMM Quality & Metrology Inspection,19,25
+360,OP-PROD-2026-000018-20,18,Protective Packaging & Barcode Labelling,20,20
+361,OP-PROD-2026-000019-01,19,Material Raw Stock Preparation,1,30
+362,OP-PROD-2026-000019-02,19,Rough Profile Cutting,2,25
+363,OP-PROD-2026-000019-03,19,CNC Rough Face Milling,3,40
+364,OP-PROD-2026-000019-04,19,CNC Profile Roughing,4,35
+365,OP-PROD-2026-000019-05,19,Rough Turning Diameter,5,30
+366,OP-PROD-2026-000019-06,19,Precision CNC Turning,6,40
+367,OP-PROD-2026-000019-07,19,Deep Core Drilling,7,35
+368,OP-PROD-2026-000019-08,19,High Precision Tapping,8,30
+369,OP-PROD-2026-000019-09,19,Structural TIG Welding,9,55
+370,OP-PROD-2026-000019-10,19,Weld Seam Grinding & Deburr,10,25
+371,OP-PROD-2026-000019-11,19,CNC Fine Surface Milling,11,35
+372,OP-PROD-2026-000019-12,19,Precision Bore Machining,12,35
+373,OP-PROD-2026-000019-13,19,Thread Grinding & Buffing,13,25
+374,OP-PROD-2026-000019-14,19,Subassembly Component Fitment,14,40
+375,OP-PROD-2026-000019-15,19,Torque-Controlled Fastening,15,40
+376,OP-PROD-2026-000019-16,19,Full Mechanical Integration,16,65
+377,OP-PROD-2026-000019-17,19,Chemical Surface Treatment,17,45
+378,OP-PROD-2026-000019-18,19,Precision Polishing,18,35
+379,OP-PROD-2026-000019-19,19,CMM Quality & Metrology Inspection,19,20
+380,OP-PROD-2026-000019-20,19,Protective Packaging & Barcode Labelling,20,10
+381,OP-PROD-2026-000020-01,20,Material Raw Stock Preparation,1,20
+382,OP-PROD-2026-000020-02,20,Rough Profile Cutting,2,30
+383,OP-PROD-2026-000020-03,20,CNC Rough Face Milling,3,45
+384,OP-PROD-2026-000020-04,20,CNC Profile Roughing,4,40
+385,OP-PROD-2026-000020-05,20,Rough Turning Diameter,5,40
+386,OP-PROD-2026-000020-06,20,Precision CNC Turning,6,45
+387,OP-PROD-2026-000020-07,20,Deep Core Drilling,7,30
+388,OP-PROD-2026-000020-08,20,High Precision Tapping,8,30
+389,OP-PROD-2026-000020-09,20,Structural TIG Welding,9,55
+390,OP-PROD-2026-000020-10,20,Weld Seam Grinding & Deburr,10,35
+391,OP-PROD-2026-000020-11,20,CNC Fine Surface Milling,11,50
+392,OP-PROD-2026-000020-12,20,Precision Bore Machining,12,30
+393,OP-PROD-2026-000020-13,20,Thread Grinding & Buffing,13,30
+394,OP-PROD-2026-000020-14,20,Subassembly Component Fitment,14,50
+395,OP-PROD-2026-000020-15,20,Torque-Controlled Fastening,15,25
+396,OP-PROD-2026-000020-16,20,Full Mechanical Integration,16,60
+397,OP-PROD-2026-000020-17,20,Chemical Surface Treatment,17,40
+398,OP-PROD-2026-000020-18,20,Precision Polishing,18,30
+399,OP-PROD-2026-000020-19,20,CMM Quality & Metrology Inspection,19,25
+400,OP-PROD-2026-000020-20,20,Protective Packaging & Barcode Labelling,20,20
+401,OP-PROD-2026-000021-01,21,Material Raw Stock Preparation,1,15
+402,OP-PROD-2026-000021-02,21,Rough Profile Cutting,2,35
+403,OP-PROD-2026-000021-03,21,CNC Rough Face Milling,3,35
+404,OP-PROD-2026-000021-04,21,CNC Profile Roughing,4,45
+405,OP-PROD-2026-000021-05,21,Rough Turning Diameter,5,25
+406,OP-PROD-2026-000021-06,21,Precision CNC Turning,6,50
+407,OP-PROD-2026-000021-07,21,Deep Core Drilling,7,30
+408,OP-PROD-2026-000021-08,21,High Precision Tapping,8,25
+409,OP-PROD-2026-000021-09,21,Structural TIG Welding,9,45
+410,OP-PROD-2026-000021-10,21,Weld Seam Grinding & Deburr,10,25
+411,OP-PROD-2026-000021-11,21,CNC Fine Surface Milling,11,50
+412,OP-PROD-2026-000021-12,21,Precision Bore Machining,12,35
+413,OP-PROD-2026-000021-13,21,Thread Grinding & Buffing,13,30
+414,OP-PROD-2026-000021-14,21,Subassembly Component Fitment,14,50
+415,OP-PROD-2026-000021-15,21,Torque-Controlled Fastening,15,25
+416,OP-PROD-2026-000021-16,21,Full Mechanical Integration,16,55
+417,OP-PROD-2026-000021-17,21,Chemical Surface Treatment,17,50
+418,OP-PROD-2026-000021-18,21,Precision Polishing,18,35
+419,OP-PROD-2026-000021-19,21,CMM Quality & Metrology Inspection,19,30
+420,OP-PROD-2026-000021-20,21,Protective Packaging & Barcode Labelling,20,10
+421,OP-PROD-2026-000022-01,22,Material Raw Stock Preparation,1,30
+422,OP-PROD-2026-000022-02,22,Rough Profile Cutting,2,25
+423,OP-PROD-2026-000022-03,22,CNC Rough Face Milling,3,45
+424,OP-PROD-2026-000022-04,22,CNC Profile Roughing,4,50
+425,OP-PROD-2026-000022-05,22,Rough Turning Diameter,5,40
+426,OP-PROD-2026-000022-06,22,Precision CNC Turning,6,40
+427,OP-PROD-2026-000022-07,22,Deep Core Drilling,7,30
+428,OP-PROD-2026-000022-08,22,High Precision Tapping,8,30
+429,OP-PROD-2026-000022-09,22,Structural TIG Welding,9,60
+430,OP-PROD-2026-000022-10,22,Weld Seam Grinding & Deburr,10,25
+431,OP-PROD-2026-000022-11,22,CNC Fine Surface Milling,11,35
+432,OP-PROD-2026-000022-12,22,Precision Bore Machining,12,45
+433,OP-PROD-2026-000022-13,22,Thread Grinding & Buffing,13,25
+434,OP-PROD-2026-000022-14,22,Subassembly Component Fitment,14,45
+435,OP-PROD-2026-000022-15,22,Torque-Controlled Fastening,15,35
+436,OP-PROD-2026-000022-16,22,Full Mechanical Integration,16,70
+437,OP-PROD-2026-000022-17,22,Chemical Surface Treatment,17,40
+438,OP-PROD-2026-000022-18,22,Precision Polishing,18,30
+439,OP-PROD-2026-000022-19,22,CMM Quality & Metrology Inspection,19,30
+440,OP-PROD-2026-000022-20,22,Protective Packaging & Barcode Labelling,20,20
+441,OP-PROD-2026-000023-01,23,Material Raw Stock Preparation,1,25
+442,OP-PROD-2026-000023-02,23,Rough Profile Cutting,2,20
+443,OP-PROD-2026-000023-03,23,CNC Rough Face Milling,3,30
+444,OP-PROD-2026-000023-04,23,CNC Profile Roughing,4,45
+445,OP-PROD-2026-000023-05,23,Rough Turning Diameter,5,25
+446,OP-PROD-2026-000023-06,23,Precision CNC Turning,6,40
+447,OP-PROD-2026-000023-07,23,Deep Core Drilling,7,20
+448,OP-PROD-2026-000023-08,23,High Precision Tapping,8,20
+449,OP-PROD-2026-000023-09,23,Structural TIG Welding,9,50
+450,OP-PROD-2026-000023-10,23,Weld Seam Grinding & Deburr,10,40
+451,OP-PROD-2026-000023-11,23,CNC Fine Surface Milling,11,50
+452,OP-PROD-2026-000023-12,23,Precision Bore Machining,12,40
+453,OP-PROD-2026-000023-13,23,Thread Grinding & Buffing,13,30
+454,OP-PROD-2026-000023-14,23,Subassembly Component Fitment,14,50
+455,OP-PROD-2026-000023-15,23,Torque-Controlled Fastening,15,25
+456,OP-PROD-2026-000023-16,23,Full Mechanical Integration,16,65
+457,OP-PROD-2026-000023-17,23,Chemical Surface Treatment,17,50
+458,OP-PROD-2026-000023-18,23,Precision Polishing,18,20
+459,OP-PROD-2026-000023-19,23,CMM Quality & Metrology Inspection,19,30
+460,OP-PROD-2026-000023-20,23,Protective Packaging & Barcode Labelling,20,20
+461,OP-PROD-2026-000024-01,24,Material Raw Stock Preparation,1,20
+462,OP-PROD-2026-000024-02,24,Rough Profile Cutting,2,30
+463,OP-PROD-2026-000024-03,24,CNC Rough Face Milling,3,35
+464,OP-PROD-2026-000024-04,24,CNC Profile Roughing,4,35
+465,OP-PROD-2026-000024-05,24,Rough Turning Diameter,5,40
+466,OP-PROD-2026-000024-06,24,Precision CNC Turning,6,45
+467,OP-PROD-2026-000024-07,24,Deep Core Drilling,7,25
+468,OP-PROD-2026-000024-08,24,High Precision Tapping,8,20
+469,OP-PROD-2026-000024-09,24,Structural TIG Welding,9,50
+470,OP-PROD-2026-000024-10,24,Weld Seam Grinding & Deburr,10,25
+471,OP-PROD-2026-000024-11,24,CNC Fine Surface Milling,11,40
+472,OP-PROD-2026-000024-12,24,Precision Bore Machining,12,40
+473,OP-PROD-2026-000024-13,24,Thread Grinding & Buffing,13,35
+474,OP-PROD-2026-000024-14,24,Subassembly Component Fitment,14,55
+475,OP-PROD-2026-000024-15,24,Torque-Controlled Fastening,15,25
+476,OP-PROD-2026-000024-16,24,Full Mechanical Integration,16,55
+477,OP-PROD-2026-000024-17,24,Chemical Surface Treatment,17,50
+478,OP-PROD-2026-000024-18,24,Precision Polishing,18,35
+479,OP-PROD-2026-000024-19,24,CMM Quality & Metrology Inspection,19,25
+480,OP-PROD-2026-000024-20,24,Protective Packaging & Barcode Labelling,20,10
+481,OP-PROD-2026-000025-01,25,Material Raw Stock Preparation,1,25
+482,OP-PROD-2026-000025-02,25,Rough Profile Cutting,2,30
+483,OP-PROD-2026-000025-03,25,CNC Rough Face Milling,3,35
+484,OP-PROD-2026-000025-04,25,CNC Profile Roughing,4,35
+485,OP-PROD-2026-000025-05,25,Rough Turning Diameter,5,40
+486,OP-PROD-2026-000025-06,25,Precision CNC Turning,6,50
+487,OP-PROD-2026-000025-07,25,Deep Core Drilling,7,35
+488,OP-PROD-2026-000025-08,25,High Precision Tapping,8,20
+489,OP-PROD-2026-000025-09,25,Structural TIG Welding,9,60
+490,OP-PROD-2026-000025-10,25,Weld Seam Grinding & Deburr,10,40
+491,OP-PROD-2026-000025-11,25,CNC Fine Surface Milling,11,45
+492,OP-PROD-2026-000025-12,25,Precision Bore Machining,12,30
+493,OP-PROD-2026-000025-13,25,Thread Grinding & Buffing,13,20
+494,OP-PROD-2026-000025-14,25,Subassembly Component Fitment,14,55
+495,OP-PROD-2026-000025-15,25,Torque-Controlled Fastening,15,25
+496,OP-PROD-2026-000025-16,25,Full Mechanical Integration,16,55
+497,OP-PROD-2026-000025-17,25,Chemical Surface Treatment,17,45
+498,OP-PROD-2026-000025-18,25,Precision Polishing,18,35
+499,OP-PROD-2026-000025-19,25,CMM Quality & Metrology Inspection,19,30
+500,OP-PROD-2026-000025-20,25,Protective Packaging & Barcode Labelling,20,15
+501,OP-PROD-2026-000026-01,26,Material Raw Stock Preparation,1,20
+502,OP-PROD-2026-000026-02,26,Rough Profile Cutting,2,20
+503,OP-PROD-2026-000026-03,26,CNC Rough Face Milling,3,45
+504,OP-PROD-2026-000026-04,26,CNC Profile Roughing,4,35
+505,OP-PROD-2026-000026-05,26,Rough Turning Diameter,5,25
+506,OP-PROD-2026-000026-06,26,Precision CNC Turning,6,40
+507,OP-PROD-2026-000026-07,26,Deep Core Drilling,7,30
+508,OP-PROD-2026-000026-08,26,High Precision Tapping,8,25
+509,OP-PROD-2026-000026-09,26,Structural TIG Welding,9,60
+510,OP-PROD-2026-000026-10,26,Weld Seam Grinding & Deburr,10,35
+511,OP-PROD-2026-000026-11,26,CNC Fine Surface Milling,11,50
+512,OP-PROD-2026-000026-12,26,Precision Bore Machining,12,40
+513,OP-PROD-2026-000026-13,26,Thread Grinding & Buffing,13,25
+514,OP-PROD-2026-000026-14,26,Subassembly Component Fitment,14,45
+515,OP-PROD-2026-000026-15,26,Torque-Controlled Fastening,15,25
+516,OP-PROD-2026-000026-16,26,Full Mechanical Integration,16,55
+517,OP-PROD-2026-000026-17,26,Chemical Surface Treatment,17,45
+518,OP-PROD-2026-000026-18,26,Precision Polishing,18,20
+519,OP-PROD-2026-000026-19,26,CMM Quality & Metrology Inspection,19,30
+520,OP-PROD-2026-000026-20,26,Protective Packaging & Barcode Labelling,20,20
+521,OP-PROD-2026-000027-01,27,Material Raw Stock Preparation,1,30
+522,OP-PROD-2026-000027-02,27,Rough Profile Cutting,2,25
+523,OP-PROD-2026-000027-03,27,CNC Rough Face Milling,3,45
+524,OP-PROD-2026-000027-04,27,CNC Profile Roughing,4,45
+525,OP-PROD-2026-000027-05,27,Rough Turning Diameter,5,40
+526,OP-PROD-2026-000027-06,27,Precision CNC Turning,6,40
+527,OP-PROD-2026-000027-07,27,Deep Core Drilling,7,30
+528,OP-PROD-2026-000027-08,27,High Precision Tapping,8,30
+529,OP-PROD-2026-000027-09,27,Structural TIG Welding,9,50
+530,OP-PROD-2026-000027-10,27,Weld Seam Grinding & Deburr,10,35
+531,OP-PROD-2026-000027-11,27,CNC Fine Surface Milling,11,45
+532,OP-PROD-2026-000027-12,27,Precision Bore Machining,12,40
+533,OP-PROD-2026-000027-13,27,Thread Grinding & Buffing,13,20
+534,OP-PROD-2026-000027-14,27,Subassembly Component Fitment,14,45
+535,OP-PROD-2026-000027-15,27,Torque-Controlled Fastening,15,30
+536,OP-PROD-2026-000027-16,27,Full Mechanical Integration,16,65
+537,OP-PROD-2026-000027-17,27,Chemical Surface Treatment,17,40
+538,OP-PROD-2026-000027-18,27,Precision Polishing,18,30
+539,OP-PROD-2026-000027-19,27,CMM Quality & Metrology Inspection,19,25
+540,OP-PROD-2026-000027-20,27,Protective Packaging & Barcode Labelling,20,25
+541,OP-PROD-2026-000028-01,28,Material Raw Stock Preparation,1,20
+542,OP-PROD-2026-000028-02,28,Rough Profile Cutting,2,25
+543,OP-PROD-2026-000028-03,28,CNC Rough Face Milling,3,40
+544,OP-PROD-2026-000028-04,28,CNC Profile Roughing,4,50
+545,OP-PROD-2026-000028-05,28,Rough Turning Diameter,5,35
+546,OP-PROD-2026-000028-06,28,Precision CNC Turning,6,40
+547,OP-PROD-2026-000028-07,28,Deep Core Drilling,7,35
+548,OP-PROD-2026-000028-08,28,High Precision Tapping,8,30
+549,OP-PROD-2026-000028-09,28,Structural TIG Welding,9,50
+550,OP-PROD-2026-000028-10,28,Weld Seam Grinding & Deburr,10,30
+551,OP-PROD-2026-000028-11,28,CNC Fine Surface Milling,11,40
+552,OP-PROD-2026-000028-12,28,Precision Bore Machining,12,30
+553,OP-PROD-2026-000028-13,28,Thread Grinding & Buffing,13,25
+554,OP-PROD-2026-000028-14,28,Subassembly Component Fitment,14,50
+555,OP-PROD-2026-000028-15,28,Torque-Controlled Fastening,15,35
+556,OP-PROD-2026-000028-16,28,Full Mechanical Integration,16,55
+557,OP-PROD-2026-000028-17,28,Chemical Surface Treatment,17,50
+558,OP-PROD-2026-000028-18,28,Precision Polishing,18,35
+559,OP-PROD-2026-000028-19,28,CMM Quality & Metrology Inspection,19,15
+560,OP-PROD-2026-000028-20,28,Protective Packaging & Barcode Labelling,20,20
+561,OP-PROD-2026-000029-01,29,Material Raw Stock Preparation,1,25
+562,OP-PROD-2026-000029-02,29,Rough Profile Cutting,2,25
+563,OP-PROD-2026-000029-03,29,CNC Rough Face Milling,3,30
+564,OP-PROD-2026-000029-04,29,CNC Profile Roughing,4,45
+565,OP-PROD-2026-000029-05,29,Rough Turning Diameter,5,25
+566,OP-PROD-2026-000029-06,29,Precision CNC Turning,6,45
+567,OP-PROD-2026-000029-07,29,Deep Core Drilling,7,25
+568,OP-PROD-2026-000029-08,29,High Precision Tapping,8,15
+569,OP-PROD-2026-000029-09,29,Structural TIG Welding,9,55
+570,OP-PROD-2026-000029-10,29,Weld Seam Grinding & Deburr,10,25
+571,OP-PROD-2026-000029-11,29,CNC Fine Surface Milling,11,45
+572,OP-PROD-2026-000029-12,29,Precision Bore Machining,12,45
+573,OP-PROD-2026-000029-13,29,Thread Grinding & Buffing,13,35
+574,OP-PROD-2026-000029-14,29,Subassembly Component Fitment,14,40
+575,OP-PROD-2026-000029-15,29,Torque-Controlled Fastening,15,40
+576,OP-PROD-2026-000029-16,29,Full Mechanical Integration,16,55
+577,OP-PROD-2026-000029-17,29,Chemical Surface Treatment,17,40
+578,OP-PROD-2026-000029-18,29,Precision Polishing,18,30
+579,OP-PROD-2026-000029-19,29,CMM Quality & Metrology Inspection,19,15
+580,OP-PROD-2026-000029-20,29,Protective Packaging & Barcode Labelling,20,10
+581,OP-PROD-2026-000030-01,30,Material Raw Stock Preparation,1,25
+582,OP-PROD-2026-000030-02,30,Rough Profile Cutting,2,25
+583,OP-PROD-2026-000030-03,30,CNC Rough Face Milling,3,35
+584,OP-PROD-2026-000030-04,30,CNC Profile Roughing,4,45
+585,OP-PROD-2026-000030-05,30,Rough Turning Diameter,5,35
+586,OP-PROD-2026-000030-06,30,Precision CNC Turning,6,40
+587,OP-PROD-2026-000030-07,30,Deep Core Drilling,7,25
+588,OP-PROD-2026-000030-08,30,High Precision Tapping,8,25
+589,OP-PROD-2026-000030-09,30,Structural TIG Welding,9,55
+590,OP-PROD-2026-000030-10,30,Weld Seam Grinding & Deburr,10,25
+591,OP-PROD-2026-000030-11,30,CNC Fine Surface Milling,11,35
+592,OP-PROD-2026-000030-12,30,Precision Bore Machining,12,45
+593,OP-PROD-2026-000030-13,30,Thread Grinding & Buffing,13,20
+594,OP-PROD-2026-000030-14,30,Subassembly Component Fitment,14,55
+595,OP-PROD-2026-000030-15,30,Torque-Controlled Fastening,15,30
+596,OP-PROD-2026-000030-16,30,Full Mechanical Integration,16,55
+597,OP-PROD-2026-000030-17,30,Chemical Surface Treatment,17,45
+598,OP-PROD-2026-000030-18,30,Precision Polishing,18,25
+599,OP-PROD-2026-000030-19,30,CMM Quality & Metrology Inspection,19,15
+600,OP-PROD-2026-000030-20,30,Protective Packaging & Barcode Labelling,20,15
+601,OP-PROD-2026-000031-01,31,Material Raw Stock Preparation,1,20
+602,OP-PROD-2026-000031-02,31,Rough Profile Cutting,2,25
+603,OP-PROD-2026-000031-03,31,CNC Rough Face Milling,3,40
+604,OP-PROD-2026-000031-04,31,CNC Profile Roughing,4,50
+605,OP-PROD-2026-000031-05,31,Rough Turning Diameter,5,30
+606,OP-PROD-2026-000031-06,31,Precision CNC Turning,6,45
+607,OP-PROD-2026-000031-07,31,Deep Core Drilling,7,25
+608,OP-PROD-2026-000031-08,31,High Precision Tapping,8,20
+609,OP-PROD-2026-000031-09,31,Structural TIG Welding,9,50
+610,OP-PROD-2026-000031-10,31,Weld Seam Grinding & Deburr,10,30
+611,OP-PROD-2026-000031-11,31,CNC Fine Surface Milling,11,50
+612,OP-PROD-2026-000031-12,31,Precision Bore Machining,12,35
+613,OP-PROD-2026-000031-13,31,Thread Grinding & Buffing,13,25
+614,OP-PROD-2026-000031-14,31,Subassembly Component Fitment,14,50
+615,OP-PROD-2026-000031-15,31,Torque-Controlled Fastening,15,25
+616,OP-PROD-2026-000031-16,31,Full Mechanical Integration,16,55
+617,OP-PROD-2026-000031-17,31,Chemical Surface Treatment,17,35
+618,OP-PROD-2026-000031-18,31,Precision Polishing,18,25
+619,OP-PROD-2026-000031-19,31,CMM Quality & Metrology Inspection,19,25
+620,OP-PROD-2026-000031-20,31,Protective Packaging & Barcode Labelling,20,25
+621,OP-PROD-2026-000032-01,32,Material Raw Stock Preparation,1,25
+622,OP-PROD-2026-000032-02,32,Rough Profile Cutting,2,20
+623,OP-PROD-2026-000032-03,32,CNC Rough Face Milling,3,30
+624,OP-PROD-2026-000032-04,32,CNC Profile Roughing,4,50
+625,OP-PROD-2026-000032-05,32,Rough Turning Diameter,5,30
+626,OP-PROD-2026-000032-06,32,Precision CNC Turning,6,40
+627,OP-PROD-2026-000032-07,32,Deep Core Drilling,7,30
+628,OP-PROD-2026-000032-08,32,High Precision Tapping,8,30
+629,OP-PROD-2026-000032-09,32,Structural TIG Welding,9,50
+630,OP-PROD-2026-000032-10,32,Weld Seam Grinding & Deburr,10,40
+631,OP-PROD-2026-000032-11,32,CNC Fine Surface Milling,11,45
+632,OP-PROD-2026-000032-12,32,Precision Bore Machining,12,40
+633,OP-PROD-2026-000032-13,32,Thread Grinding & Buffing,13,30
+634,OP-PROD-2026-000032-14,32,Subassembly Component Fitment,14,45
+635,OP-PROD-2026-000032-15,32,Torque-Controlled Fastening,15,40
+636,OP-PROD-2026-000032-16,32,Full Mechanical Integration,16,65
+637,OP-PROD-2026-000032-17,32,Chemical Surface Treatment,17,50
+638,OP-PROD-2026-000032-18,32,Precision Polishing,18,30
+639,OP-PROD-2026-000032-19,32,CMM Quality & Metrology Inspection,19,20
+640,OP-PROD-2026-000032-20,32,Protective Packaging & Barcode Labelling,20,25
+641,OP-PROD-2026-000033-01,33,Material Raw Stock Preparation,1,20
+642,OP-PROD-2026-000033-02,33,Rough Profile Cutting,2,25
+643,OP-PROD-2026-000033-03,33,CNC Rough Face Milling,3,45
+644,OP-PROD-2026-000033-04,33,CNC Profile Roughing,4,50
+645,OP-PROD-2026-000033-05,33,Rough Turning Diameter,5,35
+646,OP-PROD-2026-000033-06,33,Precision CNC Turning,6,55
+647,OP-PROD-2026-000033-07,33,Deep Core Drilling,7,35
+648,OP-PROD-2026-000033-08,33,High Precision Tapping,8,25
+649,OP-PROD-2026-000033-09,33,Structural TIG Welding,9,60
+650,OP-PROD-2026-000033-10,33,Weld Seam Grinding & Deburr,10,40
+651,OP-PROD-2026-000033-11,33,CNC Fine Surface Milling,11,45
+652,OP-PROD-2026-000033-12,33,Precision Bore Machining,12,35
+653,OP-PROD-2026-000033-13,33,Thread Grinding & Buffing,13,25
+654,OP-PROD-2026-000033-14,33,Subassembly Component Fitment,14,55
+655,OP-PROD-2026-000033-15,33,Torque-Controlled Fastening,15,30
+656,OP-PROD-2026-000033-16,33,Full Mechanical Integration,16,55
+657,OP-PROD-2026-000033-17,33,Chemical Surface Treatment,17,45
+658,OP-PROD-2026-000033-18,33,Precision Polishing,18,35
+659,OP-PROD-2026-000033-19,33,CMM Quality & Metrology Inspection,19,20
+660,OP-PROD-2026-000033-20,33,Protective Packaging & Barcode Labelling,20,25
+661,OP-PROD-2026-000034-01,34,Material Raw Stock Preparation,1,15
+662,OP-PROD-2026-000034-02,34,Rough Profile Cutting,2,30
+663,OP-PROD-2026-000034-03,34,CNC Rough Face Milling,3,30
+664,OP-PROD-2026-000034-04,34,CNC Profile Roughing,4,45
+665,OP-PROD-2026-000034-05,34,Rough Turning Diameter,5,40
+666,OP-PROD-2026-000034-06,34,Precision CNC Turning,6,45
+667,OP-PROD-2026-000034-07,34,Deep Core Drilling,7,35
+668,OP-PROD-2026-000034-08,34,High Precision Tapping,8,15
+669,OP-PROD-2026-000034-09,34,Structural TIG Welding,9,60
+670,OP-PROD-2026-000034-10,34,Weld Seam Grinding & Deburr,10,25
+671,OP-PROD-2026-000034-11,34,CNC Fine Surface Milling,11,35
+672,OP-PROD-2026-000034-12,34,Precision Bore Machining,12,35
+673,OP-PROD-2026-000034-13,34,Thread Grinding & Buffing,13,30
+674,OP-PROD-2026-000034-14,34,Subassembly Component Fitment,14,40
+675,OP-PROD-2026-000034-15,34,Torque-Controlled Fastening,15,25
+676,OP-PROD-2026-000034-16,34,Full Mechanical Integration,16,70
+677,OP-PROD-2026-000034-17,34,Chemical Surface Treatment,17,45
+678,OP-PROD-2026-000034-18,34,Precision Polishing,18,30
+679,OP-PROD-2026-000034-19,34,CMM Quality & Metrology Inspection,19,30
+680,OP-PROD-2026-000034-20,34,Protective Packaging & Barcode Labelling,20,20
+681,OP-PROD-2026-000035-01,35,Material Raw Stock Preparation,1,20
+682,OP-PROD-2026-000035-02,35,Rough Profile Cutting,2,20
+683,OP-PROD-2026-000035-03,35,CNC Rough Face Milling,3,45
+684,OP-PROD-2026-000035-04,35,CNC Profile Roughing,4,45
+685,OP-PROD-2026-000035-05,35,Rough Turning Diameter,5,40
+686,OP-PROD-2026-000035-06,35,Precision CNC Turning,6,50
+687,OP-PROD-2026-000035-07,35,Deep Core Drilling,7,35
+688,OP-PROD-2026-000035-08,35,High Precision Tapping,8,30
+689,OP-PROD-2026-000035-09,35,Structural TIG Welding,9,50
+690,OP-PROD-2026-000035-10,35,Weld Seam Grinding & Deburr,10,25
+691,OP-PROD-2026-000035-11,35,CNC Fine Surface Milling,11,50
+692,OP-PROD-2026-000035-12,35,Precision Bore Machining,12,45
+693,OP-PROD-2026-000035-13,35,Thread Grinding & Buffing,13,30
+694,OP-PROD-2026-000035-14,35,Subassembly Component Fitment,14,50
+695,OP-PROD-2026-000035-15,35,Torque-Controlled Fastening,15,40
+696,OP-PROD-2026-000035-16,35,Full Mechanical Integration,16,60
+697,OP-PROD-2026-000035-17,35,Chemical Surface Treatment,17,45
+698,OP-PROD-2026-000035-18,35,Precision Polishing,18,35
+699,OP-PROD-2026-000035-19,35,CMM Quality & Metrology Inspection,19,25
+700,OP-PROD-2026-000035-20,35,Protective Packaging & Barcode Labelling,20,15
+701,OP-PROD-2026-000036-01,36,Material Raw Stock Preparation,1,25
+702,OP-PROD-2026-000036-02,36,Rough Profile Cutting,2,25
+703,OP-PROD-2026-000036-03,36,CNC Rough Face Milling,3,30
+704,OP-PROD-2026-000036-04,36,CNC Profile Roughing,4,50
+705,OP-PROD-2026-000036-05,36,Rough Turning Diameter,5,25
+706,OP-PROD-2026-000036-06,36,Precision CNC Turning,6,50
+707,OP-PROD-2026-000036-07,36,Deep Core Drilling,7,25
+708,OP-PROD-2026-000036-08,36,High Precision Tapping,8,20
+709,OP-PROD-2026-000036-09,36,Structural TIG Welding,9,50
+710,OP-PROD-2026-000036-10,36,Weld Seam Grinding & Deburr,10,25
+711,OP-PROD-2026-000036-11,36,CNC Fine Surface Milling,11,35
+712,OP-PROD-2026-000036-12,36,Precision Bore Machining,12,45
+713,OP-PROD-2026-000036-13,36,Thread Grinding & Buffing,13,20
+714,OP-PROD-2026-000036-14,36,Subassembly Component Fitment,14,40
+715,OP-PROD-2026-000036-15,36,Torque-Controlled Fastening,15,25
+716,OP-PROD-2026-000036-16,36,Full Mechanical Integration,16,60
+717,OP-PROD-2026-000036-17,36,Chemical Surface Treatment,17,50
+718,OP-PROD-2026-000036-18,36,Precision Polishing,18,25
+719,OP-PROD-2026-000036-19,36,CMM Quality & Metrology Inspection,19,30
+720,OP-PROD-2026-000036-20,36,Protective Packaging & Barcode Labelling,20,15
+721,OP-PROD-2026-000037-01,37,Material Raw Stock Preparation,1,15
+722,OP-PROD-2026-000037-02,37,Rough Profile Cutting,2,25
+723,OP-PROD-2026-000037-03,37,CNC Rough Face Milling,3,35
+724,OP-PROD-2026-000037-04,37,CNC Profile Roughing,4,50
+725,OP-PROD-2026-000037-05,37,Rough Turning Diameter,5,30
+726,OP-PROD-2026-000037-06,37,Precision CNC Turning,6,45
+727,OP-PROD-2026-000037-07,37,Deep Core Drilling,7,30
+728,OP-PROD-2026-000037-08,37,High Precision Tapping,8,25
+729,OP-PROD-2026-000037-09,37,Structural TIG Welding,9,45
+730,OP-PROD-2026-000037-10,37,Weld Seam Grinding & Deburr,10,40
+731,OP-PROD-2026-000037-11,37,CNC Fine Surface Milling,11,40
+732,OP-PROD-2026-000037-12,37,Precision Bore Machining,12,45
+733,OP-PROD-2026-000037-13,37,Thread Grinding & Buffing,13,30
+734,OP-PROD-2026-000037-14,37,Subassembly Component Fitment,14,50
+735,OP-PROD-2026-000037-15,37,Torque-Controlled Fastening,15,35
+736,OP-PROD-2026-000037-16,37,Full Mechanical Integration,16,55
+737,OP-PROD-2026-000037-17,37,Chemical Surface Treatment,17,45
+738,OP-PROD-2026-000037-18,37,Precision Polishing,18,30
+739,OP-PROD-2026-000037-19,37,CMM Quality & Metrology Inspection,19,20
+740,OP-PROD-2026-000037-20,37,Protective Packaging & Barcode Labelling,20,10
+741,OP-PROD-2026-000038-01,38,Material Raw Stock Preparation,1,20
+742,OP-PROD-2026-000038-02,38,Rough Profile Cutting,2,30
+743,OP-PROD-2026-000038-03,38,CNC Rough Face Milling,3,30
+744,OP-PROD-2026-000038-04,38,CNC Profile Roughing,4,35
+745,OP-PROD-2026-000038-05,38,Rough Turning Diameter,5,25
+746,OP-PROD-2026-000038-06,38,Precision CNC Turning,6,55
+747,OP-PROD-2026-000038-07,38,Deep Core Drilling,7,30
+748,OP-PROD-2026-000038-08,38,High Precision Tapping,8,15
+749,OP-PROD-2026-000038-09,38,Structural TIG Welding,9,60
+750,OP-PROD-2026-000038-10,38,Weld Seam Grinding & Deburr,10,25
+751,OP-PROD-2026-000038-11,38,CNC Fine Surface Milling,11,35
+752,OP-PROD-2026-000038-12,38,Precision Bore Machining,12,30
+753,OP-PROD-2026-000038-13,38,Thread Grinding & Buffing,13,20
+754,OP-PROD-2026-000038-14,38,Subassembly Component Fitment,14,40
+755,OP-PROD-2026-000038-15,38,Torque-Controlled Fastening,15,25
+756,OP-PROD-2026-000038-16,38,Full Mechanical Integration,16,55
+757,OP-PROD-2026-000038-17,38,Chemical Surface Treatment,17,35
+758,OP-PROD-2026-000038-18,38,Precision Polishing,18,20
+759,OP-PROD-2026-000038-19,38,CMM Quality & Metrology Inspection,19,15
+760,OP-PROD-2026-000038-20,38,Protective Packaging & Barcode Labelling,20,15
+761,OP-PROD-2026-000039-01,39,Material Raw Stock Preparation,1,15
+762,OP-PROD-2026-000039-02,39,Rough Profile Cutting,2,20
+763,OP-PROD-2026-000039-03,39,CNC Rough Face Milling,3,30
+764,OP-PROD-2026-000039-04,39,CNC Profile Roughing,4,50
+765,OP-PROD-2026-000039-05,39,Rough Turning Diameter,5,35
+766,OP-PROD-2026-000039-06,39,Precision CNC Turning,6,55
+767,OP-PROD-2026-000039-07,39,Deep Core Drilling,7,25
+768,OP-PROD-2026-000039-08,39,High Precision Tapping,8,25
+769,OP-PROD-2026-000039-09,39,Structural TIG Welding,9,45
+770,OP-PROD-2026-000039-10,39,Weld Seam Grinding & Deburr,10,40
+771,OP-PROD-2026-000039-11,39,CNC Fine Surface Milling,11,50
+772,OP-PROD-2026-000039-12,39,Precision Bore Machining,12,30
+773,OP-PROD-2026-000039-13,39,Thread Grinding & Buffing,13,35
+774,OP-PROD-2026-000039-14,39,Subassembly Component Fitment,14,45
+775,OP-PROD-2026-000039-15,39,Torque-Controlled Fastening,15,40
+776,OP-PROD-2026-000039-16,39,Full Mechanical Integration,16,65
+777,OP-PROD-2026-000039-17,39,Chemical Surface Treatment,17,50
+778,OP-PROD-2026-000039-18,39,Precision Polishing,18,20
+779,OP-PROD-2026-000039-19,39,CMM Quality & Metrology Inspection,19,25
+780,OP-PROD-2026-000039-20,39,Protective Packaging & Barcode Labelling,20,25
+781,OP-PROD-2026-000040-01,40,Material Raw Stock Preparation,1,30
+782,OP-PROD-2026-000040-02,40,Rough Profile Cutting,2,20
+783,OP-PROD-2026-000040-03,40,CNC Rough Face Milling,3,45
+784,OP-PROD-2026-000040-04,40,CNC Profile Roughing,4,50
+785,OP-PROD-2026-000040-05,40,Rough Turning Diameter,5,25
+786,OP-PROD-2026-000040-06,40,Precision CNC Turning,6,55
+787,OP-PROD-2026-000040-07,40,Deep Core Drilling,7,20
+788,OP-PROD-2026-000040-08,40,High Precision Tapping,8,20
+789,OP-PROD-2026-000040-09,40,Structural TIG Welding,9,60
+790,OP-PROD-2026-000040-10,40,Weld Seam Grinding & Deburr,10,30
+791,OP-PROD-2026-000040-11,40,CNC Fine Surface Milling,11,45
+792,OP-PROD-2026-000040-12,40,Precision Bore Machining,12,35
+793,OP-PROD-2026-000040-13,40,Thread Grinding & Buffing,13,35
+794,OP-PROD-2026-000040-14,40,Subassembly Component Fitment,14,55
+795,OP-PROD-2026-000040-15,40,Torque-Controlled Fastening,15,25
+796,OP-PROD-2026-000040-16,40,Full Mechanical Integration,16,65
+797,OP-PROD-2026-000040-17,40,Chemical Surface Treatment,17,50
+798,OP-PROD-2026-000040-18,40,Precision Polishing,18,20
+799,OP-PROD-2026-000040-19,40,CMM Quality & Metrology Inspection,19,30
+800,OP-PROD-2026-000040-20,40,Protective Packaging & Barcode Labelling,20,25
+801,OP-PROD-2026-000041-01,41,Material Raw Stock Preparation,1,25
+802,OP-PROD-2026-000041-02,41,Rough Profile Cutting,2,25
+803,OP-PROD-2026-000041-03,41,CNC Rough Face Milling,3,45
+804,OP-PROD-2026-000041-04,41,CNC Profile Roughing,4,50
+805,OP-PROD-2026-000041-05,41,Rough Turning Diameter,5,35
+806,OP-PROD-2026-000041-06,41,Precision CNC Turning,6,40
+807,OP-PROD-2026-000041-07,41,Deep Core Drilling,7,25
+808,OP-PROD-2026-000041-08,41,High Precision Tapping,8,15
+809,OP-PROD-2026-000041-09,41,Structural TIG Welding,9,50
+810,OP-PROD-2026-000041-10,41,Weld Seam Grinding & Deburr,10,30
+811,OP-PROD-2026-000041-11,41,CNC Fine Surface Milling,11,35
+812,OP-PROD-2026-000041-12,41,Precision Bore Machining,12,35
+813,OP-PROD-2026-000041-13,41,Thread Grinding & Buffing,13,30
+814,OP-PROD-2026-000041-14,41,Subassembly Component Fitment,14,45
+815,OP-PROD-2026-000041-15,41,Torque-Controlled Fastening,15,35
+816,OP-PROD-2026-000041-16,41,Full Mechanical Integration,16,55
+817,OP-PROD-2026-000041-17,41,Chemical Surface Treatment,17,50
+818,OP-PROD-2026-000041-18,41,Precision Polishing,18,30
+819,OP-PROD-2026-000041-19,41,CMM Quality & Metrology Inspection,19,25
+820,OP-PROD-2026-000041-20,41,Protective Packaging & Barcode Labelling,20,20
+821,OP-PROD-2026-000042-01,42,Material Raw Stock Preparation,1,30
+822,OP-PROD-2026-000042-02,42,Rough Profile Cutting,2,25
+823,OP-PROD-2026-000042-03,42,CNC Rough Face Milling,3,30
+824,OP-PROD-2026-000042-04,42,CNC Profile Roughing,4,50
+825,OP-PROD-2026-000042-05,42,Rough Turning Diameter,5,35
+826,OP-PROD-2026-000042-06,42,Precision CNC Turning,6,40
+827,OP-PROD-2026-000042-07,42,Deep Core Drilling,7,25
+828,OP-PROD-2026-000042-08,42,High Precision Tapping,8,30
+829,OP-PROD-2026-000042-09,42,Structural TIG Welding,9,55
+830,OP-PROD-2026-000042-10,42,Weld Seam Grinding & Deburr,10,30
+831,OP-PROD-2026-000042-11,42,CNC Fine Surface Milling,11,45
+832,OP-PROD-2026-000042-12,42,Precision Bore Machining,12,40
+833,OP-PROD-2026-000042-13,42,Thread Grinding & Buffing,13,35
+834,OP-PROD-2026-000042-14,42,Subassembly Component Fitment,14,45
+835,OP-PROD-2026-000042-15,42,Torque-Controlled Fastening,15,25
+836,OP-PROD-2026-000042-16,42,Full Mechanical Integration,16,60
+837,OP-PROD-2026-000042-17,42,Chemical Surface Treatment,17,50
+838,OP-PROD-2026-000042-18,42,Precision Polishing,18,20
+839,OP-PROD-2026-000042-19,42,CMM Quality & Metrology Inspection,19,15
+840,OP-PROD-2026-000042-20,42,Protective Packaging & Barcode Labelling,20,10
+841,OP-PROD-2026-000043-01,43,Material Raw Stock Preparation,1,30
+842,OP-PROD-2026-000043-02,43,Rough Profile Cutting,2,30
+843,OP-PROD-2026-000043-03,43,CNC Rough Face Milling,3,30
+844,OP-PROD-2026-000043-04,43,CNC Profile Roughing,4,50
+845,OP-PROD-2026-000043-05,43,Rough Turning Diameter,5,30
+846,OP-PROD-2026-000043-06,43,Precision CNC Turning,6,55
+847,OP-PROD-2026-000043-07,43,Deep Core Drilling,7,20
+848,OP-PROD-2026-000043-08,43,High Precision Tapping,8,30
+849,OP-PROD-2026-000043-09,43,Structural TIG Welding,9,45
+850,OP-PROD-2026-000043-10,43,Weld Seam Grinding & Deburr,10,30
+851,OP-PROD-2026-000043-11,43,CNC Fine Surface Milling,11,35
+852,OP-PROD-2026-000043-12,43,Precision Bore Machining,12,45
+853,OP-PROD-2026-000043-13,43,Thread Grinding & Buffing,13,25
+854,OP-PROD-2026-000043-14,43,Subassembly Component Fitment,14,50
+855,OP-PROD-2026-000043-15,43,Torque-Controlled Fastening,15,40
+856,OP-PROD-2026-000043-16,43,Full Mechanical Integration,16,70
+857,OP-PROD-2026-000043-17,43,Chemical Surface Treatment,17,50
+858,OP-PROD-2026-000043-18,43,Precision Polishing,18,35
+859,OP-PROD-2026-000043-19,43,CMM Quality & Metrology Inspection,19,20
+860,OP-PROD-2026-000043-20,43,Protective Packaging & Barcode Labelling,20,15
+861,OP-PROD-2026-000044-01,44,Material Raw Stock Preparation,1,15
+862,OP-PROD-2026-000044-02,44,Rough Profile Cutting,2,35
+863,OP-PROD-2026-000044-03,44,CNC Rough Face Milling,3,40
+864,OP-PROD-2026-000044-04,44,CNC Profile Roughing,4,45
+865,OP-PROD-2026-000044-05,44,Rough Turning Diameter,5,30
+866,OP-PROD-2026-000044-06,44,Precision CNC Turning,6,55
+867,OP-PROD-2026-000044-07,44,Deep Core Drilling,7,30
+868,OP-PROD-2026-000044-08,44,High Precision Tapping,8,20
+869,OP-PROD-2026-000044-09,44,Structural TIG Welding,9,45
+870,OP-PROD-2026-000044-10,44,Weld Seam Grinding & Deburr,10,40
+871,OP-PROD-2026-000044-11,44,CNC Fine Surface Milling,11,40
+872,OP-PROD-2026-000044-12,44,Precision Bore Machining,12,40
+873,OP-PROD-2026-000044-13,44,Thread Grinding & Buffing,13,25
+874,OP-PROD-2026-000044-14,44,Subassembly Component Fitment,14,40
+875,OP-PROD-2026-000044-15,44,Torque-Controlled Fastening,15,35
+876,OP-PROD-2026-000044-16,44,Full Mechanical Integration,16,60
+877,OP-PROD-2026-000044-17,44,Chemical Surface Treatment,17,50
+878,OP-PROD-2026-000044-18,44,Precision Polishing,18,20
+879,OP-PROD-2026-000044-19,44,CMM Quality & Metrology Inspection,19,20
+880,OP-PROD-2026-000044-20,44,Protective Packaging & Barcode Labelling,20,15
+881,OP-PROD-2026-000045-01,45,Material Raw Stock Preparation,1,15
+882,OP-PROD-2026-000045-02,45,Rough Profile Cutting,2,30
+883,OP-PROD-2026-000045-03,45,CNC Rough Face Milling,3,35
+884,OP-PROD-2026-000045-04,45,CNC Profile Roughing,4,45
+885,OP-PROD-2026-000045-05,45,Rough Turning Diameter,5,30
+886,OP-PROD-2026-000045-06,45,Precision CNC Turning,6,55
+887,OP-PROD-2026-000045-07,45,Deep Core Drilling,7,35
+888,OP-PROD-2026-000045-08,45,High Precision Tapping,8,30
+889,OP-PROD-2026-000045-09,45,Structural TIG Welding,9,45
+890,OP-PROD-2026-000045-10,45,Weld Seam Grinding & Deburr,10,25
+891,OP-PROD-2026-000045-11,45,CNC Fine Surface Milling,11,50
+892,OP-PROD-2026-000045-12,45,Precision Bore Machining,12,30
+893,OP-PROD-2026-000045-13,45,Thread Grinding & Buffing,13,30
+894,OP-PROD-2026-000045-14,45,Subassembly Component Fitment,14,40
+895,OP-PROD-2026-000045-15,45,Torque-Controlled Fastening,15,30
+896,OP-PROD-2026-000045-16,45,Full Mechanical Integration,16,60
+897,OP-PROD-2026-000045-17,45,Chemical Surface Treatment,17,35
+898,OP-PROD-2026-000045-18,45,Precision Polishing,18,35
+899,OP-PROD-2026-000045-19,45,CMM Quality & Metrology Inspection,19,15
+900,OP-PROD-2026-000045-20,45,Protective Packaging & Barcode Labelling,20,20
+901,OP-PROD-2026-000046-01,46,Material Raw Stock Preparation,1,25
+902,OP-PROD-2026-000046-02,46,Rough Profile Cutting,2,35
+903,OP-PROD-2026-000046-03,46,CNC Rough Face Milling,3,35
+904,OP-PROD-2026-000046-04,46,CNC Profile Roughing,4,40
+905,OP-PROD-2026-000046-05,46,Rough Turning Diameter,5,35
+906,OP-PROD-2026-000046-06,46,Precision CNC Turning,6,45
+907,OP-PROD-2026-000046-07,46,Deep Core Drilling,7,30
+908,OP-PROD-2026-000046-08,46,High Precision Tapping,8,15
+909,OP-PROD-2026-000046-09,46,Structural TIG Welding,9,45
+910,OP-PROD-2026-000046-10,46,Weld Seam Grinding & Deburr,10,40
+911,OP-PROD-2026-000046-11,46,CNC Fine Surface Milling,11,35
+912,OP-PROD-2026-000046-12,46,Precision Bore Machining,12,30
+913,OP-PROD-2026-000046-13,46,Thread Grinding & Buffing,13,25
+914,OP-PROD-2026-000046-14,46,Subassembly Component Fitment,14,55
+915,OP-PROD-2026-000046-15,46,Torque-Controlled Fastening,15,40
+916,OP-PROD-2026-000046-16,46,Full Mechanical Integration,16,55
+917,OP-PROD-2026-000046-17,46,Chemical Surface Treatment,17,35
+918,OP-PROD-2026-000046-18,46,Precision Polishing,18,25
+919,OP-PROD-2026-000046-19,46,CMM Quality & Metrology Inspection,19,30
+920,OP-PROD-2026-000046-20,46,Protective Packaging & Barcode Labelling,20,20
+921,OP-PROD-2026-000047-01,47,Material Raw Stock Preparation,1,15
+922,OP-PROD-2026-000047-02,47,Rough Profile Cutting,2,35
+923,OP-PROD-2026-000047-03,47,CNC Rough Face Milling,3,30
+924,OP-PROD-2026-000047-04,47,CNC Profile Roughing,4,40
+925,OP-PROD-2026-000047-05,47,Rough Turning Diameter,5,40
+926,OP-PROD-2026-000047-06,47,Precision CNC Turning,6,40
+927,OP-PROD-2026-000047-07,47,Deep Core Drilling,7,35
+928,OP-PROD-2026-000047-08,47,High Precision Tapping,8,20
+929,OP-PROD-2026-000047-09,47,Structural TIG Welding,9,55
+930,OP-PROD-2026-000047-10,47,Weld Seam Grinding & Deburr,10,40
+931,OP-PROD-2026-000047-11,47,CNC Fine Surface Milling,11,35
+932,OP-PROD-2026-000047-12,47,Precision Bore Machining,12,30
+933,OP-PROD-2026-000047-13,47,Thread Grinding & Buffing,13,25
+934,OP-PROD-2026-000047-14,47,Subassembly Component Fitment,14,40
+935,OP-PROD-2026-000047-15,47,Torque-Controlled Fastening,15,35
+936,OP-PROD-2026-000047-16,47,Full Mechanical Integration,16,55
+937,OP-PROD-2026-000047-17,47,Chemical Surface Treatment,17,45
+938,OP-PROD-2026-000047-18,47,Precision Polishing,18,35
+939,OP-PROD-2026-000047-19,47,CMM Quality & Metrology Inspection,19,25
+940,OP-PROD-2026-000047-20,47,Protective Packaging & Barcode Labelling,20,20
+941,OP-PROD-2026-000048-01,48,Material Raw Stock Preparation,1,25
+942,OP-PROD-2026-000048-02,48,Rough Profile Cutting,2,35
+943,OP-PROD-2026-000048-03,48,CNC Rough Face Milling,3,45
+944,OP-PROD-2026-000048-04,48,CNC Profile Roughing,4,40
+945,OP-PROD-2026-000048-05,48,Rough Turning Diameter,5,30
+946,OP-PROD-2026-000048-06,48,Precision CNC Turning,6,45
+947,OP-PROD-2026-000048-07,48,Deep Core Drilling,7,35
+948,OP-PROD-2026-000048-08,48,High Precision Tapping,8,15
+949,OP-PROD-2026-000048-09,48,Structural TIG Welding,9,45
+950,OP-PROD-2026-000048-10,48,Weld Seam Grinding & Deburr,10,30
+951,OP-PROD-2026-000048-11,48,CNC Fine Surface Milling,11,40
+952,OP-PROD-2026-000048-12,48,Precision Bore Machining,12,35
+953,OP-PROD-2026-000048-13,48,Thread Grinding & Buffing,13,25
+954,OP-PROD-2026-000048-14,48,Subassembly Component Fitment,14,45
+955,OP-PROD-2026-000048-15,48,Torque-Controlled Fastening,15,40
+956,OP-PROD-2026-000048-16,48,Full Mechanical Integration,16,60
+957,OP-PROD-2026-000048-17,48,Chemical Surface Treatment,17,50
+958,OP-PROD-2026-000048-18,48,Precision Polishing,18,35
+959,OP-PROD-2026-000048-19,48,CMM Quality & Metrology Inspection,19,15
+960,OP-PROD-2026-000048-20,48,Protective Packaging & Barcode Labelling,20,25
+961,OP-PROD-2026-000049-01,49,Material Raw Stock Preparation,1,15
+962,OP-PROD-2026-000049-02,49,Rough Profile Cutting,2,35
+963,OP-PROD-2026-000049-03,49,CNC Rough Face Milling,3,35
+964,OP-PROD-2026-000049-04,49,CNC Profile Roughing,4,50
+965,OP-PROD-2026-000049-05,49,Rough Turning Diameter,5,30
+966,OP-PROD-2026-000049-06,49,Precision CNC Turning,6,55
+967,OP-PROD-2026-000049-07,49,Deep Core Drilling,7,20
+968,OP-PROD-2026-000049-08,49,High Precision Tapping,8,30
+969,OP-PROD-2026-000049-09,49,Structural TIG Welding,9,60
+970,OP-PROD-2026-000049-10,49,Weld Seam Grinding & Deburr,10,35
+971,OP-PROD-2026-000049-11,49,CNC Fine Surface Milling,11,40
+972,OP-PROD-2026-000049-12,49,Precision Bore Machining,12,35
+973,OP-PROD-2026-000049-13,49,Thread Grinding & Buffing,13,35
+974,OP-PROD-2026-000049-14,49,Subassembly Component Fitment,14,40
+975,OP-PROD-2026-000049-15,49,Torque-Controlled Fastening,15,35
+976,OP-PROD-2026-000049-16,49,Full Mechanical Integration,16,60
+977,OP-PROD-2026-000049-17,49,Chemical Surface Treatment,17,45
+978,OP-PROD-2026-000049-18,49,Precision Polishing,18,25
+979,OP-PROD-2026-000049-19,49,CMM Quality & Metrology Inspection,19,20
+980,OP-PROD-2026-000049-20,49,Protective Packaging & Barcode Labelling,20,20
+981,OP-PROD-2026-000050-01,50,Material Raw Stock Preparation,1,25
+982,OP-PROD-2026-000050-02,50,Rough Profile Cutting,2,30
+983,OP-PROD-2026-000050-03,50,CNC Rough Face Milling,3,35
+984,OP-PROD-2026-000050-04,50,CNC Profile Roughing,4,40
+985,OP-PROD-2026-000050-05,50,Rough Turning Diameter,5,25
+986,OP-PROD-2026-000050-06,50,Precision CNC Turning,6,55
+987,OP-PROD-2026-000050-07,50,Deep Core Drilling,7,25
+988,OP-PROD-2026-000050-08,50,High Precision Tapping,8,15
+989,OP-PROD-2026-000050-09,50,Structural TIG Welding,9,45
+990,OP-PROD-2026-000050-10,50,Weld Seam Grinding & Deburr,10,30
+991,OP-PROD-2026-000050-11,50,CNC Fine Surface Milling,11,35
+992,OP-PROD-2026-000050-12,50,Precision Bore Machining,12,40
+993,OP-PROD-2026-000050-13,50,Thread Grinding & Buffing,13,30
+994,OP-PROD-2026-000050-14,50,Subassembly Component Fitment,14,50
+995,OP-PROD-2026-000050-15,50,Torque-Controlled Fastening,15,30
+996,OP-PROD-2026-000050-16,50,Full Mechanical Integration,16,70
+997,OP-PROD-2026-000050-17,50,Chemical Surface Treatment,17,50
+998,OP-PROD-2026-000050-18,50,Precision Polishing,18,25
+999,OP-PROD-2026-000050-19,50,CMM Quality & Metrology Inspection,19,30
+1000,OP-PROD-2026-000050-20,50,Protective Packaging & Barcode Labelling,20,10
+1001,OP-PROD-2026-000051-01,51,Material Raw Stock Preparation,1,30
+1002,OP-PROD-2026-000051-02,51,Rough Profile Cutting,2,30
+1003,OP-PROD-2026-000051-03,51,CNC Rough Face Milling,3,40
+1004,OP-PROD-2026-000051-04,51,CNC Profile Roughing,4,35
+1005,OP-PROD-2026-000051-05,51,Rough Turning Diameter,5,40
+1006,OP-PROD-2026-000051-06,51,Precision CNC Turning,6,45
+1007,OP-PROD-2026-000051-07,51,Deep Core Drilling,7,20
+1008,OP-PROD-2026-000051-08,51,High Precision Tapping,8,30
+1009,OP-PROD-2026-000051-09,51,Structural TIG Welding,9,50
+1010,OP-PROD-2026-000051-10,51,Weld Seam Grinding & Deburr,10,25
+1011,OP-PROD-2026-000051-11,51,CNC Fine Surface Milling,11,50
+1012,OP-PROD-2026-000051-12,51,Precision Bore Machining,12,45
+1013,OP-PROD-2026-000051-13,51,Thread Grinding & Buffing,13,35
+1014,OP-PROD-2026-000051-14,51,Subassembly Component Fitment,14,55
+1015,OP-PROD-2026-000051-15,51,Torque-Controlled Fastening,15,35
+1016,OP-PROD-2026-000051-16,51,Full Mechanical Integration,16,55
+1017,OP-PROD-2026-000051-17,51,Chemical Surface Treatment,17,50
+1018,OP-PROD-2026-000051-18,51,Precision Polishing,18,35
+1019,OP-PROD-2026-000051-19,51,CMM Quality & Metrology Inspection,19,15
+1020,OP-PROD-2026-000051-20,51,Protective Packaging & Barcode Labelling,20,20
+1021,OP-PROD-2026-000052-01,52,Material Raw Stock Preparation,1,25
+1022,OP-PROD-2026-000052-02,52,Rough Profile Cutting,2,30
+1023,OP-PROD-2026-000052-03,52,CNC Rough Face Milling,3,30
+1024,OP-PROD-2026-000052-04,52,CNC Profile Roughing,4,50
+1025,OP-PROD-2026-000052-05,52,Rough Turning Diameter,5,30
+1026,OP-PROD-2026-000052-06,52,Precision CNC Turning,6,45
+1027,OP-PROD-2026-000052-07,52,Deep Core Drilling,7,25
+1028,OP-PROD-2026-000052-08,52,High Precision Tapping,8,25
+1029,OP-PROD-2026-000052-09,52,Structural TIG Welding,9,50
+1030,OP-PROD-2026-000052-10,52,Weld Seam Grinding & Deburr,10,35
+1031,OP-PROD-2026-000052-11,52,CNC Fine Surface Milling,11,35
+1032,OP-PROD-2026-000052-12,52,Precision Bore Machining,12,45
+1033,OP-PROD-2026-000052-13,52,Thread Grinding & Buffing,13,25
+1034,OP-PROD-2026-000052-14,52,Subassembly Component Fitment,14,40
+1035,OP-PROD-2026-000052-15,52,Torque-Controlled Fastening,15,40
+1036,OP-PROD-2026-000052-16,52,Full Mechanical Integration,16,65
+1037,OP-PROD-2026-000052-17,52,Chemical Surface Treatment,17,45
+1038,OP-PROD-2026-000052-18,52,Precision Polishing,18,20
+1039,OP-PROD-2026-000052-19,52,CMM Quality & Metrology Inspection,19,30
+1040,OP-PROD-2026-000052-20,52,Protective Packaging & Barcode Labelling,20,25
+1041,OP-PROD-2026-000053-01,53,Material Raw Stock Preparation,1,20
+1042,OP-PROD-2026-000053-02,53,Rough Profile Cutting,2,25
+1043,OP-PROD-2026-000053-03,53,CNC Rough Face Milling,3,45
+1044,OP-PROD-2026-000053-04,53,CNC Profile Roughing,4,40
+1045,OP-PROD-2026-000053-05,53,Rough Turning Diameter,5,40
+1046,OP-PROD-2026-000053-06,53,Precision CNC Turning,6,50
+1047,OP-PROD-2026-000053-07,53,Deep Core Drilling,7,35
+1048,OP-PROD-2026-000053-08,53,High Precision Tapping,8,20
+1049,OP-PROD-2026-000053-09,53,Structural TIG Welding,9,55
+1050,OP-PROD-2026-000053-10,53,Weld Seam Grinding & Deburr,10,35
+1051,OP-PROD-2026-000053-11,53,CNC Fine Surface Milling,11,45
+1052,OP-PROD-2026-000053-12,53,Precision Bore Machining,12,30
+1053,OP-PROD-2026-000053-13,53,Thread Grinding & Buffing,13,30
+1054,OP-PROD-2026-000053-14,53,Subassembly Component Fitment,14,45
+1055,OP-PROD-2026-000053-15,53,Torque-Controlled Fastening,15,25
+1056,OP-PROD-2026-000053-16,53,Full Mechanical Integration,16,65
+1057,OP-PROD-2026-000053-17,53,Chemical Surface Treatment,17,50
+1058,OP-PROD-2026-000053-18,53,Precision Polishing,18,20
+1059,OP-PROD-2026-000053-19,53,CMM Quality & Metrology Inspection,19,20
+1060,OP-PROD-2026-000053-20,53,Protective Packaging & Barcode Labelling,20,15
+1061,OP-PROD-2026-000054-01,54,Material Raw Stock Preparation,1,25
+1062,OP-PROD-2026-000054-02,54,Rough Profile Cutting,2,25
+1063,OP-PROD-2026-000054-03,54,CNC Rough Face Milling,3,35
+1064,OP-PROD-2026-000054-04,54,CNC Profile Roughing,4,40
+1065,OP-PROD-2026-000054-05,54,Rough Turning Diameter,5,25
+1066,OP-PROD-2026-000054-06,54,Precision CNC Turning,6,40
+1067,OP-PROD-2026-000054-07,54,Deep Core Drilling,7,30
+1068,OP-PROD-2026-000054-08,54,High Precision Tapping,8,25
+1069,OP-PROD-2026-000054-09,54,Structural TIG Welding,9,55
+1070,OP-PROD-2026-000054-10,54,Weld Seam Grinding & Deburr,10,35
+1071,OP-PROD-2026-000054-11,54,CNC Fine Surface Milling,11,50
+1072,OP-PROD-2026-000054-12,54,Precision Bore Machining,12,30
+1073,OP-PROD-2026-000054-13,54,Thread Grinding & Buffing,13,30
+1074,OP-PROD-2026-000054-14,54,Subassembly Component Fitment,14,55
+1075,OP-PROD-2026-000054-15,54,Torque-Controlled Fastening,15,25
+1076,OP-PROD-2026-000054-16,54,Full Mechanical Integration,16,55
+1077,OP-PROD-2026-000054-17,54,Chemical Surface Treatment,17,40
+1078,OP-PROD-2026-000054-18,54,Precision Polishing,18,35
+1079,OP-PROD-2026-000054-19,54,CMM Quality & Metrology Inspection,19,25
+1080,OP-PROD-2026-000054-20,54,Protective Packaging & Barcode Labelling,20,25
+1081,OP-PROD-2026-000055-01,55,Material Raw Stock Preparation,1,30
+1082,OP-PROD-2026-000055-02,55,Rough Profile Cutting,2,30
+1083,OP-PROD-2026-000055-03,55,CNC Rough Face Milling,3,30
+1084,OP-PROD-2026-000055-04,55,CNC Profile Roughing,4,40
+1085,OP-PROD-2026-000055-05,55,Rough Turning Diameter,5,35
+1086,OP-PROD-2026-000055-06,55,Precision CNC Turning,6,55
+1087,OP-PROD-2026-000055-07,55,Deep Core Drilling,7,25
+1088,OP-PROD-2026-000055-08,55,High Precision Tapping,8,25
+1089,OP-PROD-2026-000055-09,55,Structural TIG Welding,9,45
+1090,OP-PROD-2026-000055-10,55,Weld Seam Grinding & Deburr,10,40
+1091,OP-PROD-2026-000055-11,55,CNC Fine Surface Milling,11,45
+1092,OP-PROD-2026-000055-12,55,Precision Bore Machining,12,35
+1093,OP-PROD-2026-000055-13,55,Thread Grinding & Buffing,13,20
+1094,OP-PROD-2026-000055-14,55,Subassembly Component Fitment,14,55
+1095,OP-PROD-2026-000055-15,55,Torque-Controlled Fastening,15,35
+1096,OP-PROD-2026-000055-16,55,Full Mechanical Integration,16,60
+1097,OP-PROD-2026-000055-17,55,Chemical Surface Treatment,17,35
+1098,OP-PROD-2026-000055-18,55,Precision Polishing,18,35
+1099,OP-PROD-2026-000055-19,55,CMM Quality & Metrology Inspection,19,20
+1100,OP-PROD-2026-000055-20,55,Protective Packaging & Barcode Labelling,20,15
+1101,OP-PROD-2026-000056-01,56,Material Raw Stock Preparation,1,30
+1102,OP-PROD-2026-000056-02,56,Rough Profile Cutting,2,35
+1103,OP-PROD-2026-000056-03,56,CNC Rough Face Milling,3,30
+1104,OP-PROD-2026-000056-04,56,CNC Profile Roughing,4,35
+1105,OP-PROD-2026-000056-05,56,Rough Turning Diameter,5,25
+1106,OP-PROD-2026-000056-06,56,Precision CNC Turning,6,55
+1107,OP-PROD-2026-000056-07,56,Deep Core Drilling,7,35
+1108,OP-PROD-2026-000056-08,56,High Precision Tapping,8,20
+1109,OP-PROD-2026-000056-09,56,Structural TIG Welding,9,60
+1110,OP-PROD-2026-000056-10,56,Weld Seam Grinding & Deburr,10,35
+1111,OP-PROD-2026-000056-11,56,CNC Fine Surface Milling,11,50
+1112,OP-PROD-2026-000056-12,56,Precision Bore Machining,12,40
+1113,OP-PROD-2026-000056-13,56,Thread Grinding & Buffing,13,35
+1114,OP-PROD-2026-000056-14,56,Subassembly Component Fitment,14,45
+1115,OP-PROD-2026-000056-15,56,Torque-Controlled Fastening,15,25
+1116,OP-PROD-2026-000056-16,56,Full Mechanical Integration,16,60
+1117,OP-PROD-2026-000056-17,56,Chemical Surface Treatment,17,40
+1118,OP-PROD-2026-000056-18,56,Precision Polishing,18,20
+1119,OP-PROD-2026-000056-19,56,CMM Quality & Metrology Inspection,19,25
+1120,OP-PROD-2026-000056-20,56,Protective Packaging & Barcode Labelling,20,20
+1121,OP-PROD-2026-000057-01,57,Material Raw Stock Preparation,1,15
+1122,OP-PROD-2026-000057-02,57,Rough Profile Cutting,2,25
+1123,OP-PROD-2026-000057-03,57,CNC Rough Face Milling,3,40
+1124,OP-PROD-2026-000057-04,57,CNC Profile Roughing,4,50
+1125,OP-PROD-2026-000057-05,57,Rough Turning Diameter,5,35
+1126,OP-PROD-2026-000057-06,57,Precision CNC Turning,6,55
+1127,OP-PROD-2026-000057-07,57,Deep Core Drilling,7,35
+1128,OP-PROD-2026-000057-08,57,High Precision Tapping,8,20
+1129,OP-PROD-2026-000057-09,57,Structural TIG Welding,9,50
+1130,OP-PROD-2026-000057-10,57,Weld Seam Grinding & Deburr,10,40
+1131,OP-PROD-2026-000057-11,57,CNC Fine Surface Milling,11,45
+1132,OP-PROD-2026-000057-12,57,Precision Bore Machining,12,45
+1133,OP-PROD-2026-000057-13,57,Thread Grinding & Buffing,13,30
+1134,OP-PROD-2026-000057-14,57,Subassembly Component Fitment,14,50
+1135,OP-PROD-2026-000057-15,57,Torque-Controlled Fastening,15,30
+1136,OP-PROD-2026-000057-16,57,Full Mechanical Integration,16,65
+1137,OP-PROD-2026-000057-17,57,Chemical Surface Treatment,17,35
+1138,OP-PROD-2026-000057-18,57,Precision Polishing,18,30
+1139,OP-PROD-2026-000057-19,57,CMM Quality & Metrology Inspection,19,15
+1140,OP-PROD-2026-000057-20,57,Protective Packaging & Barcode Labelling,20,25
+1141,OP-PROD-2026-000058-01,58,Material Raw Stock Preparation,1,25
+1142,OP-PROD-2026-000058-02,58,Rough Profile Cutting,2,35
+1143,OP-PROD-2026-000058-03,58,CNC Rough Face Milling,3,40
+1144,OP-PROD-2026-000058-04,58,CNC Profile Roughing,4,40
+1145,OP-PROD-2026-000058-05,58,Rough Turning Diameter,5,35
+1146,OP-PROD-2026-000058-06,58,Precision CNC Turning,6,40
+1147,OP-PROD-2026-000058-07,58,Deep Core Drilling,7,20
+1148,OP-PROD-2026-000058-08,58,High Precision Tapping,8,20
+1149,OP-PROD-2026-000058-09,58,Structural TIG Welding,9,55
+1150,OP-PROD-2026-000058-10,58,Weld Seam Grinding & Deburr,10,30
+1151,OP-PROD-2026-000058-11,58,CNC Fine Surface Milling,11,35
+1152,OP-PROD-2026-000058-12,58,Precision Bore Machining,12,35
+1153,OP-PROD-2026-000058-13,58,Thread Grinding & Buffing,13,35
+1154,OP-PROD-2026-000058-14,58,Subassembly Component Fitment,14,55
+1155,OP-PROD-2026-000058-15,58,Torque-Controlled Fastening,15,35
+1156,OP-PROD-2026-000058-16,58,Full Mechanical Integration,16,70
+1157,OP-PROD-2026-000058-17,58,Chemical Surface Treatment,17,50
+1158,OP-PROD-2026-000058-18,58,Precision Polishing,18,35
+1159,OP-PROD-2026-000058-19,58,CMM Quality & Metrology Inspection,19,20
+1160,OP-PROD-2026-000058-20,58,Protective Packaging & Barcode Labelling,20,20
+1161,OP-PROD-2026-000059-01,59,Material Raw Stock Preparation,1,15
+1162,OP-PROD-2026-000059-02,59,Rough Profile Cutting,2,30
+1163,OP-PROD-2026-000059-03,59,CNC Rough Face Milling,3,30
+1164,OP-PROD-2026-000059-04,59,CNC Profile Roughing,4,40
+1165,OP-PROD-2026-000059-05,59,Rough Turning Diameter,5,30
+1166,OP-PROD-2026-000059-06,59,Precision CNC Turning,6,40
+1167,OP-PROD-2026-000059-07,59,Deep Core Drilling,7,30
+1168,OP-PROD-2026-000059-08,59,High Precision Tapping,8,20
+1169,OP-PROD-2026-000059-09,59,Structural TIG Welding,9,45
+1170,OP-PROD-2026-000059-10,59,Weld Seam Grinding & Deburr,10,25
+1171,OP-PROD-2026-000059-11,59,CNC Fine Surface Milling,11,40
+1172,OP-PROD-2026-000059-12,59,Precision Bore Machining,12,35
+1173,OP-PROD-2026-000059-13,59,Thread Grinding & Buffing,13,30
+1174,OP-PROD-2026-000059-14,59,Subassembly Component Fitment,14,55
+1175,OP-PROD-2026-000059-15,59,Torque-Controlled Fastening,15,30
+1176,OP-PROD-2026-000059-16,59,Full Mechanical Integration,16,55
+1177,OP-PROD-2026-000059-17,59,Chemical Surface Treatment,17,50
+1178,OP-PROD-2026-000059-18,59,Precision Polishing,18,20
+1179,OP-PROD-2026-000059-19,59,CMM Quality & Metrology Inspection,19,15
+1180,OP-PROD-2026-000059-20,59,Protective Packaging & Barcode Labelling,20,25
+1181,OP-PROD-2026-000060-01,60,Material Raw Stock Preparation,1,15
+1182,OP-PROD-2026-000060-02,60,Rough Profile Cutting,2,20
+1183,OP-PROD-2026-000060-03,60,CNC Rough Face Milling,3,30
+1184,OP-PROD-2026-000060-04,60,CNC Profile Roughing,4,40
+1185,OP-PROD-2026-000060-05,60,Rough Turning Diameter,5,25
+1186,OP-PROD-2026-000060-06,60,Precision CNC Turning,6,40
+1187,OP-PROD-2026-000060-07,60,Deep Core Drilling,7,35
+1188,OP-PROD-2026-000060-08,60,High Precision Tapping,8,15
+1189,OP-PROD-2026-000060-09,60,Structural TIG Welding,9,55
+1190,OP-PROD-2026-000060-10,60,Weld Seam Grinding & Deburr,10,35
+1191,OP-PROD-2026-000060-11,60,CNC Fine Surface Milling,11,40
+1192,OP-PROD-2026-000060-12,60,Precision Bore Machining,12,40
+1193,OP-PROD-2026-000060-13,60,Thread Grinding & Buffing,13,35
+1194,OP-PROD-2026-000060-14,60,Subassembly Component Fitment,14,55
+1195,OP-PROD-2026-000060-15,60,Torque-Controlled Fastening,15,35
+1196,OP-PROD-2026-000060-16,60,Full Mechanical Integration,16,60
+1197,OP-PROD-2026-000060-17,60,Chemical Surface Treatment,17,45
+1198,OP-PROD-2026-000060-18,60,Precision Polishing,18,20
+1199,OP-PROD-2026-000060-19,60,CMM Quality & Metrology Inspection,19,20
+1200,OP-PROD-2026-000060-20,60,Protective Packaging & Barcode Labelling,20,20
+1201,OP-PROD-2026-000061-01,61,Material Raw Stock Preparation,1,15
+1202,OP-PROD-2026-000061-02,61,Rough Profile Cutting,2,20
+1203,OP-PROD-2026-000061-03,61,CNC Rough Face Milling,3,30
+1204,OP-PROD-2026-000061-04,61,CNC Profile Roughing,4,40
+1205,OP-PROD-2026-000061-05,61,Rough Turning Diameter,5,35
+1206,OP-PROD-2026-000061-06,61,Precision CNC Turning,6,50
+1207,OP-PROD-2026-000061-07,61,Deep Core Drilling,7,30
+1208,OP-PROD-2026-000061-08,61,High Precision Tapping,8,30
+1209,OP-PROD-2026-000061-09,61,Structural TIG Welding,9,45
+1210,OP-PROD-2026-000061-10,61,Weld Seam Grinding & Deburr,10,35
+1211,OP-PROD-2026-000061-11,61,CNC Fine Surface Milling,11,45
+1212,OP-PROD-2026-000061-12,61,Precision Bore Machining,12,40
+1213,OP-PROD-2026-000061-13,61,Thread Grinding & Buffing,13,35
+1214,OP-PROD-2026-000061-14,61,Subassembly Component Fitment,14,50
+1215,OP-PROD-2026-000061-15,61,Torque-Controlled Fastening,15,35
+1216,OP-PROD-2026-000061-16,61,Full Mechanical Integration,16,55
+1217,OP-PROD-2026-000061-17,61,Chemical Surface Treatment,17,35
+1218,OP-PROD-2026-000061-18,61,Precision Polishing,18,35
+1219,OP-PROD-2026-000061-19,61,CMM Quality & Metrology Inspection,19,30
+1220,OP-PROD-2026-000061-20,61,Protective Packaging & Barcode Labelling,20,10
+1221,OP-PROD-2026-000062-01,62,Material Raw Stock Preparation,1,15
+1222,OP-PROD-2026-000062-02,62,Rough Profile Cutting,2,25
+1223,OP-PROD-2026-000062-03,62,CNC Rough Face Milling,3,45
+1224,OP-PROD-2026-000062-04,62,CNC Profile Roughing,4,45
+1225,OP-PROD-2026-000062-05,62,Rough Turning Diameter,5,40
+1226,OP-PROD-2026-000062-06,62,Precision CNC Turning,6,55
+1227,OP-PROD-2026-000062-07,62,Deep Core Drilling,7,35
+1228,OP-PROD-2026-000062-08,62,High Precision Tapping,8,25
+1229,OP-PROD-2026-000062-09,62,Structural TIG Welding,9,55
+1230,OP-PROD-2026-000062-10,62,Weld Seam Grinding & Deburr,10,30
+1231,OP-PROD-2026-000062-11,62,CNC Fine Surface Milling,11,45
+1232,OP-PROD-2026-000062-12,62,Precision Bore Machining,12,40
+1233,OP-PROD-2026-000062-13,62,Thread Grinding & Buffing,13,20
+1234,OP-PROD-2026-000062-14,62,Subassembly Component Fitment,14,50
+1235,OP-PROD-2026-000062-15,62,Torque-Controlled Fastening,15,25
+1236,OP-PROD-2026-000062-16,62,Full Mechanical Integration,16,60
+1237,OP-PROD-2026-000062-17,62,Chemical Surface Treatment,17,35
+1238,OP-PROD-2026-000062-18,62,Precision Polishing,18,30
+1239,OP-PROD-2026-000062-19,62,CMM Quality & Metrology Inspection,19,30
+1240,OP-PROD-2026-000062-20,62,Protective Packaging & Barcode Labelling,20,10
+1241,OP-PROD-2026-000063-01,63,Material Raw Stock Preparation,1,15
+1242,OP-PROD-2026-000063-02,63,Rough Profile Cutting,2,20
+1243,OP-PROD-2026-000063-03,63,CNC Rough Face Milling,3,35
+1244,OP-PROD-2026-000063-04,63,CNC Profile Roughing,4,40
+1245,OP-PROD-2026-000063-05,63,Rough Turning Diameter,5,35
+1246,OP-PROD-2026-000063-06,63,Precision CNC Turning,6,50
+1247,OP-PROD-2026-000063-07,63,Deep Core Drilling,7,20
+1248,OP-PROD-2026-000063-08,63,High Precision Tapping,8,25
+1249,OP-PROD-2026-000063-09,63,Structural TIG Welding,9,50
+1250,OP-PROD-2026-000063-10,63,Weld Seam Grinding & Deburr,10,40
+1251,OP-PROD-2026-000063-11,63,CNC Fine Surface Milling,11,40
+1252,OP-PROD-2026-000063-12,63,Precision Bore Machining,12,40
+1253,OP-PROD-2026-000063-13,63,Thread Grinding & Buffing,13,20
+1254,OP-PROD-2026-000063-14,63,Subassembly Component Fitment,14,40
+1255,OP-PROD-2026-000063-15,63,Torque-Controlled Fastening,15,30
+1256,OP-PROD-2026-000063-16,63,Full Mechanical Integration,16,55
+1257,OP-PROD-2026-000063-17,63,Chemical Surface Treatment,17,45
+1258,OP-PROD-2026-000063-18,63,Precision Polishing,18,30
+1259,OP-PROD-2026-000063-19,63,CMM Quality & Metrology Inspection,19,30
+1260,OP-PROD-2026-000063-20,63,Protective Packaging & Barcode Labelling,20,10
+1261,OP-PROD-2026-000064-01,64,Material Raw Stock Preparation,1,15
+1262,OP-PROD-2026-000064-02,64,Rough Profile Cutting,2,30
+1263,OP-PROD-2026-000064-03,64,CNC Rough Face Milling,3,35
+1264,OP-PROD-2026-000064-04,64,CNC Profile Roughing,4,35
+1265,OP-PROD-2026-000064-05,64,Rough Turning Diameter,5,35
+1266,OP-PROD-2026-000064-06,64,Precision CNC Turning,6,45
+1267,OP-PROD-2026-000064-07,64,Deep Core Drilling,7,35
+1268,OP-PROD-2026-000064-08,64,High Precision Tapping,8,15
+1269,OP-PROD-2026-000064-09,64,Structural TIG Welding,9,45
+1270,OP-PROD-2026-000064-10,64,Weld Seam Grinding & Deburr,10,30
+1271,OP-PROD-2026-000064-11,64,CNC Fine Surface Milling,11,45
+1272,OP-PROD-2026-000064-12,64,Precision Bore Machining,12,35
+1273,OP-PROD-2026-000064-13,64,Thread Grinding & Buffing,13,30
+1274,OP-PROD-2026-000064-14,64,Subassembly Component Fitment,14,50
+1275,OP-PROD-2026-000064-15,64,Torque-Controlled Fastening,15,30
+1276,OP-PROD-2026-000064-16,64,Full Mechanical Integration,16,60
+1277,OP-PROD-2026-000064-17,64,Chemical Surface Treatment,17,40
+1278,OP-PROD-2026-000064-18,64,Precision Polishing,18,35
+1279,OP-PROD-2026-000064-19,64,CMM Quality & Metrology Inspection,19,30
+1280,OP-PROD-2026-000064-20,64,Protective Packaging & Barcode Labelling,20,10
+1281,OP-PROD-2026-000065-01,65,Material Raw Stock Preparation,1,20
+1282,OP-PROD-2026-000065-02,65,Rough Profile Cutting,2,20
+1283,OP-PROD-2026-000065-03,65,CNC Rough Face Milling,3,45
+1284,OP-PROD-2026-000065-04,65,CNC Profile Roughing,4,45
+1285,OP-PROD-2026-000065-05,65,Rough Turning Diameter,5,35
+1286,OP-PROD-2026-000065-06,65,Precision CNC Turning,6,55
+1287,OP-PROD-2026-000065-07,65,Deep Core Drilling,7,20
+1288,OP-PROD-2026-000065-08,65,High Precision Tapping,8,30
+1289,OP-PROD-2026-000065-09,65,Structural TIG Welding,9,45
+1290,OP-PROD-2026-000065-10,65,Weld Seam Grinding & Deburr,10,30
+1291,OP-PROD-2026-000065-11,65,CNC Fine Surface Milling,11,35
+1292,OP-PROD-2026-000065-12,65,Precision Bore Machining,12,40
+1293,OP-PROD-2026-000065-13,65,Thread Grinding & Buffing,13,25
+1294,OP-PROD-2026-000065-14,65,Subassembly Component Fitment,14,50
+1295,OP-PROD-2026-000065-15,65,Torque-Controlled Fastening,15,40
+1296,OP-PROD-2026-000065-16,65,Full Mechanical Integration,16,70
+1297,OP-PROD-2026-000065-17,65,Chemical Surface Treatment,17,40
+1298,OP-PROD-2026-000065-18,65,Precision Polishing,18,20
+1299,OP-PROD-2026-000065-19,65,CMM Quality & Metrology Inspection,19,15
+1300,OP-PROD-2026-000065-20,65,Protective Packaging & Barcode Labelling,20,15
+1301,OP-PROD-2026-000066-01,66,Material Raw Stock Preparation,1,25
+1302,OP-PROD-2026-000066-02,66,Rough Profile Cutting,2,30
+1303,OP-PROD-2026-000066-03,66,CNC Rough Face Milling,3,30
+1304,OP-PROD-2026-000066-04,66,CNC Profile Roughing,4,50
+1305,OP-PROD-2026-000066-05,66,Rough Turning Diameter,5,40
+1306,OP-PROD-2026-000066-06,66,Precision CNC Turning,6,50
+1307,OP-PROD-2026-000066-07,66,Deep Core Drilling,7,25
+1308,OP-PROD-2026-000066-08,66,High Precision Tapping,8,25
+1309,OP-PROD-2026-000066-09,66,Structural TIG Welding,9,50
+1310,OP-PROD-2026-000066-10,66,Weld Seam Grinding & Deburr,10,25
+1311,OP-PROD-2026-000066-11,66,CNC Fine Surface Milling,11,40
+1312,OP-PROD-2026-000066-12,66,Precision Bore Machining,12,30
+1313,OP-PROD-2026-000066-13,66,Thread Grinding & Buffing,13,25
+1314,OP-PROD-2026-000066-14,66,Subassembly Component Fitment,14,40
+1315,OP-PROD-2026-000066-15,66,Torque-Controlled Fastening,15,30
+1316,OP-PROD-2026-000066-16,66,Full Mechanical Integration,16,60
+1317,OP-PROD-2026-000066-17,66,Chemical Surface Treatment,17,35
+1318,OP-PROD-2026-000066-18,66,Precision Polishing,18,30
+1319,OP-PROD-2026-000066-19,66,CMM Quality & Metrology Inspection,19,30
+1320,OP-PROD-2026-000066-20,66,Protective Packaging & Barcode Labelling,20,10
+1321,OP-PROD-2026-000067-01,67,Material Raw Stock Preparation,1,15
+1322,OP-PROD-2026-000067-02,67,Rough Profile Cutting,2,25
+1323,OP-PROD-2026-000067-03,67,CNC Rough Face Milling,3,45
+1324,OP-PROD-2026-000067-04,67,CNC Profile Roughing,4,40
+1325,OP-PROD-2026-000067-05,67,Rough Turning Diameter,5,30
+1326,OP-PROD-2026-000067-06,67,Precision CNC Turning,6,55
+1327,OP-PROD-2026-000067-07,67,Deep Core Drilling,7,35
+1328,OP-PROD-2026-000067-08,67,High Precision Tapping,8,15
+1329,OP-PROD-2026-000067-09,67,Structural TIG Welding,9,45
+1330,OP-PROD-2026-000067-10,67,Weld Seam Grinding & Deburr,10,40
+1331,OP-PROD-2026-000067-11,67,CNC Fine Surface Milling,11,35
+1332,OP-PROD-2026-000067-12,67,Precision Bore Machining,12,45
+1333,OP-PROD-2026-000067-13,67,Thread Grinding & Buffing,13,35
+1334,OP-PROD-2026-000067-14,67,Subassembly Component Fitment,14,45
+1335,OP-PROD-2026-000067-15,67,Torque-Controlled Fastening,15,25
+1336,OP-PROD-2026-000067-16,67,Full Mechanical Integration,16,65
+1337,OP-PROD-2026-000067-17,67,Chemical Surface Treatment,17,50
+1338,OP-PROD-2026-000067-18,67,Precision Polishing,18,25
+1339,OP-PROD-2026-000067-19,67,CMM Quality & Metrology Inspection,19,15
+1340,OP-PROD-2026-000067-20,67,Protective Packaging & Barcode Labelling,20,20
+1341,OP-PROD-2026-000068-01,68,Material Raw Stock Preparation,1,30
+1342,OP-PROD-2026-000068-02,68,Rough Profile Cutting,2,20
+1343,OP-PROD-2026-000068-03,68,CNC Rough Face Milling,3,45
+1344,OP-PROD-2026-000068-04,68,CNC Profile Roughing,4,50
+1345,OP-PROD-2026-000068-05,68,Rough Turning Diameter,5,40
+1346,OP-PROD-2026-000068-06,68,Precision CNC Turning,6,50
+1347,OP-PROD-2026-000068-07,68,Deep Core Drilling,7,35
+1348,OP-PROD-2026-000068-08,68,High Precision Tapping,8,20
+1349,OP-PROD-2026-000068-09,68,Structural TIG Welding,9,60
+1350,OP-PROD-2026-000068-10,68,Weld Seam Grinding & Deburr,10,35
+1351,OP-PROD-2026-000068-11,68,CNC Fine Surface Milling,11,45
+1352,OP-PROD-2026-000068-12,68,Precision Bore Machining,12,40
+1353,OP-PROD-2026-000068-13,68,Thread Grinding & Buffing,13,35
+1354,OP-PROD-2026-000068-14,68,Subassembly Component Fitment,14,40
+1355,OP-PROD-2026-000068-15,68,Torque-Controlled Fastening,15,40
+1356,OP-PROD-2026-000068-16,68,Full Mechanical Integration,16,65
+1357,OP-PROD-2026-000068-17,68,Chemical Surface Treatment,17,45
+1358,OP-PROD-2026-000068-18,68,Precision Polishing,18,25
+1359,OP-PROD-2026-000068-19,68,CMM Quality & Metrology Inspection,19,15
+1360,OP-PROD-2026-000068-20,68,Protective Packaging & Barcode Labelling,20,10
+1361,OP-PROD-2026-000069-01,69,Material Raw Stock Preparation,1,15
+1362,OP-PROD-2026-000069-02,69,Rough Profile Cutting,2,20
+1363,OP-PROD-2026-000069-03,69,CNC Rough Face Milling,3,35
+1364,OP-PROD-2026-000069-04,69,CNC Profile Roughing,4,50
+1365,OP-PROD-2026-000069-05,69,Rough Turning Diameter,5,35
+1366,OP-PROD-2026-000069-06,69,Precision CNC Turning,6,50
+1367,OP-PROD-2026-000069-07,69,Deep Core Drilling,7,25
+1368,OP-PROD-2026-000069-08,69,High Precision Tapping,8,20
+1369,OP-PROD-2026-000069-09,69,Structural TIG Welding,9,60
+1370,OP-PROD-2026-000069-10,69,Weld Seam Grinding & Deburr,10,30
+1371,OP-PROD-2026-000069-11,69,CNC Fine Surface Milling,11,50
+1372,OP-PROD-2026-000069-12,69,Precision Bore Machining,12,30
+1373,OP-PROD-2026-000069-13,69,Thread Grinding & Buffing,13,30
+1374,OP-PROD-2026-000069-14,69,Subassembly Component Fitment,14,55
+1375,OP-PROD-2026-000069-15,69,Torque-Controlled Fastening,15,35
+1376,OP-PROD-2026-000069-16,69,Full Mechanical Integration,16,65
+1377,OP-PROD-2026-000069-17,69,Chemical Surface Treatment,17,35
+1378,OP-PROD-2026-000069-18,69,Precision Polishing,18,20
+1379,OP-PROD-2026-000069-19,69,CMM Quality & Metrology Inspection,19,25
+1380,OP-PROD-2026-000069-20,69,Protective Packaging & Barcode Labelling,20,15
+1381,OP-PROD-2026-000070-01,70,Material Raw Stock Preparation,1,20
+1382,OP-PROD-2026-000070-02,70,Rough Profile Cutting,2,20
+1383,OP-PROD-2026-000070-03,70,CNC Rough Face Milling,3,30
+1384,OP-PROD-2026-000070-04,70,CNC Profile Roughing,4,45
+1385,OP-PROD-2026-000070-05,70,Rough Turning Diameter,5,25
+1386,OP-PROD-2026-000070-06,70,Precision CNC Turning,6,40
+1387,OP-PROD-2026-000070-07,70,Deep Core Drilling,7,25
+1388,OP-PROD-2026-000070-08,70,High Precision Tapping,8,15
+1389,OP-PROD-2026-000070-09,70,Structural TIG Welding,9,45
+1390,OP-PROD-2026-000070-10,70,Weld Seam Grinding & Deburr,10,40
+1391,OP-PROD-2026-000070-11,70,CNC Fine Surface Milling,11,50
+1392,OP-PROD-2026-000070-12,70,Precision Bore Machining,12,40
+1393,OP-PROD-2026-000070-13,70,Thread Grinding & Buffing,13,25
+1394,OP-PROD-2026-000070-14,70,Subassembly Component Fitment,14,55
+1395,OP-PROD-2026-000070-15,70,Torque-Controlled Fastening,15,25
+1396,OP-PROD-2026-000070-16,70,Full Mechanical Integration,16,65
+1397,OP-PROD-2026-000070-17,70,Chemical Surface Treatment,17,45
+1398,OP-PROD-2026-000070-18,70,Precision Polishing,18,20
+1399,OP-PROD-2026-000070-19,70,CMM Quality & Metrology Inspection,19,20
+1400,OP-PROD-2026-000070-20,70,Protective Packaging & Barcode Labelling,20,15
+1401,OP-PROD-2026-000071-01,71,Material Raw Stock Preparation,1,30
+1402,OP-PROD-2026-000071-02,71,Rough Profile Cutting,2,35
+1403,OP-PROD-2026-000071-03,71,CNC Rough Face Milling,3,40
+1404,OP-PROD-2026-000071-04,71,CNC Profile Roughing,4,40
+1405,OP-PROD-2026-000071-05,71,Rough Turning Diameter,5,25
+1406,OP-PROD-2026-000071-06,71,Precision CNC Turning,6,50
+1407,OP-PROD-2026-000071-07,71,Deep Core Drilling,7,35
+1408,OP-PROD-2026-000071-08,71,High Precision Tapping,8,15
+1409,OP-PROD-2026-000071-09,71,Structural TIG Welding,9,55
+1410,OP-PROD-2026-000071-10,71,Weld Seam Grinding & Deburr,10,25
+1411,OP-PROD-2026-000071-11,71,CNC Fine Surface Milling,11,45
+1412,OP-PROD-2026-000071-12,71,Precision Bore Machining,12,30
+1413,OP-PROD-2026-000071-13,71,Thread Grinding & Buffing,13,35
+1414,OP-PROD-2026-000071-14,71,Subassembly Component Fitment,14,40
+1415,OP-PROD-2026-000071-15,71,Torque-Controlled Fastening,15,40
+1416,OP-PROD-2026-000071-16,71,Full Mechanical Integration,16,55
+1417,OP-PROD-2026-000071-17,71,Chemical Surface Treatment,17,45
+1418,OP-PROD-2026-000071-18,71,Precision Polishing,18,25
+1419,OP-PROD-2026-000071-19,71,CMM Quality & Metrology Inspection,19,15
+1420,OP-PROD-2026-000071-20,71,Protective Packaging & Barcode Labelling,20,15
+1421,OP-PROD-2026-000072-01,72,Material Raw Stock Preparation,1,20
+1422,OP-PROD-2026-000072-02,72,Rough Profile Cutting,2,30
+1423,OP-PROD-2026-000072-03,72,CNC Rough Face Milling,3,45
+1424,OP-PROD-2026-000072-04,72,CNC Profile Roughing,4,35
+1425,OP-PROD-2026-000072-05,72,Rough Turning Diameter,5,40
+1426,OP-PROD-2026-000072-06,72,Precision CNC Turning,6,55
+1427,OP-PROD-2026-000072-07,72,Deep Core Drilling,7,20
+1428,OP-PROD-2026-000072-08,72,High Precision Tapping,8,20
+1429,OP-PROD-2026-000072-09,72,Structural TIG Welding,9,50
+1430,OP-PROD-2026-000072-10,72,Weld Seam Grinding & Deburr,10,30
+1431,OP-PROD-2026-000072-11,72,CNC Fine Surface Milling,11,50
+1432,OP-PROD-2026-000072-12,72,Precision Bore Machining,12,40
+1433,OP-PROD-2026-000072-13,72,Thread Grinding & Buffing,13,20
+1434,OP-PROD-2026-000072-14,72,Subassembly Component Fitment,14,55
+1435,OP-PROD-2026-000072-15,72,Torque-Controlled Fastening,15,25
+1436,OP-PROD-2026-000072-16,72,Full Mechanical Integration,16,70
+1437,OP-PROD-2026-000072-17,72,Chemical Surface Treatment,17,50
+1438,OP-PROD-2026-000072-18,72,Precision Polishing,18,20
+1439,OP-PROD-2026-000072-19,72,CMM Quality & Metrology Inspection,19,30
+1440,OP-PROD-2026-000072-20,72,Protective Packaging & Barcode Labelling,20,15
+1441,OP-PROD-2026-000073-01,73,Material Raw Stock Preparation,1,30
+1442,OP-PROD-2026-000073-02,73,Rough Profile Cutting,2,35
+1443,OP-PROD-2026-000073-03,73,CNC Rough Face Milling,3,40
+1444,OP-PROD-2026-000073-04,73,CNC Profile Roughing,4,35
+1445,OP-PROD-2026-000073-05,73,Rough Turning Diameter,5,35
+1446,OP-PROD-2026-000073-06,73,Precision CNC Turning,6,40
+1447,OP-PROD-2026-000073-07,73,Deep Core Drilling,7,30
+1448,OP-PROD-2026-000073-08,73,High Precision Tapping,8,20
+1449,OP-PROD-2026-000073-09,73,Structural TIG Welding,9,55
+1450,OP-PROD-2026-000073-10,73,Weld Seam Grinding & Deburr,10,30
+1451,OP-PROD-2026-000073-11,73,CNC Fine Surface Milling,11,50
+1452,OP-PROD-2026-000073-12,73,Precision Bore Machining,12,35
+1453,OP-PROD-2026-000073-13,73,Thread Grinding & Buffing,13,35
+1454,OP-PROD-2026-000073-14,73,Subassembly Component Fitment,14,45
+1455,OP-PROD-2026-000073-15,73,Torque-Controlled Fastening,15,25
+1456,OP-PROD-2026-000073-16,73,Full Mechanical Integration,16,65
+1457,OP-PROD-2026-000073-17,73,Chemical Surface Treatment,17,35
+1458,OP-PROD-2026-000073-18,73,Precision Polishing,18,25
+1459,OP-PROD-2026-000073-19,73,CMM Quality & Metrology Inspection,19,25
+1460,OP-PROD-2026-000073-20,73,Protective Packaging & Barcode Labelling,20,15
+1461,OP-PROD-2026-000074-01,74,Material Raw Stock Preparation,1,30
+1462,OP-PROD-2026-000074-02,74,Rough Profile Cutting,2,20
+1463,OP-PROD-2026-000074-03,74,CNC Rough Face Milling,3,40
+1464,OP-PROD-2026-000074-04,74,CNC Profile Roughing,4,40
+1465,OP-PROD-2026-000074-05,74,Rough Turning Diameter,5,35
+1466,OP-PROD-2026-000074-06,74,Precision CNC Turning,6,45
+1467,OP-PROD-2026-000074-07,74,Deep Core Drilling,7,25
+1468,OP-PROD-2026-000074-08,74,High Precision Tapping,8,20
+1469,OP-PROD-2026-000074-09,74,Structural TIG Welding,9,50
+1470,OP-PROD-2026-000074-10,74,Weld Seam Grinding & Deburr,10,25
+1471,OP-PROD-2026-000074-11,74,CNC Fine Surface Milling,11,35
+1472,OP-PROD-2026-000074-12,74,Precision Bore Machining,12,45
+1473,OP-PROD-2026-000074-13,74,Thread Grinding & Buffing,13,20
+1474,OP-PROD-2026-000074-14,74,Subassembly Component Fitment,14,45
+1475,OP-PROD-2026-000074-15,74,Torque-Controlled Fastening,15,25
+1476,OP-PROD-2026-000074-16,74,Full Mechanical Integration,16,55
+1477,OP-PROD-2026-000074-17,74,Chemical Surface Treatment,17,35
+1478,OP-PROD-2026-000074-18,74,Precision Polishing,18,20
+1479,OP-PROD-2026-000074-19,74,CMM Quality & Metrology Inspection,19,15
+1480,OP-PROD-2026-000074-20,74,Protective Packaging & Barcode Labelling,20,10
+1481,OP-PROD-2026-000075-01,75,Material Raw Stock Preparation,1,15
+1482,OP-PROD-2026-000075-02,75,Rough Profile Cutting,2,20
+1483,OP-PROD-2026-000075-03,75,CNC Rough Face Milling,3,45
+1484,OP-PROD-2026-000075-04,75,CNC Profile Roughing,4,50
+1485,OP-PROD-2026-000075-05,75,Rough Turning Diameter,5,25
+1486,OP-PROD-2026-000075-06,75,Precision CNC Turning,6,45
+1487,OP-PROD-2026-000075-07,75,Deep Core Drilling,7,30
+1488,OP-PROD-2026-000075-08,75,High Precision Tapping,8,25
+1489,OP-PROD-2026-000075-09,75,Structural TIG Welding,9,60
+1490,OP-PROD-2026-000075-10,75,Weld Seam Grinding & Deburr,10,35
+1491,OP-PROD-2026-000075-11,75,CNC Fine Surface Milling,11,45
+1492,OP-PROD-2026-000075-12,75,Precision Bore Machining,12,30
+1493,OP-PROD-2026-000075-13,75,Thread Grinding & Buffing,13,25
+1494,OP-PROD-2026-000075-14,75,Subassembly Component Fitment,14,55
+1495,OP-PROD-2026-000075-15,75,Torque-Controlled Fastening,15,35
+1496,OP-PROD-2026-000075-16,75,Full Mechanical Integration,16,55
+1497,OP-PROD-2026-000075-17,75,Chemical Surface Treatment,17,35
+1498,OP-PROD-2026-000075-18,75,Precision Polishing,18,35
+1499,OP-PROD-2026-000075-19,75,CMM Quality & Metrology Inspection,19,30
+1500,OP-PROD-2026-000075-20,75,Protective Packaging & Barcode Labelling,20,25
+1501,OP-PROD-2026-000076-01,76,Material Raw Stock Preparation,1,30
+1502,OP-PROD-2026-000076-02,76,Rough Profile Cutting,2,35
+1503,OP-PROD-2026-000076-03,76,CNC Rough Face Milling,3,40
+1504,OP-PROD-2026-000076-04,76,CNC Profile Roughing,4,45
+1505,OP-PROD-2026-000076-05,76,Rough Turning Diameter,5,30
+1506,OP-PROD-2026-000076-06,76,Precision CNC Turning,6,45
+1507,OP-PROD-2026-000076-07,76,Deep Core Drilling,7,20
+1508,OP-PROD-2026-000076-08,76,High Precision Tapping,8,15
+1509,OP-PROD-2026-000076-09,76,Structural TIG Welding,9,50
+1510,OP-PROD-2026-000076-10,76,Weld Seam Grinding & Deburr,10,30
+1511,OP-PROD-2026-000076-11,76,CNC Fine Surface Milling,11,45
+1512,OP-PROD-2026-000076-12,76,Precision Bore Machining,12,35
+1513,OP-PROD-2026-000076-13,76,Thread Grinding & Buffing,13,30
+1514,OP-PROD-2026-000076-14,76,Subassembly Component Fitment,14,40
+1515,OP-PROD-2026-000076-15,76,Torque-Controlled Fastening,15,25
+1516,OP-PROD-2026-000076-16,76,Full Mechanical Integration,16,65
+1517,OP-PROD-2026-000076-17,76,Chemical Surface Treatment,17,35
+1518,OP-PROD-2026-000076-18,76,Precision Polishing,18,25
+1519,OP-PROD-2026-000076-19,76,CMM Quality & Metrology Inspection,19,25
+1520,OP-PROD-2026-000076-20,76,Protective Packaging & Barcode Labelling,20,15
+1521,OP-PROD-2026-000077-01,77,Material Raw Stock Preparation,1,20
+1522,OP-PROD-2026-000077-02,77,Rough Profile Cutting,2,35
+1523,OP-PROD-2026-000077-03,77,CNC Rough Face Milling,3,30
+1524,OP-PROD-2026-000077-04,77,CNC Profile Roughing,4,50
+1525,OP-PROD-2026-000077-05,77,Rough Turning Diameter,5,25
+1526,OP-PROD-2026-000077-06,77,Precision CNC Turning,6,50
+1527,OP-PROD-2026-000077-07,77,Deep Core Drilling,7,20
+1528,OP-PROD-2026-000077-08,77,High Precision Tapping,8,15
+1529,OP-PROD-2026-000077-09,77,Structural TIG Welding,9,45
+1530,OP-PROD-2026-000077-10,77,Weld Seam Grinding & Deburr,10,30
+1531,OP-PROD-2026-000077-11,77,CNC Fine Surface Milling,11,35
+1532,OP-PROD-2026-000077-12,77,Precision Bore Machining,12,45
+1533,OP-PROD-2026-000077-13,77,Thread Grinding & Buffing,13,30
+1534,OP-PROD-2026-000077-14,77,Subassembly Component Fitment,14,50
+1535,OP-PROD-2026-000077-15,77,Torque-Controlled Fastening,15,25
+1536,OP-PROD-2026-000077-16,77,Full Mechanical Integration,16,70
+1537,OP-PROD-2026-000077-17,77,Chemical Surface Treatment,17,45
+1538,OP-PROD-2026-000077-18,77,Precision Polishing,18,20
+1539,OP-PROD-2026-000077-19,77,CMM Quality & Metrology Inspection,19,30
+1540,OP-PROD-2026-000077-20,77,Protective Packaging & Barcode Labelling,20,25
+1541,OP-PROD-2026-000078-01,78,Material Raw Stock Preparation,1,25
+1542,OP-PROD-2026-000078-02,78,Rough Profile Cutting,2,35
+1543,OP-PROD-2026-000078-03,78,CNC Rough Face Milling,3,45
+1544,OP-PROD-2026-000078-04,78,CNC Profile Roughing,4,45
+1545,OP-PROD-2026-000078-05,78,Rough Turning Diameter,5,40
+1546,OP-PROD-2026-000078-06,78,Precision CNC Turning,6,45
+1547,OP-PROD-2026-000078-07,78,Deep Core Drilling,7,20
+1548,OP-PROD-2026-000078-08,78,High Precision Tapping,8,20
+1549,OP-PROD-2026-000078-09,78,Structural TIG Welding,9,45
+1550,OP-PROD-2026-000078-10,78,Weld Seam Grinding & Deburr,10,35
+1551,OP-PROD-2026-000078-11,78,CNC Fine Surface Milling,11,45
+1552,OP-PROD-2026-000078-12,78,Precision Bore Machining,12,30
+1553,OP-PROD-2026-000078-13,78,Thread Grinding & Buffing,13,30
+1554,OP-PROD-2026-000078-14,78,Subassembly Component Fitment,14,45
+1555,OP-PROD-2026-000078-15,78,Torque-Controlled Fastening,15,25
+1556,OP-PROD-2026-000078-16,78,Full Mechanical Integration,16,60
+1557,OP-PROD-2026-000078-17,78,Chemical Surface Treatment,17,45
+1558,OP-PROD-2026-000078-18,78,Precision Polishing,18,20
+1559,OP-PROD-2026-000078-19,78,CMM Quality & Metrology Inspection,19,25
+1560,OP-PROD-2026-000078-20,78,Protective Packaging & Barcode Labelling,20,10
+1561,OP-PROD-2026-000079-01,79,Material Raw Stock Preparation,1,30
+1562,OP-PROD-2026-000079-02,79,Rough Profile Cutting,2,20
+1563,OP-PROD-2026-000079-03,79,CNC Rough Face Milling,3,45
+1564,OP-PROD-2026-000079-04,79,CNC Profile Roughing,4,35
+1565,OP-PROD-2026-000079-05,79,Rough Turning Diameter,5,30
+1566,OP-PROD-2026-000079-06,79,Precision CNC Turning,6,55
+1567,OP-PROD-2026-000079-07,79,Deep Core Drilling,7,35
+1568,OP-PROD-2026-000079-08,79,High Precision Tapping,8,15
+1569,OP-PROD-2026-000079-09,79,Structural TIG Welding,9,50
+1570,OP-PROD-2026-000079-10,79,Weld Seam Grinding & Deburr,10,25
+1571,OP-PROD-2026-000079-11,79,CNC Fine Surface Milling,11,40
+1572,OP-PROD-2026-000079-12,79,Precision Bore Machining,12,30
+1573,OP-PROD-2026-000079-13,79,Thread Grinding & Buffing,13,25
+1574,OP-PROD-2026-000079-14,79,Subassembly Component Fitment,14,55
+1575,OP-PROD-2026-000079-15,79,Torque-Controlled Fastening,15,30
+1576,OP-PROD-2026-000079-16,79,Full Mechanical Integration,16,55
+1577,OP-PROD-2026-000079-17,79,Chemical Surface Treatment,17,45
+1578,OP-PROD-2026-000079-18,79,Precision Polishing,18,25
+1579,OP-PROD-2026-000079-19,79,CMM Quality & Metrology Inspection,19,30
+1580,OP-PROD-2026-000079-20,79,Protective Packaging & Barcode Labelling,20,15
+1581,OP-PROD-2026-000080-01,80,Material Raw Stock Preparation,1,25
+1582,OP-PROD-2026-000080-02,80,Rough Profile Cutting,2,35
+1583,OP-PROD-2026-000080-03,80,CNC Rough Face Milling,3,35
+1584,OP-PROD-2026-000080-04,80,CNC Profile Roughing,4,35
+1585,OP-PROD-2026-000080-05,80,Rough Turning Diameter,5,35
+1586,OP-PROD-2026-000080-06,80,Precision CNC Turning,6,50
+1587,OP-PROD-2026-000080-07,80,Deep Core Drilling,7,20
+1588,OP-PROD-2026-000080-08,80,High Precision Tapping,8,30
+1589,OP-PROD-2026-000080-09,80,Structural TIG Welding,9,60
+1590,OP-PROD-2026-000080-10,80,Weld Seam Grinding & Deburr,10,30
+1591,OP-PROD-2026-000080-11,80,CNC Fine Surface Milling,11,35
+1592,OP-PROD-2026-000080-12,80,Precision Bore Machining,12,40
+1593,OP-PROD-2026-000080-13,80,Thread Grinding & Buffing,13,20
+1594,OP-PROD-2026-000080-14,80,Subassembly Component Fitment,14,40
+1595,OP-PROD-2026-000080-15,80,Torque-Controlled Fastening,15,35
+1596,OP-PROD-2026-000080-16,80,Full Mechanical Integration,16,65
+1597,OP-PROD-2026-000080-17,80,Chemical Surface Treatment,17,40
+1598,OP-PROD-2026-000080-18,80,Precision Polishing,18,30
+1599,OP-PROD-2026-000080-19,80,CMM Quality & Metrology Inspection,19,25
+1600,OP-PROD-2026-000080-20,80,Protective Packaging & Barcode Labelling,20,25
+1601,OP-PROD-2026-000081-01,81,Material Raw Stock Preparation,1,25
+1602,OP-PROD-2026-000081-02,81,Rough Profile Cutting,2,25
+1603,OP-PROD-2026-000081-03,81,CNC Rough Face Milling,3,35
+1604,OP-PROD-2026-000081-04,81,CNC Profile Roughing,4,45
+1605,OP-PROD-2026-000081-05,81,Rough Turning Diameter,5,40
+1606,OP-PROD-2026-000081-06,81,Precision CNC Turning,6,55
+1607,OP-PROD-2026-000081-07,81,Deep Core Drilling,7,35
+1608,OP-PROD-2026-000081-08,81,High Precision Tapping,8,20
+1609,OP-PROD-2026-000081-09,81,Structural TIG Welding,9,50
+1610,OP-PROD-2026-000081-10,81,Weld Seam Grinding & Deburr,10,25
+1611,OP-PROD-2026-000081-11,81,CNC Fine Surface Milling,11,50
+1612,OP-PROD-2026-000081-12,81,Precision Bore Machining,12,40
+1613,OP-PROD-2026-000081-13,81,Thread Grinding & Buffing,13,20
+1614,OP-PROD-2026-000081-14,81,Subassembly Component Fitment,14,45
+1615,OP-PROD-2026-000081-15,81,Torque-Controlled Fastening,15,25
+1616,OP-PROD-2026-000081-16,81,Full Mechanical Integration,16,65
+1617,OP-PROD-2026-000081-17,81,Chemical Surface Treatment,17,35
+1618,OP-PROD-2026-000081-18,81,Precision Polishing,18,25
+1619,OP-PROD-2026-000081-19,81,CMM Quality & Metrology Inspection,19,30
+1620,OP-PROD-2026-000081-20,81,Protective Packaging & Barcode Labelling,20,10
+1621,OP-PROD-2026-000082-01,82,Material Raw Stock Preparation,1,15
+1622,OP-PROD-2026-000082-02,82,Rough Profile Cutting,2,30
+1623,OP-PROD-2026-000082-03,82,CNC Rough Face Milling,3,45
+1624,OP-PROD-2026-000082-04,82,CNC Profile Roughing,4,35
+1625,OP-PROD-2026-000082-05,82,Rough Turning Diameter,5,35
+1626,OP-PROD-2026-000082-06,82,Precision CNC Turning,6,50
+1627,OP-PROD-2026-000082-07,82,Deep Core Drilling,7,25
+1628,OP-PROD-2026-000082-08,82,High Precision Tapping,8,30
+1629,OP-PROD-2026-000082-09,82,Structural TIG Welding,9,50
+1630,OP-PROD-2026-000082-10,82,Weld Seam Grinding & Deburr,10,35
+1631,OP-PROD-2026-000082-11,82,CNC Fine Surface Milling,11,35
+1632,OP-PROD-2026-000082-12,82,Precision Bore Machining,12,35
+1633,OP-PROD-2026-000082-13,82,Thread Grinding & Buffing,13,20
+1634,OP-PROD-2026-000082-14,82,Subassembly Component Fitment,14,50
+1635,OP-PROD-2026-000082-15,82,Torque-Controlled Fastening,15,30
+1636,OP-PROD-2026-000082-16,82,Full Mechanical Integration,16,65
+1637,OP-PROD-2026-000082-17,82,Chemical Surface Treatment,17,40
+1638,OP-PROD-2026-000082-18,82,Precision Polishing,18,35
+1639,OP-PROD-2026-000082-19,82,CMM Quality & Metrology Inspection,19,25
+1640,OP-PROD-2026-000082-20,82,Protective Packaging & Barcode Labelling,20,20
+1641,OP-PROD-2026-000083-01,83,Material Raw Stock Preparation,1,25
+1642,OP-PROD-2026-000083-02,83,Rough Profile Cutting,2,30
+1643,OP-PROD-2026-000083-03,83,CNC Rough Face Milling,3,40
+1644,OP-PROD-2026-000083-04,83,CNC Profile Roughing,4,45
+1645,OP-PROD-2026-000083-05,83,Rough Turning Diameter,5,25
+1646,OP-PROD-2026-000083-06,83,Precision CNC Turning,6,45
+1647,OP-PROD-2026-000083-07,83,Deep Core Drilling,7,25
+1648,OP-PROD-2026-000083-08,83,High Precision Tapping,8,20
+1649,OP-PROD-2026-000083-09,83,Structural TIG Welding,9,55
+1650,OP-PROD-2026-000083-10,83,Weld Seam Grinding & Deburr,10,30
+1651,OP-PROD-2026-000083-11,83,CNC Fine Surface Milling,11,45
+1652,OP-PROD-2026-000083-12,83,Precision Bore Machining,12,45
+1653,OP-PROD-2026-000083-13,83,Thread Grinding & Buffing,13,30
+1654,OP-PROD-2026-000083-14,83,Subassembly Component Fitment,14,50
+1655,OP-PROD-2026-000083-15,83,Torque-Controlled Fastening,15,35
+1656,OP-PROD-2026-000083-16,83,Full Mechanical Integration,16,70
+1657,OP-PROD-2026-000083-17,83,Chemical Surface Treatment,17,50
+1658,OP-PROD-2026-000083-18,83,Precision Polishing,18,30
+1659,OP-PROD-2026-000083-19,83,CMM Quality & Metrology Inspection,19,25
+1660,OP-PROD-2026-000083-20,83,Protective Packaging & Barcode Labelling,20,25
+1661,OP-PROD-2026-000084-01,84,Material Raw Stock Preparation,1,25
+1662,OP-PROD-2026-000084-02,84,Rough Profile Cutting,2,35
+1663,OP-PROD-2026-000084-03,84,CNC Rough Face Milling,3,35
+1664,OP-PROD-2026-000084-04,84,CNC Profile Roughing,4,50
+1665,OP-PROD-2026-000084-05,84,Rough Turning Diameter,5,30
+1666,OP-PROD-2026-000084-06,84,Precision CNC Turning,6,45
+1667,OP-PROD-2026-000084-07,84,Deep Core Drilling,7,20
+1668,OP-PROD-2026-000084-08,84,High Precision Tapping,8,25
+1669,OP-PROD-2026-000084-09,84,Structural TIG Welding,9,50
+1670,OP-PROD-2026-000084-10,84,Weld Seam Grinding & Deburr,10,30
+1671,OP-PROD-2026-000084-11,84,CNC Fine Surface Milling,11,40
+1672,OP-PROD-2026-000084-12,84,Precision Bore Machining,12,35
+1673,OP-PROD-2026-000084-13,84,Thread Grinding & Buffing,13,35
+1674,OP-PROD-2026-000084-14,84,Subassembly Component Fitment,14,55
+1675,OP-PROD-2026-000084-15,84,Torque-Controlled Fastening,15,25
+1676,OP-PROD-2026-000084-16,84,Full Mechanical Integration,16,70
+1677,OP-PROD-2026-000084-17,84,Chemical Surface Treatment,17,45
+1678,OP-PROD-2026-000084-18,84,Precision Polishing,18,20
+1679,OP-PROD-2026-000084-19,84,CMM Quality & Metrology Inspection,19,20
+1680,OP-PROD-2026-000084-20,84,Protective Packaging & Barcode Labelling,20,15
+1681,OP-PROD-2026-000085-01,85,Material Raw Stock Preparation,1,25
+1682,OP-PROD-2026-000085-02,85,Rough Profile Cutting,2,20
+1683,OP-PROD-2026-000085-03,85,CNC Rough Face Milling,3,40
+1684,OP-PROD-2026-000085-04,85,CNC Profile Roughing,4,45
+1685,OP-PROD-2026-000085-05,85,Rough Turning Diameter,5,35
+1686,OP-PROD-2026-000085-06,85,Precision CNC Turning,6,50
+1687,OP-PROD-2026-000085-07,85,Deep Core Drilling,7,35
+1688,OP-PROD-2026-000085-08,85,High Precision Tapping,8,15
+1689,OP-PROD-2026-000085-09,85,Structural TIG Welding,9,55
+1690,OP-PROD-2026-000085-10,85,Weld Seam Grinding & Deburr,10,40
+1691,OP-PROD-2026-000085-11,85,CNC Fine Surface Milling,11,50
+1692,OP-PROD-2026-000085-12,85,Precision Bore Machining,12,45
+1693,OP-PROD-2026-000085-13,85,Thread Grinding & Buffing,13,25
+1694,OP-PROD-2026-000085-14,85,Subassembly Component Fitment,14,40
+1695,OP-PROD-2026-000085-15,85,Torque-Controlled Fastening,15,25
+1696,OP-PROD-2026-000085-16,85,Full Mechanical Integration,16,65
+1697,OP-PROD-2026-000085-17,85,Chemical Surface Treatment,17,45
+1698,OP-PROD-2026-000085-18,85,Precision Polishing,18,25
+1699,OP-PROD-2026-000085-19,85,CMM Quality & Metrology Inspection,19,25
+1700,OP-PROD-2026-000085-20,85,Protective Packaging & Barcode Labelling,20,25
+1701,OP-PROD-2026-000086-01,86,Material Raw Stock Preparation,1,25
+1702,OP-PROD-2026-000086-02,86,Rough Profile Cutting,2,35
+1703,OP-PROD-2026-000086-03,86,CNC Rough Face Milling,3,45
+1704,OP-PROD-2026-000086-04,86,CNC Profile Roughing,4,40
+1705,OP-PROD-2026-000086-05,86,Rough Turning Diameter,5,30
+1706,OP-PROD-2026-000086-06,86,Precision CNC Turning,6,40
+1707,OP-PROD-2026-000086-07,86,Deep Core Drilling,7,35
+1708,OP-PROD-2026-000086-08,86,High Precision Tapping,8,15
+1709,OP-PROD-2026-000086-09,86,Structural TIG Welding,9,55
+1710,OP-PROD-2026-000086-10,86,Weld Seam Grinding & Deburr,10,40
+1711,OP-PROD-2026-000086-11,86,CNC Fine Surface Milling,11,50
+1712,OP-PROD-2026-000086-12,86,Precision Bore Machining,12,45
+1713,OP-PROD-2026-000086-13,86,Thread Grinding & Buffing,13,25
+1714,OP-PROD-2026-000086-14,86,Subassembly Component Fitment,14,45
+1715,OP-PROD-2026-000086-15,86,Torque-Controlled Fastening,15,25
+1716,OP-PROD-2026-000086-16,86,Full Mechanical Integration,16,60
+1717,OP-PROD-2026-000086-17,86,Chemical Surface Treatment,17,35
+1718,OP-PROD-2026-000086-18,86,Precision Polishing,18,35
+1719,OP-PROD-2026-000086-19,86,CMM Quality & Metrology Inspection,19,25
+1720,OP-PROD-2026-000086-20,86,Protective Packaging & Barcode Labelling,20,20
+1721,OP-PROD-2026-000087-01,87,Material Raw Stock Preparation,1,25
+1722,OP-PROD-2026-000087-02,87,Rough Profile Cutting,2,35
+1723,OP-PROD-2026-000087-03,87,CNC Rough Face Milling,3,35
+1724,OP-PROD-2026-000087-04,87,CNC Profile Roughing,4,45
+1725,OP-PROD-2026-000087-05,87,Rough Turning Diameter,5,35
+1726,OP-PROD-2026-000087-06,87,Precision CNC Turning,6,50
+1727,OP-PROD-2026-000087-07,87,Deep Core Drilling,7,35
+1728,OP-PROD-2026-000087-08,87,High Precision Tapping,8,15
+1729,OP-PROD-2026-000087-09,87,Structural TIG Welding,9,55
+1730,OP-PROD-2026-000087-10,87,Weld Seam Grinding & Deburr,10,35
+1731,OP-PROD-2026-000087-11,87,CNC Fine Surface Milling,11,40
+1732,OP-PROD-2026-000087-12,87,Precision Bore Machining,12,30
+1733,OP-PROD-2026-000087-13,87,Thread Grinding & Buffing,13,20
+1734,OP-PROD-2026-000087-14,87,Subassembly Component Fitment,14,50
+1735,OP-PROD-2026-000087-15,87,Torque-Controlled Fastening,15,30
+1736,OP-PROD-2026-000087-16,87,Full Mechanical Integration,16,70
+1737,OP-PROD-2026-000087-17,87,Chemical Surface Treatment,17,45
+1738,OP-PROD-2026-000087-18,87,Precision Polishing,18,35
+1739,OP-PROD-2026-000087-19,87,CMM Quality & Metrology Inspection,19,25
+1740,OP-PROD-2026-000087-20,87,Protective Packaging & Barcode Labelling,20,20
+1741,OP-PROD-2026-000088-01,88,Material Raw Stock Preparation,1,15
+1742,OP-PROD-2026-000088-02,88,Rough Profile Cutting,2,25
+1743,OP-PROD-2026-000088-03,88,CNC Rough Face Milling,3,40
+1744,OP-PROD-2026-000088-04,88,CNC Profile Roughing,4,45
+1745,OP-PROD-2026-000088-05,88,Rough Turning Diameter,5,40
+1746,OP-PROD-2026-000088-06,88,Precision CNC Turning,6,40
+1747,OP-PROD-2026-000088-07,88,Deep Core Drilling,7,20
+1748,OP-PROD-2026-000088-08,88,High Precision Tapping,8,25
+1749,OP-PROD-2026-000088-09,88,Structural TIG Welding,9,55
+1750,OP-PROD-2026-000088-10,88,Weld Seam Grinding & Deburr,10,25
+1751,OP-PROD-2026-000088-11,88,CNC Fine Surface Milling,11,50
+1752,OP-PROD-2026-000088-12,88,Precision Bore Machining,12,30
+1753,OP-PROD-2026-000088-13,88,Thread Grinding & Buffing,13,35
+1754,OP-PROD-2026-000088-14,88,Subassembly Component Fitment,14,50
+1755,OP-PROD-2026-000088-15,88,Torque-Controlled Fastening,15,35
+1756,OP-PROD-2026-000088-16,88,Full Mechanical Integration,16,55
+1757,OP-PROD-2026-000088-17,88,Chemical Surface Treatment,17,45
+1758,OP-PROD-2026-000088-18,88,Precision Polishing,18,20
+1759,OP-PROD-2026-000088-19,88,CMM Quality & Metrology Inspection,19,30
+1760,OP-PROD-2026-000088-20,88,Protective Packaging & Barcode Labelling,20,25
+1761,OP-PROD-2026-000089-01,89,Material Raw Stock Preparation,1,25
+1762,OP-PROD-2026-000089-02,89,Rough Profile Cutting,2,25
+1763,OP-PROD-2026-000089-03,89,CNC Rough Face Milling,3,35
+1764,OP-PROD-2026-000089-04,89,CNC Profile Roughing,4,35
+1765,OP-PROD-2026-000089-05,89,Rough Turning Diameter,5,40
+1766,OP-PROD-2026-000089-06,89,Precision CNC Turning,6,45
+1767,OP-PROD-2026-000089-07,89,Deep Core Drilling,7,20
+1768,OP-PROD-2026-000089-08,89,High Precision Tapping,8,20
+1769,OP-PROD-2026-000089-09,89,Structural TIG Welding,9,50
+1770,OP-PROD-2026-000089-10,89,Weld Seam Grinding & Deburr,10,35
+1771,OP-PROD-2026-000089-11,89,CNC Fine Surface Milling,11,50
+1772,OP-PROD-2026-000089-12,89,Precision Bore Machining,12,45
+1773,OP-PROD-2026-000089-13,89,Thread Grinding & Buffing,13,35
+1774,OP-PROD-2026-000089-14,89,Subassembly Component Fitment,14,40
+1775,OP-PROD-2026-000089-15,89,Torque-Controlled Fastening,15,35
+1776,OP-PROD-2026-000089-16,89,Full Mechanical Integration,16,65
+1777,OP-PROD-2026-000089-17,89,Chemical Surface Treatment,17,35
+1778,OP-PROD-2026-000089-18,89,Precision Polishing,18,20
+1779,OP-PROD-2026-000089-19,89,CMM Quality & Metrology Inspection,19,20
+1780,OP-PROD-2026-000089-20,89,Protective Packaging & Barcode Labelling,20,20
+1781,OP-PROD-2026-000090-01,90,Material Raw Stock Preparation,1,20
+1782,OP-PROD-2026-000090-02,90,Rough Profile Cutting,2,35
+1783,OP-PROD-2026-000090-03,90,CNC Rough Face Milling,3,40
+1784,OP-PROD-2026-000090-04,90,CNC Profile Roughing,4,40
+1785,OP-PROD-2026-000090-05,90,Rough Turning Diameter,5,25
+1786,OP-PROD-2026-000090-06,90,Precision CNC Turning,6,50
+1787,OP-PROD-2026-000090-07,90,Deep Core Drilling,7,25
+1788,OP-PROD-2026-000090-08,90,High Precision Tapping,8,30
+1789,OP-PROD-2026-000090-09,90,Structural TIG Welding,9,55
+1790,OP-PROD-2026-000090-10,90,Weld Seam Grinding & Deburr,10,25
+1791,OP-PROD-2026-000090-11,90,CNC Fine Surface Milling,11,50
+1792,OP-PROD-2026-000090-12,90,Precision Bore Machining,12,45
+1793,OP-PROD-2026-000090-13,90,Thread Grinding & Buffing,13,20
+1794,OP-PROD-2026-000090-14,90,Subassembly Component Fitment,14,55
+1795,OP-PROD-2026-000090-15,90,Torque-Controlled Fastening,15,35
+1796,OP-PROD-2026-000090-16,90,Full Mechanical Integration,16,70
+1797,OP-PROD-2026-000090-17,90,Chemical Surface Treatment,17,40
+1798,OP-PROD-2026-000090-18,90,Precision Polishing,18,35
+1799,OP-PROD-2026-000090-19,90,CMM Quality & Metrology Inspection,19,15
+1800,OP-PROD-2026-000090-20,90,Protective Packaging & Barcode Labelling,20,20
+1801,OP-PROD-2026-000091-01,91,Material Raw Stock Preparation,1,15
+1802,OP-PROD-2026-000091-02,91,Rough Profile Cutting,2,30
+1803,OP-PROD-2026-000091-03,91,CNC Rough Face Milling,3,40
+1804,OP-PROD-2026-000091-04,91,CNC Profile Roughing,4,45
+1805,OP-PROD-2026-000091-05,91,Rough Turning Diameter,5,35
+1806,OP-PROD-2026-000091-06,91,Precision CNC Turning,6,40
+1807,OP-PROD-2026-000091-07,91,Deep Core Drilling,7,35
+1808,OP-PROD-2026-000091-08,91,High Precision Tapping,8,20
+1809,OP-PROD-2026-000091-09,91,Structural TIG Welding,9,55
+1810,OP-PROD-2026-000091-10,91,Weld Seam Grinding & Deburr,10,25
+1811,OP-PROD-2026-000091-11,91,CNC Fine Surface Milling,11,35
+1812,OP-PROD-2026-000091-12,91,Precision Bore Machining,12,45
+1813,OP-PROD-2026-000091-13,91,Thread Grinding & Buffing,13,35
+1814,OP-PROD-2026-000091-14,91,Subassembly Component Fitment,14,45
+1815,OP-PROD-2026-000091-15,91,Torque-Controlled Fastening,15,40
+1816,OP-PROD-2026-000091-16,91,Full Mechanical Integration,16,70
+1817,OP-PROD-2026-000091-17,91,Chemical Surface Treatment,17,50
+1818,OP-PROD-2026-000091-18,91,Precision Polishing,18,20
+1819,OP-PROD-2026-000091-19,91,CMM Quality & Metrology Inspection,19,25
+1820,OP-PROD-2026-000091-20,91,Protective Packaging & Barcode Labelling,20,15
+1821,OP-PROD-2026-000092-01,92,Material Raw Stock Preparation,1,30
+1822,OP-PROD-2026-000092-02,92,Rough Profile Cutting,2,30
+1823,OP-PROD-2026-000092-03,92,CNC Rough Face Milling,3,45
+1824,OP-PROD-2026-000092-04,92,CNC Profile Roughing,4,35
+1825,OP-PROD-2026-000092-05,92,Rough Turning Diameter,5,30
+1826,OP-PROD-2026-000092-06,92,Precision CNC Turning,6,50
+1827,OP-PROD-2026-000092-07,92,Deep Core Drilling,7,25
+1828,OP-PROD-2026-000092-08,92,High Precision Tapping,8,25
+1829,OP-PROD-2026-000092-09,92,Structural TIG Welding,9,55
+1830,OP-PROD-2026-000092-10,92,Weld Seam Grinding & Deburr,10,35
+1831,OP-PROD-2026-000092-11,92,CNC Fine Surface Milling,11,35
+1832,OP-PROD-2026-000092-12,92,Precision Bore Machining,12,30
+1833,OP-PROD-2026-000092-13,92,Thread Grinding & Buffing,13,25
+1834,OP-PROD-2026-000092-14,92,Subassembly Component Fitment,14,55
+1835,OP-PROD-2026-000092-15,92,Torque-Controlled Fastening,15,35
+1836,OP-PROD-2026-000092-16,92,Full Mechanical Integration,16,65
+1837,OP-PROD-2026-000092-17,92,Chemical Surface Treatment,17,45
+1838,OP-PROD-2026-000092-18,92,Precision Polishing,18,35
+1839,OP-PROD-2026-000092-19,92,CMM Quality & Metrology Inspection,19,30
+1840,OP-PROD-2026-000092-20,92,Protective Packaging & Barcode Labelling,20,20
+1841,OP-PROD-2026-000093-01,93,Material Raw Stock Preparation,1,15
+1842,OP-PROD-2026-000093-02,93,Rough Profile Cutting,2,30
+1843,OP-PROD-2026-000093-03,93,CNC Rough Face Milling,3,40
+1844,OP-PROD-2026-000093-04,93,CNC Profile Roughing,4,45
+1845,OP-PROD-2026-000093-05,93,Rough Turning Diameter,5,40
+1846,OP-PROD-2026-000093-06,93,Precision CNC Turning,6,50
+1847,OP-PROD-2026-000093-07,93,Deep Core Drilling,7,35
+1848,OP-PROD-2026-000093-08,93,High Precision Tapping,8,20
+1849,OP-PROD-2026-000093-09,93,Structural TIG Welding,9,45
+1850,OP-PROD-2026-000093-10,93,Weld Seam Grinding & Deburr,10,25
+1851,OP-PROD-2026-000093-11,93,CNC Fine Surface Milling,11,45
+1852,OP-PROD-2026-000093-12,93,Precision Bore Machining,12,45
+1853,OP-PROD-2026-000093-13,93,Thread Grinding & Buffing,13,20
+1854,OP-PROD-2026-000093-14,93,Subassembly Component Fitment,14,55
+1855,OP-PROD-2026-000093-15,93,Torque-Controlled Fastening,15,35
+1856,OP-PROD-2026-000093-16,93,Full Mechanical Integration,16,55
+1857,OP-PROD-2026-000093-17,93,Chemical Surface Treatment,17,50
+1858,OP-PROD-2026-000093-18,93,Precision Polishing,18,35
+1859,OP-PROD-2026-000093-19,93,CMM Quality & Metrology Inspection,19,30
+1860,OP-PROD-2026-000093-20,93,Protective Packaging & Barcode Labelling,20,20
+1861,OP-PROD-2026-000094-01,94,Material Raw Stock Preparation,1,30
+1862,OP-PROD-2026-000094-02,94,Rough Profile Cutting,2,25
+1863,OP-PROD-2026-000094-03,94,CNC Rough Face Milling,3,40
+1864,OP-PROD-2026-000094-04,94,CNC Profile Roughing,4,40
+1865,OP-PROD-2026-000094-05,94,Rough Turning Diameter,5,40
+1866,OP-PROD-2026-000094-06,94,Precision CNC Turning,6,45
+1867,OP-PROD-2026-000094-07,94,Deep Core Drilling,7,30
+1868,OP-PROD-2026-000094-08,94,High Precision Tapping,8,25
+1869,OP-PROD-2026-000094-09,94,Structural TIG Welding,9,55
+1870,OP-PROD-2026-000094-10,94,Weld Seam Grinding & Deburr,10,35
+1871,OP-PROD-2026-000094-11,94,CNC Fine Surface Milling,11,50
+1872,OP-PROD-2026-000094-12,94,Precision Bore Machining,12,35
+1873,OP-PROD-2026-000094-13,94,Thread Grinding & Buffing,13,20
+1874,OP-PROD-2026-000094-14,94,Subassembly Component Fitment,14,50
+1875,OP-PROD-2026-000094-15,94,Torque-Controlled Fastening,15,30
+1876,OP-PROD-2026-000094-16,94,Full Mechanical Integration,16,70
+1877,OP-PROD-2026-000094-17,94,Chemical Surface Treatment,17,35
+1878,OP-PROD-2026-000094-18,94,Precision Polishing,18,30
+1879,OP-PROD-2026-000094-19,94,CMM Quality & Metrology Inspection,19,20
+1880,OP-PROD-2026-000094-20,94,Protective Packaging & Barcode Labelling,20,15
+1881,OP-PROD-2026-000095-01,95,Material Raw Stock Preparation,1,25
+1882,OP-PROD-2026-000095-02,95,Rough Profile Cutting,2,30
+1883,OP-PROD-2026-000095-03,95,CNC Rough Face Milling,3,35
+1884,OP-PROD-2026-000095-04,95,CNC Profile Roughing,4,50
+1885,OP-PROD-2026-000095-05,95,Rough Turning Diameter,5,35
+1886,OP-PROD-2026-000095-06,95,Precision CNC Turning,6,40
+1887,OP-PROD-2026-000095-07,95,Deep Core Drilling,7,30
+1888,OP-PROD-2026-000095-08,95,High Precision Tapping,8,20
+1889,OP-PROD-2026-000095-09,95,Structural TIG Welding,9,55
+1890,OP-PROD-2026-000095-10,95,Weld Seam Grinding & Deburr,10,35
+1891,OP-PROD-2026-000095-11,95,CNC Fine Surface Milling,11,50
+1892,OP-PROD-2026-000095-12,95,Precision Bore Machining,12,30
+1893,OP-PROD-2026-000095-13,95,Thread Grinding & Buffing,13,25
+1894,OP-PROD-2026-000095-14,95,Subassembly Component Fitment,14,45
+1895,OP-PROD-2026-000095-15,95,Torque-Controlled Fastening,15,30
+1896,OP-PROD-2026-000095-16,95,Full Mechanical Integration,16,60
+1897,OP-PROD-2026-000095-17,95,Chemical Surface Treatment,17,45
+1898,OP-PROD-2026-000095-18,95,Precision Polishing,18,30
+1899,OP-PROD-2026-000095-19,95,CMM Quality & Metrology Inspection,19,20
+1900,OP-PROD-2026-000095-20,95,Protective Packaging & Barcode Labelling,20,10
+1901,OP-PROD-2026-000096-01,96,Material Raw Stock Preparation,1,20
+1902,OP-PROD-2026-000096-02,96,Rough Profile Cutting,2,20
+1903,OP-PROD-2026-000096-03,96,CNC Rough Face Milling,3,40
+1904,OP-PROD-2026-000096-04,96,CNC Profile Roughing,4,35
+1905,OP-PROD-2026-000096-05,96,Rough Turning Diameter,5,25
+1906,OP-PROD-2026-000096-06,96,Precision CNC Turning,6,40
+1907,OP-PROD-2026-000096-07,96,Deep Core Drilling,7,20
+1908,OP-PROD-2026-000096-08,96,High Precision Tapping,8,15
+1909,OP-PROD-2026-000096-09,96,Structural TIG Welding,9,60
+1910,OP-PROD-2026-000096-10,96,Weld Seam Grinding & Deburr,10,25
+1911,OP-PROD-2026-000096-11,96,CNC Fine Surface Milling,11,50
+1912,OP-PROD-2026-000096-12,96,Precision Bore Machining,12,40
+1913,OP-PROD-2026-000096-13,96,Thread Grinding & Buffing,13,35
+1914,OP-PROD-2026-000096-14,96,Subassembly Component Fitment,14,45
+1915,OP-PROD-2026-000096-15,96,Torque-Controlled Fastening,15,35
+1916,OP-PROD-2026-000096-16,96,Full Mechanical Integration,16,60
+1917,OP-PROD-2026-000096-17,96,Chemical Surface Treatment,17,50
+1918,OP-PROD-2026-000096-18,96,Precision Polishing,18,30
+1919,OP-PROD-2026-000096-19,96,CMM Quality & Metrology Inspection,19,25
+1920,OP-PROD-2026-000096-20,96,Protective Packaging & Barcode Labelling,20,15
+1921,OP-PROD-2026-000097-01,97,Material Raw Stock Preparation,1,20
+1922,OP-PROD-2026-000097-02,97,Rough Profile Cutting,2,25
+1923,OP-PROD-2026-000097-03,97,CNC Rough Face Milling,3,40
+1924,OP-PROD-2026-000097-04,97,CNC Profile Roughing,4,50
+1925,OP-PROD-2026-000097-05,97,Rough Turning Diameter,5,40
+1926,OP-PROD-2026-000097-06,97,Precision CNC Turning,6,50
+1927,OP-PROD-2026-000097-07,97,Deep Core Drilling,7,30
+1928,OP-PROD-2026-000097-08,97,High Precision Tapping,8,30
+1929,OP-PROD-2026-000097-09,97,Structural TIG Welding,9,50
+1930,OP-PROD-2026-000097-10,97,Weld Seam Grinding & Deburr,10,30
+1931,OP-PROD-2026-000097-11,97,CNC Fine Surface Milling,11,40
+1932,OP-PROD-2026-000097-12,97,Precision Bore Machining,12,35
+1933,OP-PROD-2026-000097-13,97,Thread Grinding & Buffing,13,35
+1934,OP-PROD-2026-000097-14,97,Subassembly Component Fitment,14,55
+1935,OP-PROD-2026-000097-15,97,Torque-Controlled Fastening,15,25
+1936,OP-PROD-2026-000097-16,97,Full Mechanical Integration,16,55
+1937,OP-PROD-2026-000097-17,97,Chemical Surface Treatment,17,35
+1938,OP-PROD-2026-000097-18,97,Precision Polishing,18,35
+1939,OP-PROD-2026-000097-19,97,CMM Quality & Metrology Inspection,19,30
+1940,OP-PROD-2026-000097-20,97,Protective Packaging & Barcode Labelling,20,15
+1941,OP-PROD-2026-000098-01,98,Material Raw Stock Preparation,1,20
+1942,OP-PROD-2026-000098-02,98,Rough Profile Cutting,2,30
+1943,OP-PROD-2026-000098-03,98,CNC Rough Face Milling,3,35
+1944,OP-PROD-2026-000098-04,98,CNC Profile Roughing,4,40
+1945,OP-PROD-2026-000098-05,98,Rough Turning Diameter,5,35
+1946,OP-PROD-2026-000098-06,98,Precision CNC Turning,6,55
+1947,OP-PROD-2026-000098-07,98,Deep Core Drilling,7,35
+1948,OP-PROD-2026-000098-08,98,High Precision Tapping,8,25
+1949,OP-PROD-2026-000098-09,98,Structural TIG Welding,9,50
+1950,OP-PROD-2026-000098-10,98,Weld Seam Grinding & Deburr,10,40
+1951,OP-PROD-2026-000098-11,98,CNC Fine Surface Milling,11,40
+1952,OP-PROD-2026-000098-12,98,Precision Bore Machining,12,35
+1953,OP-PROD-2026-000098-13,98,Thread Grinding & Buffing,13,30
+1954,OP-PROD-2026-000098-14,98,Subassembly Component Fitment,14,50
+1955,OP-PROD-2026-000098-15,98,Torque-Controlled Fastening,15,30
+1956,OP-PROD-2026-000098-16,98,Full Mechanical Integration,16,65
+1957,OP-PROD-2026-000098-17,98,Chemical Surface Treatment,17,35
+1958,OP-PROD-2026-000098-18,98,Precision Polishing,18,20
+1959,OP-PROD-2026-000098-19,98,CMM Quality & Metrology Inspection,19,30
+1960,OP-PROD-2026-000098-20,98,Protective Packaging & Barcode Labelling,20,15
+1961,OP-PROD-2026-000099-01,99,Material Raw Stock Preparation,1,20
+1962,OP-PROD-2026-000099-02,99,Rough Profile Cutting,2,25
+1963,OP-PROD-2026-000099-03,99,CNC Rough Face Milling,3,35
+1964,OP-PROD-2026-000099-04,99,CNC Profile Roughing,4,40
+1965,OP-PROD-2026-000099-05,99,Rough Turning Diameter,5,40
+1966,OP-PROD-2026-000099-06,99,Precision CNC Turning,6,40
+1967,OP-PROD-2026-000099-07,99,Deep Core Drilling,7,25
+1968,OP-PROD-2026-000099-08,99,High Precision Tapping,8,15
+1969,OP-PROD-2026-000099-09,99,Structural TIG Welding,9,50
+1970,OP-PROD-2026-000099-10,99,Weld Seam Grinding & Deburr,10,25
+1971,OP-PROD-2026-000099-11,99,CNC Fine Surface Milling,11,50
+1972,OP-PROD-2026-000099-12,99,Precision Bore Machining,12,40
+1973,OP-PROD-2026-000099-13,99,Thread Grinding & Buffing,13,20
+1974,OP-PROD-2026-000099-14,99,Subassembly Component Fitment,14,50
+1975,OP-PROD-2026-000099-15,99,Torque-Controlled Fastening,15,40
+1976,OP-PROD-2026-000099-16,99,Full Mechanical Integration,16,70
+1977,OP-PROD-2026-000099-17,99,Chemical Surface Treatment,17,40
+1978,OP-PROD-2026-000099-18,99,Precision Polishing,18,35
+1979,OP-PROD-2026-000099-19,99,CMM Quality & Metrology Inspection,19,20
+1980,OP-PROD-2026-000099-20,99,Protective Packaging & Barcode Labelling,20,20
+1981,OP-PROD-2026-000100-01,100,Material Raw Stock Preparation,1,30
+1982,OP-PROD-2026-000100-02,100,Rough Profile Cutting,2,35
+1983,OP-PROD-2026-000100-03,100,CNC Rough Face Milling,3,40
+1984,OP-PROD-2026-000100-04,100,CNC Profile Roughing,4,35
+1985,OP-PROD-2026-000100-05,100,Rough Turning Diameter,5,30
+1986,OP-PROD-2026-000100-06,100,Precision CNC Turning,6,50
+1987,OP-PROD-2026-000100-07,100,Deep Core Drilling,7,30
+1988,OP-PROD-2026-000100-08,100,High Precision Tapping,8,20
+1989,OP-PROD-2026-000100-09,100,Structural TIG Welding,9,45
+1990,OP-PROD-2026-000100-10,100,Weld Seam Grinding & Deburr,10,30
+1991,OP-PROD-2026-000100-11,100,CNC Fine Surface Milling,11,50
+1992,OP-PROD-2026-000100-12,100,Precision Bore Machining,12,35
+1993,OP-PROD-2026-000100-13,100,Thread Grinding & Buffing,13,20
+1994,OP-PROD-2026-000100-14,100,Subassembly Component Fitment,14,50
+1995,OP-PROD-2026-000100-15,100,Torque-Controlled Fastening,15,35
+1996,OP-PROD-2026-000100-16,100,Full Mechanical Integration,16,60
+1997,OP-PROD-2026-000100-17,100,Chemical Surface Treatment,17,50
+1998,OP-PROD-2026-000100-18,100,Precision Polishing,18,25
+1999,OP-PROD-2026-000100-19,100,CMM Quality & Metrology Inspection,19,25
+2000,OP-PROD-2026-000100-20,100,Protective Packaging & Barcode Labelling,20,15

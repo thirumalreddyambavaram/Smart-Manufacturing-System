@@ -1,0 +1,11 @@
+id,machine_id,reason,start_time,end_time,status
+1,1,Preventive Spindle Bearing Overhaul,2026-11-10 08:00:00,2026-11-10 14:00:00,PLANNED
+2,2,Scheduled CNC Axis Recalibration,2026-11-11 08:00:00,2026-11-11 14:00:00,PLANNED
+3,3,Hydraulic Fluid & Filter Replacement,2026-11-12 08:00:00,2026-11-12 16:00:00,PLANNED
+4,4,Coolant Flush & Sludge Extraction,2026-11-13 08:00:00,2026-11-13 16:00:00,PLANNED
+5,5,Electrical Control Cabinet Servicing,2026-11-14 08:00:00,2026-11-14 14:00:00,PLANNED
+6,6,Preventive Spindle Bearing Overhaul,2026-11-15 08:00:00,2026-11-15 16:00:00,PLANNED
+7,7,Scheduled CNC Axis Recalibration,2026-11-16 08:00:00,2026-11-16 16:00:00,PLANNED
+8,8,Hydraulic Fluid & Filter Replacement,2026-11-17 08:00:00,2026-11-17 14:00:00,PLANNED
+9,9,Coolant Flush & Sludge Extraction,2026-11-18 08:00:00,2026-11-18 16:00:00,PLANNED
+10,10,Electrical Control Cabinet Servicing,2026-11-19 08:00:00,2026-11-19 16:00:00,PLANNED

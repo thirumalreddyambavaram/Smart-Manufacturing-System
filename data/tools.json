@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "tool_code": "TOOL-001",
+    "tool_name": "Heavy-Duty Mold Fixture 001",
+    "tool_type": "MOLD",
+    "total_quantity": 1,
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "tool_code": "TOOL-002",
+    "tool_name": "Heavy-Duty Fixture Fixture 002",
+    "tool_type": "FIXTURE",
+    "total_quantity": 3,
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "tool_code": "TOOL-003",
+    "tool_name": "Heavy-Duty Die Fixture 003",
+    "tool_type": "DIE",
+    "total_quantity": 3,
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "tool_code": "TOOL-004",
+    "tool_name": "Heavy-Duty Calibrator Fixture 004",
+    "tool_type": "CALIBRATOR",
+    "total_quantity": 2,
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "tool_code": "TOOL-005",
+    "tool_name": "Heavy-Duty Cutter Fixture 005",
+    "tool_type": "CUTTER",
+    "total_quantity": 1,
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "tool_code": "TOOL-006",
+    "tool_name": "Heavy-Duty Mold Fixture 006",
+    "tool_type": "MOLD",
+    "total_quantity": 1,
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "tool_code": "TOOL-007",
+    "tool_name": "Heavy-Duty Fixture Fixture 007",
+    "tool_type": "FIXTURE",
+    "total_quantity": 2,
+    "is_active": true
+  },
+  {
+    "id": 8,
+    "tool_code": "TOOL-008",
+    "tool_name": "Heavy-Duty Die Fixture 008",
+    "tool_type": "DIE",
+    "total_quantity": 3,
+    "is_active": true
+  },
+  {
+    "id": 9,
+    "tool_code": "TOOL-009",
+    "tool_name": "Heavy-Duty Calibrator Fixture 009",
+    "tool_type": "CALIBRATOR",
+    "total_quantity": 2,
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "tool_code": "TOOL-010",
+    "tool_name": "Heavy-Duty Cutter Fixture 010",
+    "tool_type": "CUTTER",
+    "total_quantity": 1,
+    "is_active": true
+  },
+  {
+    "id": 11,
+    "tool_code": "TOOL-011",
+    "tool_name": "Heavy-Duty Mold Fixture 011",
+    "tool_type": "MOLD",
+    "total_quantity": 2,
+    "is_active": true
+  },
+  {
+    "id": 12,
+    "tool_code": "TOOL-012",
+    "tool_name": "Heavy-Duty Fixture Fixture 012",
+    "tool_type": "FIXTURE",
+    "total_quantity": 2,
+    "is_active": true
+  },
+  {
+    "id": 13,
+    "tool_code": "TOOL-013",
+    "tool_name": "Heavy-Duty Die Fixture 013",
+    "tool_type": "DIE",
+    "total_quantity": 3,
+    "is_active": true
+  },
+  {
+    "id": 14,
+    "tool_code": "TOOL-014",
+    "tool_name": "Heavy-Duty Calibrator Fixture 014",
+    "tool_type": "CALIBRATOR",
+    "total_quantity": 1,
+    "is_active": true
+  },
+  {
+    "id": 15,
+    "tool_code": "TOOL-015",
+    "tool_name": "Heavy-Duty Cutter Fixture 015",
+    "tool_type": "CUTTER",
+    "total_quantity": 1,
+    "is_active": true
+  },
+  {
+    "id": 16,
+    "tool_code": "TOOL-016",
+    "tool_name": "Heavy-Duty Mold Fixture 016",
+    "tool_type": "MOLD",
+    "total_quantity": 2,
+    "is_active": true
+  },
+  {
+    "id": 17,
+    "tool_code": "TOOL-017",
+    "tool_name": "Heavy-Duty Fixture Fixture 017",
+    "tool_type": "FIXTURE",
+    "total_quantity": 3,
+    "is_active": true
+  },
+  {
+    "id": 18,
+    "tool_code": "TOOL-018",
+    "tool_name": "Heavy-Duty Die Fixture 018",
+    "tool_type": "DIE",
+    "total_quantity": 1,
+    "is_active": true
+  },
+  {
+    "id": 19,
+    "tool_code": "TOOL-019",
+    "tool_name": "Heavy-Duty Calibrator Fixture 019",
+    "tool_type": "CALIBRATOR",
+    "total_quantity": 1,
+    "is_active": true
+  },
+  {
+    "id": 20,
+    "tool_code": "TOOL-020",
+    "tool_name": "Heavy-Duty Cutter Fixture 020",
+    "tool_type": "CUTTER",
+    "total_quantity": 1,
+    "is_active": true
+  }
+]

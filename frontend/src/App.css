@@ -1,0 +1,876 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, "Segoe UI", Arial, sans-serif;
+  background: #0b1120;
+  color: #e8edf7;
+}
+
+button {
+  font: inherit;
+}
+
+.app {
+  display: flex;
+  min-height: 100vh;
+}
+
+.sidebar {
+  width: 255px;
+  min-height: 100vh;
+  background: #101a2b;
+  border-right: 1px solid #243148;
+  padding: 26px 17px;
+  display: flex;
+  flex-direction: column;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 45px;
+  padding: 0 8px;
+}
+
+.brand-icon {
+  width: 42px;
+  height: 42px;
+  display: grid;
+  place-items: center;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #087eaa, #4a67e8);
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.brand h2 {
+  margin: 0;
+  font-size: 20px;
+}
+
+.brand h2 span {
+  color: #40c4e8;
+}
+
+.brand small {
+  display: block;
+  color: #8292a9;
+  font-size: 9px;
+  letter-spacing: 1.2px;
+  margin-top: 5px;
+}
+
+.menu-label {
+  color: #72839b;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  padding: 0 12px;
+  margin-bottom: 12px;
+}
+
+nav {
+  display: grid;
+  gap: 6px;
+}
+
+.nav-item {
+  border: 0;
+  background: transparent;
+  color: #a6b4c8;
+  padding: 12px;
+  border-radius: 8px;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  gap: 13px;
+  cursor: pointer;
+  font-size: 13px;
+}
+
+.nav-item span {
+  width: 18px;
+  text-align: center;
+  font-size: 17px;
+}
+
+.nav-item:hover,
+.nav-item.active {
+  background: #1c3450;
+  color: #56c9f0;
+}
+
+.sidebar-bottom {
+  margin-top: auto;
+  padding: 15px 8px;
+  color: #8fa0b6;
+  font-size: 11px;
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+
+.status-dot {
+  width: 8px;
+  height: 8px;
+  display: inline-block;
+  border-radius: 50%;
+  background: #e0a33d;
+}
+
+.main {
+  flex: 1;
+  min-width: 0;
+}
+
+.topbar {
+  height: 88px;
+  padding: 17px 34px;
+  border-bottom: 1px solid #243148;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.breadcrumb {
+  font-size: 11px;
+  color: #8191a9;
+  margin-bottom: 5px;
+}
+
+.topbar h1 {
+  margin: 0;
+  font-size: 22px;
+}
+
+.top-actions {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.system-status {
+  font-size: 12px;
+  color: #a6b5c9;
+}
+
+.avatar {
+  width: 36px;
+  height: 36px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  background: #24415d;
+  color: #63d3f0;
+  font-weight: 700;
+}
+
+.dashboard {
+  padding: 30px 34px;
+  max-width: 1500px;
+  margin: auto;
+}
+
+.welcome {
+  background: linear-gradient(115deg, #123653, #19294b 70%, #26356a);
+  border: 1px solid #2e5272;
+  border-radius: 13px;
+  padding: 28px 32px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.eyebrow {
+  color: #58c9ed !important;
+  font-size: 10px !important;
+  font-weight: 700;
+  letter-spacing: 1.6px;
+}
+
+.welcome h2 {
+  font-size: 25px;
+  margin: 10px 0;
+}
+
+.welcome p {
+  font-size: 13px;
+  color: #c0d1e2;
+  max-width: 560px;
+  line-height: 1.6;
+}
+
+.welcome-symbol {
+  width: 75px;
+  height: 75px;
+  display: grid;
+  place-items: center;
+  border: 1px solid #60c8e7;
+  border-radius: 20px;
+  color: #62d4f2;
+  font-size: 40px;
+  font-weight: 800;
+}
+
+.metrics {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 17px;
+  margin: 23px 0;
+}
+
+.metric-card,
+.panel {
+  background: #121e30;
+  border: 1px solid #26364d;
+  border-radius: 11px;
+}
+
+.metric-card {
+  padding: 19px;
+}
+
+.metric-top {
+  display: flex;
+  justify-content: space-between;
+  color: #aab8ca;
+  font-size: 12px;
+}
+
+.metric-number {
+  color: #55c5e9;
+  font-size: 15px;
+}
+
+.metric-card h2 {
+  font-size: 29px;
+  margin: 20px 0 7px;
+}
+
+.metric-card small {
+  color: #8294aa;
+  font-size: 11px;
+}
+
+.content-grid {
+  display: grid;
+  grid-template-columns: 1.6fr 1fr;
+  gap: 18px;
+}
+
+.panel {
+  padding: 21px;
+  min-height: 300px;
+}
+
+.panel-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.panel-heading h3 {
+  margin: 0;
+  font-size: 15px;
+}
+
+.panel-heading p {
+  color: #8798ae;
+  font-size: 11px;
+}
+
+.tag {
+  color: #e0b25d;
+  background: #3a3020;
+  padding: 6px 8px;
+  border-radius: 5px;
+  font-size: 9px;
+}
+
+.empty-state {
+  text-align: center;
+  padding: 38px 15px;
+}
+
+.empty-icon,
+.placeholder-icon {
+  font-size: 35px;
+  color: #51c5e8;
+}
+
+.empty-state h3 {
+  font-size: 14px;
+}
+
+.empty-state p,
+.page-placeholder p {
+  color: #8fa0b6;
+  font-size: 12px;
+  line-height: 1.7;
+}
+
+.module-list {
+  margin-top: 20px;
+}
+
+.module-row {
+  padding: 15px 4px;
+  border-bottom: 1px solid #26364d;
+  display: flex;
+  justify-content: space-between;
+  font-size: 12px;
+}
+
+.module-arrow {
+  color: #50c5e8;
+}
+
+.page-placeholder {
+  margin: 35px;
+  padding: 70px 25px;
+  text-align: center;
+  border: 1px solid #26364d;
+  border-radius: 13px;
+  background: #121e30;
+}
+
+.page-placeholder h2 {
+  margin-top: 15px;
+}
+
+.muted {
+  color: #63758d !important;
+}
+
+@media (max-width: 950px) {
+  .sidebar {
+    width: 210px;
+  }
+
+  .metrics {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .content-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 600px) {
+  .sidebar {
+    width: 68px;
+    padding: 15px 8px;
+  }
+
+  .brand {
+    padding: 0;
+    justify-content: center;
+  }
+
+  .brand > div:last-child,
+  .menu-label,
+  .nav-item:not(.active) {
+    display: none;
+  }
+
+  .nav-item {
+    justify-content: center;
+    padding: 12px 4px;
+    font-size: 0;
+  }
+
+  .nav-item span {
+    font-size: 18px;
+  }
+
+  .sidebar-bottom {
+    font-size: 0;
+    justify-content: center;
+  }
+
+  .dashboard {
+    padding: 18px;
+  }
+
+  .topbar {
+    padding: 15px;
+  }
+
+  .metrics {
+    grid-template-columns: 1fr;
+  }
+
+  .welcome-symbol {
+    display: none;
+  }
+}
+
+
+/* Dashboard interactive buttons */
+
+.module-row {
+  width: 100%;
+  background: transparent;
+  color: #e8edf7;
+  border: 0;
+  border-bottom: 1px solid #26364d;
+  padding: 17px 4px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: left;
+  font-size: 12px;
+  cursor: pointer;
+  transition: 0.2s ease;
+}
+
+.module-row:hover {
+  color: #55c5e9;
+  padding-left: 10px;
+  background: #192b40;
+}
+
+.module-arrow {
+  color: #50c5e8;
+}
+
+.action-button {
+  background: #1c3450;
+  color: #56c9f0;
+  border: 1px solid #34759a;
+  border-radius: 6px;
+  padding: 10px 18px;
+  cursor: pointer;
+  font-size: 12px;
+  transition: 0.2s ease;
+}
+
+.action-button:hover {
+  background: #285071;
+  transform: translateY(-2px);
+}
+
+.error-message {
+  color: #ff8585;
+  margin-top: 20px;
+}
+
+.table-wrapper {
+  width: 100%;
+  overflow-x: auto;
+  margin-top: 25px;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+  font-size: 12px;
+}
+
+.data-table th,
+.data-table td {
+  padding: 13px;
+  border-bottom: 1px solid #26364d;
+  white-space: nowrap;
+}
+
+.data-table th {
+  color: #56c9f0;
+  text-transform: capitalize;
+}
+
+.data-table td {
+  color: #b9c6d8;
+}
+
+.data-table tr:hover {
+  background: #192b40;
+}
+
+
+.data-search {
+  width: 100%;
+  margin: 25px 0 15px;
+  padding: 12px 15px;
+  background: #0b1728;
+  color: #e8edf7;
+  border: 1px solid #26364d;
+  border-radius: 7px;
+  outline: none;
+  font-size: 12px;
+}
+
+.data-search:focus {
+  border-color: #50c5e8;
+}
+
+.data-search::placeholder {
+  color: #8294aa;
+}
+
+.data-page {
+  text-align: left;
+  overflow: hidden;
+}
+
+
+
+.product-form-panel {
+  margin-top: 20px;
+  padding: 24px;
+}
+
+.product-form-panel h3 {
+  margin: 0 0 20px;
+}
+
+.product-form {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.product-form label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.product-form input:not([type="checkbox"]),
+.product-form select {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 11px 12px;
+  border: 1px solid #35445c;
+  border-radius: 7px;
+  background: #111d30;
+  color: #ffffff;
+  font: inherit;
+}
+
+.product-form input:focus,
+.product-form select:focus {
+  outline: 2px solid #438cf5;
+}
+
+.product-form .product-active-option {
+  flex-direction: row;
+  align-items: center;
+}
+
+.product-form .error-message {
+  grid-column: 1 / -1;
+}
+
+@media (max-width: 650px) {
+  .product-form {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
+/* Better spacing for page action buttons */
+
+.page-actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.page-actions .action-button {
+  margin: 0;
+  min-width: 88px;
+}
+
+.page-actions .tag {
+  margin-right: 2px;
+}
+
+.product-form-panel {
+  margin-top: 22px;
+}
+
+.product-form {
+  row-gap: 20px;
+  column-gap: 18px;
+}
+
+.product-form label {
+  min-width: 0;
+}
+
+.product-form input:not([type="checkbox"]),
+.product-form select {
+  min-height: 48px;
+}
+
+.product-form button {
+  align-self: end;
+}
+
+@media (max-width: 650px) {
+  .page-actions {
+    justify-content: flex-start;
+  }
+}
+
+
+
+/* =========================================
+   FIXED SIDEBAR AND PAGE SCROLL BEHAVIOR
+   ========================================= */
+
+.app {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.sidebar {
+  flex: 0 0 255px;
+  width: 255px;
+  height: 100vh;
+  min-height: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+.main {
+  flex: 1;
+  min-width: 0;
+  height: 100vh;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.topbar {
+  flex: 0 0 88px;
+  height: 88px;
+  position: relative;
+  z-index: 5;
+  background: #0b1120;
+}
+
+/* Dashboard: normal content layout, no nested scrollbar */
+.main:has(> .dashboard) {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.main:has(> .dashboard) > .dashboard {
+  flex: 0 0 auto;
+  overflow: visible;
+}
+
+/* Other pages: only their content scrolls */
+.main > .page-placeholder {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+}
+
+.main .data-page {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.main .table-wrapper {
+  max-width: 100%;
+  overflow-x: auto;
+  overflow-y: visible;
+}
+
+/* Responsive sidebar width */
+@media (max-width: 950px) {
+  .sidebar {
+    flex-basis: 210px;
+    width: 210px;
+  }
+}
+
+@media (max-width: 600px) {
+  .sidebar {
+    flex-basis: 68px;
+    width: 68px;
+  }
+}
+
+
+/* Dashboard: use the available page width */
+.dashboard {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding: 24px 28px;
+}
+
+/* Use the available width for dashboard sections */
+.welcome,
+.metrics,
+.content-grid {
+  width: 100%;
+}
+
+.metrics {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.content-grid {
+  grid-template-columns: 1.6fr 1fr;
+}
+
+/* Keep dashboard cards comfortable on smaller screens */
+@media (max-width: 950px) {
+  .dashboard {
+    padding: 22px;
+  }
+}
+
+@media (max-width: 650px) {
+  .dashboard {
+    padding: 16px;
+  }
+
+  .metrics {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .content-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+
+/* Scrollable application layout */
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+  margin: 0;
+}
+
+body,
+#root {
+  overflow: hidden;
+}
+
+.app {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  min-height: 0;
+  overflow: hidden;
+}
+
+.sidebar {
+  flex: 0 0 255px;
+  height: 100vh;
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+.main {
+  flex: 1 1 auto;
+  min-width: 0;
+  height: 100vh;
+  min-height: 0;
+  overflow-x: hidden;
+  overflow-y: auto;
+  overscroll-behavior-y: contain;
+}
+
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: #0b1120;
+}
+
+.main:has(> .dashboard) {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+.main:has(> .dashboard) > .dashboard {
+  width: 100%;
+  height: auto;
+  min-height: 0;
+  max-width: 1500px;
+  margin: 0 auto;
+  padding: 30px 34px;
+  display: block;
+  overflow: visible;
+}
+
+@media (max-width: 950px) {
+  .main:has(> .dashboard) > .dashboard {
+    padding: 18px;
+  }
+}
+
+
+/* Hide scrollbar chrome while preserving mouse, touchpad and keyboard scrolling. */
+html, body, #root, .sidebar, .main, .table-wrapper {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+html::-webkit-scrollbar,
+body::-webkit-scrollbar,
+#root::-webkit-scrollbar,
+.sidebar::-webkit-scrollbar,
+.main::-webkit-scrollbar,
+.table-wrapper::-webkit-scrollbar {
+  display: none;
+  width: 0;
+  height: 0;
+}
+
+.form-checkbox {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #a6b4c8;
+}
+.form-checkbox input {
+  width: auto;
+  accent-color: #40c4e8;
+}
+.form-actions, .row-actions {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.text-action {
+  border: 0;
+  background: transparent;
+  color: #56c9f0;
+  cursor: pointer;
+  padding: 6px 8px;
+}
+.text-action.danger { color: #ff7b8f; }
+.text-action:hover { text-decoration: underline; }
+.action-button.secondary {
+  background: #263449;
+  border-color: #40516a;
+}

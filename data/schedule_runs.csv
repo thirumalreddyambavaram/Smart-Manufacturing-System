@@ -1,0 +1,2 @@
+id,run_code,started_at,completed_at,status,algorithm,random_seed,notes
+17,RUN-000001,2026-11-08 02:54:17,2026-11-08 02:56:07,COMPLETED,HEURISTIC,,Scheduled: 10000 operations across 500 orders; Unscheduled: 0 operations; Material shortages: 0; Total changeover: 287308 mins.

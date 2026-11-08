@@ -1,0 +1,53 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Local backups
+backups/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+*.zip
+
+backend/app/services_backup/
+# Private configuration
+.env
+.env.*
+
+# Python environment and cache
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+
+# Frontend dependencies and builds
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# Database backups and local database files
+backups/
+*.sql
+*.db
+
+# Local generated data and temporary files
+temp_repro_run*/
+
+!.env.example

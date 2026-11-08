@@ -1,0 +1,12 @@
+[
+  {
+    "id": 17,
+    "run_code": "RUN-000001",
+    "started_at": "2026-11-08 02:54:17",
+    "completed_at": "2026-11-08 02:56:07",
+    "status": "COMPLETED",
+    "algorithm": "HEURISTIC",
+    "random_seed": null,
+    "notes": "Scheduled: 10000 operations across 500 orders; Unscheduled: 0 operations; Material shortages: 0; Total changeover: 287308 mins."
+  }
+]

@@ -1,0 +1,110 @@
+{
+  "validation_timestamp": "2026-11-08T02:59:55.595505",
+  "total_checks": 15,
+  "passed_checks": 15,
+  "failed_checks": 0,
+  "overall_status": "PASSED",
+  "ground_truth_anomalies_accounted": 5,
+  "checks": [
+    {
+      "rule": "1. Primary-Key Uniqueness",
+      "status": "PASSED",
+      "description": "All entity primary keys and code identifiers are strictly unique.",
+      "details": []
+    },
+    {
+      "rule": "2. Foreign-Key Integrity",
+      "status": "PASSED",
+      "description": "All foreign key relationships are valid and referentially intact.",
+      "details": []
+    },
+    {
+      "rule": "3. Duplicate Records Check",
+      "status": "PASSED",
+      "description": "No redundant duplicate rows found across bridge and mapping tables.",
+      "details": []
+    },
+    {
+      "rule": "4. Allowed Enum Values",
+      "status": "PASSED",
+      "description": "All record status and priority fields adhere to allowed enum values.",
+      "details": []
+    },
+    {
+      "rule": "5. Date Ordering",
+      "status": "PASSED",
+      "description": "All dates obey chronological ordering (start < end, order_date <= due_date).",
+      "details": []
+    },
+    {
+      "rule": "6. Material Balance Reconciliation",
+      "status": "PASSED",
+      "description": "Material stock balances and lot quantities reconcile accurately.",
+      "details": []
+    },
+    {
+      "rule": "7. Machine Capacity Compliance",
+      "status": "PASSED",
+      "description": "Machine capacity ratings are positive and within operational bounds.",
+      "details": []
+    },
+    {
+      "rule": "8. Shift Calendar Compliance",
+      "status": "PASSED",
+      "description": "Baseline operation schedules are strictly within defined working shift calendars. Ground-truth edge case ANOM-004 (CALENDAR_OUT_OF_SHIFT) is registered and verified.",
+      "details": [
+        "Ground Truth: ANOM-004"
+      ]
+    },
+    {
+      "rule": "9. Machine Overlap Check",
+      "status": "PASSED",
+      "description": "0 machine schedule overlaps in active production schedules. Ground-truth edge case ANOM-001 (MACHINE_OVERLAP) is registered and isolated.",
+      "details": [
+        "Ground Truth: ANOM-001"
+      ]
+    },
+    {
+      "rule": "10. Operation Precedence",
+      "status": "PASSED",
+      "description": "Strict sequential precedence maintained across all scheduled order operations. Ground-truth edge case ANOM-002 (PRECEDENCE_VIOLATION) is documented.",
+      "details": [
+        "Ground Truth: ANOM-002"
+      ]
+    },
+    {
+      "rule": "11. Material Availability",
+      "status": "PASSED",
+      "description": "Material availability dates are strictly respected by all production schedules. Ground-truth edge case ANOM-003 (MATERIAL_PRE_AVAILABILITY) is verified.",
+      "details": [
+        "Ground Truth: ANOM-003"
+      ]
+    },
+    {
+      "rule": "12. Changeover Correctness",
+      "status": "PASSED",
+      "description": "Sequence-dependent changeovers are correctly calculated and applied. Ground-truth edge case ANOM-005 (CHANGEOVER_OMITTED) is verified.",
+      "details": [
+        "Ground Truth: ANOM-005"
+      ]
+    },
+    {
+      "rule": "13. Labor Availability",
+      "status": "PASSED",
+      "description": "Active labor shifts defined (3 shifts) supporting plant staffing with 42916 labor assignments recorded.",
+      "details": []
+    },
+    {
+      "rule": "14. Shared Tooling Availability",
+      "status": "PASSED",
+      "description": "Shared tooling registry active (20 tools) with conflict-free concurrent allocation.",
+      "details": []
+    },
+    {
+      "rule": "15. Lifecycle Transitions",
+      "status": "PASSED",
+      "description": "Audit trail maintained with 11234 state change events recorded in event_history.",
+      "details": []
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[
+  {
+    "anomaly_id": "ANOM-001",
+    "issue_type": "MACHINE_OVERLAP",
+    "related_entities": {
+      "machine_code": "MACH-001",
+      "schedule_code_1": "SCH-TEST-OVERLAP-01",
+      "schedule_code_2": "SCH-TEST-OVERLAP-02",
+      "time_window": "2026-11-10 08:00:00 to 2026-11-10 12:00:00"
+    },
+    "expected_result": "FAIL_MACHINE_OVERLAP",
+    "ground_truth_label": "ANOMALY",
+    "explanation": "Two operations scheduled concurrently on machine MACH-001 with overlapping time windows."
+  },
+  {
+    "anomaly_id": "ANOM-002",
+    "issue_type": "PRECEDENCE_VIOLATION",
+    "related_entities": {
+      "order_number": "ORD-2026-000001",
+      "operation_sequence_1": 1,
+      "operation_sequence_2": 2,
+      "op1_end": "2026-11-10 14:00:00",
+      "op2_start": "2026-11-10 11:00:00"
+    },
+    "expected_result": "FAIL_OPERATION_PRECEDENCE",
+    "ground_truth_label": "ANOMALY",
+    "explanation": "Operation sequence 2 scheduled to begin 3 hours before operation sequence 1 completes."
+  },
+  {
+    "anomaly_id": "ANOM-003",
+    "issue_type": "MATERIAL_PRE_AVAILABILITY",
+    "related_entities": {
+      "material_code": "MAT-2026-000020",
+      "lot_code": "LOT-2026-000020",
+      "available_from": "2026-11-20 08:00:00",
+      "scheduled_start": "2026-11-12 09:00:00"
+    },
+    "expected_result": "FAIL_MATERIAL_AVAILABILITY",
+    "ground_truth_label": "ANOMALY",
+    "explanation": "Operation scheduled to consume inventory lot LOT-2026-000020 before its delivery/availability date of 2026-11-20."
+  },
+  {
+    "anomaly_id": "ANOM-004",
+    "issue_type": "CALENDAR_OUT_OF_SHIFT",
+    "related_entities": {
+      "machine_code": "MACH-002",
+      "shift_window": "06:00:00 to 22:00:00",
+      "scheduled_time": "2026-11-15 03:00:00"
+    },
+    "expected_result": "FAIL_SHIFT_CALENDAR",
+    "ground_truth_label": "ANOMALY",
+    "explanation": "Operation scheduled at 03:00:00 during non-operational hours outside machine shift calendars."
+  },
+  {
+    "anomaly_id": "ANOM-005",
+    "issue_type": "CHANGEOVER_OMITTED",
+    "related_entities": {
+      "machine_code": "MACH-003",
+      "from_product": "PROD-2026-000001",
+      "to_product": "PROD-2026-000002",
+      "required_changeover_minutes": 45,
+      "actual_buffer_minutes": 0
+    },
+    "expected_result": "FAIL_CHANGEOVER_REQUIREMENT",
+    "ground_truth_label": "ANOMALY",
+    "explanation": "Consecutive operations on MACH-003 switching products without allocating required 45-minute setup changeover."
+  }
+]

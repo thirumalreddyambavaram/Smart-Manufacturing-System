@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "machine_code": "MACH-001",
+    "machine_name": "CNC Workstation 001",
+    "machine_type": "CNC",
+    "capacity_per_hour": 25,
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "machine_code": "MACH-002",
+    "machine_name": "CUTTING Workstation 002",
+    "machine_type": "CUTTING",
+    "capacity_per_hour": 40,
+    "is_active": true
+  },
+  {
+    "id": 3,
+    "machine_code": "MACH-003",
+    "machine_name": "MILLING Workstation 003",
+    "machine_type": "MILLING",
+    "capacity_per_hour": 25,
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "machine_code": "MACH-004",
+    "machine_name": "TURNING Workstation 004",
+    "machine_type": "TURNING",
+    "capacity_per_hour": 20,
+    "is_active": true
+  },
+  {
+    "id": 5,
+    "machine_code": "MACH-005",
+    "machine_name": "DRILLING Workstation 005",
+    "machine_type": "DRILLING",
+    "capacity_per_hour": 15,
+    "is_active": true
+  },
+  {
+    "id": 6,
+    "machine_code": "MACH-006",
+    "machine_name": "WELDING Workstation 006",
+    "machine_type": "WELDING",
+    "capacity_per_hour": 20,
+    "is_active": true
+  },
+  {
+    "id": 7,
+    "machine_code": "MACH-007",
+    "machine_name": "ASSEMBLY Workstation 007",
+    "machine_type": "ASSEMBLY",
+    "capacity_per_hour": 20,
+    "is_active": true
+  },
+  {
+    "id": 8,
+    "machine_code": "MACH-008",
+    "machine_name": "FINISHING Workstation 008",
+    "machine_type": "FINISHING",
+    "capacity_per_hour": 20,
+    "is_active": true
+  },
+  {
+    "id": 9,
+    "machine_code": "MACH-009",
+    "machine_name": "CNC Workstation 009",
+    "machine_type": "CNC",
+    "capacity_per_hour": 15,
+    "is_active": true
+  },
+  {
+    "id": 10,
+    "machine_code": "MACH-010",
+    "machine_name": "CUTTING Workstation 010",
+    "machine_type": "CUTTING",
+    "capacity_per_hour": 40,
+    "is_active": true
+  },
+  {
+    "id": 11,
+    "machine_code": "MACH-011",
+    "machine_name": "MILLING Workstation 011",
+    "machine_type": "MILLING",
+    "capacity_per_hour": 20,
+    "is_active": true
+  },
+  {
+    "id": 12,
+    "machine_code": "MACH-012",
+    "machine_name": "TURNING Workstation 012",
+    "machine_type": "TURNING",
+    "capacity_per_hour": 15,
+    "is_active": true
+  },
+  {
+    "id": 13,
+    "machine_code": "MACH-013",
+    "machine_name": "DRILLING Workstation 013",
+    "machine_type": "DRILLING",
+    "capacity_per_hour": 20,
+    "is_active": true
+  },
+  {
+    "id": 14,
+    "machine_code": "MACH-014",
+    "machine_name": "WELDING Workstation 014",
+    "machine_type": "WELDING",
+    "capacity_per_hour": 20,
+    "is_active": true
+  },
+  {
+    "id": 15,
+    "machine_code": "MACH-015",
+    "machine_name": "ASSEMBLY Workstation 015",
+    "machine_type": "ASSEMBLY",
+    "capacity_per_hour": 25,
+    "is_active": true
+  },
+  {
+    "id": 16,
+    "machine_code": "MACH-016",
+    "machine_name": "FINISHING Workstation 016",
+    "machine_type": "FINISHING",
+    "capacity_per_hour": 40,
+    "is_active": true
+  },
+  {
+    "id": 17,
+    "machine_code": "MACH-017",
+    "machine_name": "CNC Workstation 017",
+    "machine_type": "CNC",
+    "capacity_per_hour": 15,
+    "is_active": true
+  },
+  {
+    "id": 18,
+    "machine_code": "MACH-018",
+    "machine_name": "CUTTING Workstation 018",
+    "machine_type": "CUTTING",
+    "capacity_per_hour": 20,
+    "is_active": true
+  },
+  {
+    "id": 19,
+    "machine_code": "MACH-019",
+    "machine_name": "MILLING Workstation 019",
+    "machine_type": "MILLING",
+    "capacity_per_hour": 20,
+    "is_active": true
+  },
+  {
+    "id": 20,
+    "machine_code": "MACH-020",
+    "machine_name": "TURNING Workstation 020",
+    "machine_type": "TURNING",
+    "capacity_per_hour": 40,
+    "is_active": true
+  },
+  {
+    "id": 21,
+    "machine_code": "MACH-021",
+    "machine_name": "DRILLING Workstation 021",
+    "machine_type": "DRILLING",
+    "capacity_per_hour": 15,
+    "is_active": true
+  },
+  {
+    "id": 22,
+    "machine_code": "MACH-022",
+    "machine_name": "WELDING Workstation 022",
+    "machine_type": "WELDING",
+    "capacity_per_hour": 20,
+    "is_active": true
+  },
+  {
+    "id": 23,
+    "machine_code": "MACH-023",
+    "machine_name": "ASSEMBLY Workstation 023",
+    "machine_type": "ASSEMBLY",
+    "capacity_per_hour": 40,
+    "is_active": true
+  },
+  {
+    "id": 24,
+    "machine_code": "MACH-024",
+    "machine_name": "FINISHING Workstation 024",
+    "machine_type": "FINISHING",
+    "capacity_per_hour": 30,
+    "is_active": true
+  },
+  {
+    "id": 25,
+    "machine_code": "MACH-025",
+    "machine_name": "CNC Workstation 025",
+    "machine_type": "CNC",
+    "capacity_per_hour": 15,
+    "is_active": true
+  },
+  {
+    "id": 26,
+    "machine_code": "MACH-026",
+    "machine_name": "CUTTING Workstation 026",
+    "machine_type": "CUTTING",
+    "capacity_per_hour": 40,
+    "is_active": true
+  },
+  {
+    "id": 27,
+    "machine_code": "MACH-027",
+    "machine_name": "MILLING Workstation 027",
+    "machine_type": "MILLING",
+    "capacity_per_hour": 15,
+    "is_active": true
+  },
+  {
+    "id": 28,
+    "machine_code": "MACH-028",
+    "machine_name": "TURNING Workstation 028",
+    "machine_type": "TURNING",
+    "capacity_per_hour": 25,
+    "is_active": true
+  },
+  {
+    "id": 29,
+    "machine_code": "MACH-029",
+    "machine_name": "DRILLING Workstation 029",
+    "machine_type": "DRILLING",
+    "capacity_per_hour": 20,
+    "is_active": true
+  },
+  {
+    "id": 30,
+    "machine_code": "MACH-030",
+    "machine_name": "WELDING Workstation 030",
+    "machine_type": "WELDING",
+    "capacity_per_hour": 40,
+    "is_active": true
+  },
+  {
+    "id": 31,
+    "machine_code": "MACH-031",
+    "machine_name": "ASSEMBLY Workstation 031",
+    "machine_type": "ASSEMBLY",
+    "capacity_per_hour": 25,
+    "is_active": true
+  },
+  {
+    "id": 32,
+    "machine_code": "MACH-032",
+    "machine_name": "FINISHING Workstation 032",
+    "machine_type": "FINISHING",
+    "capacity_per_hour": 30,
+    "is_active": true
+  },
+  {
+    "id": 33,
+    "machine_code": "MACH-033",
+    "machine_name": "CNC Workstation 033",
+    "machine_type": "CNC",
+    "capacity_per_hour": 15,
+    "is_active": true
+  },
+  {
+    "id": 34,
+    "machine_code": "MACH-034",
+    "machine_name": "CUTTING Workstation 034",
+    "machine_type": "CUTTING",
+    "capacity_per_hour": 15,
+    "is_active": true
+  },
+  {
+    "id": 35,
+    "machine_code": "MACH-035",
+    "machine_name": "MILLING Workstation 035",
+    "machine_type": "MILLING",
+    "capacity_per_hour": 20,
+    "is_active": true
+  },
+  {
+    "id": 36,
+    "machine_code": "MACH-036",
+    "machine_name": "TURNING Workstation 036",
+    "machine_type": "TURNING",
+    "capacity_per_hour": 20,
+    "is_active": true
+  },
+  {
+    "id": 37,
+    "machine_code": "MACH-037",
+    "machine_name": "DRILLING Workstation 037",
+    "machine_type": "DRILLING",
+    "capacity_per_hour": 30,
+    "is_active": true
+  },
+  {
+    "id": 38,
+    "machine_code": "MACH-038",
+    "machine_name": "WELDING Workstation 038",
+    "machine_type": "WELDING",
+    "capacity_per_hour": 15,
+    "is_active": true
+  },
+  {
+    "id": 39,
+    "machine_code": "MACH-039",
+    "machine_name": "ASSEMBLY Workstation 039",
+    "machine_type": "ASSEMBLY",
+    "capacity_per_hour": 15,
+    "is_active": true
+  },
+  {
+    "id": 40,
+    "machine_code": "MACH-040",
+    "machine_name": "FINISHING Workstation 040",
+    "machine_type": "FINISHING",
+    "capacity_per_hour": 40,
+    "is_active": true
+  }
+]
